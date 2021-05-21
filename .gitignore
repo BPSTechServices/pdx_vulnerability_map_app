@@ -1,9 +1,13 @@
+# README preview files
+README.html
+
 # History files
 .Rhistory
-.Rapp.history
+.Rapp.history 
 
 # Session Data files
 .RData
+.RDataTmp
 
 # User-specific files
 .Ruserdata
@@ -37,3 +41,17 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Shiny
+rsconnect/
+/rsconnect
+
+# OS generated files 
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.DS_Store
