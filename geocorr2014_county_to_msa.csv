@@ -1,0 +1,3145 @@
+"county","cbsa","cntyname","cbsaname15","pop14","afact"
+"County code","CBSA current as of CBSAyr","County name","2015 CBSA name","Pop 2014 estimate from county-level estimates","county to cbsa allocation factor"
+"01001","33860","Autauga AL","Montgomery, AL (Metro)",55395,1 
+"01003","19300","Baldwin AL","Daphne-Fairhope-Foley, AL (Metro)",200111,1 
+"01005","21640","Barbour AL","Eufaula, AL-GA (Micro)",26887,1 
+"01007","13820","Bibb AL","Birmingham-Hoover, AL (Metro)",22506,1 
+"01009","13820","Blount AL","Birmingham-Hoover, AL (Metro)",57719,1 
+"01011"," ","Bullock AL"," ",10764,1 
+"01013"," ","Butler AL"," ",20296,1 
+"01015","11500","Calhoun AL","Anniston-Oxford-Jacksonville, AL (Metro)",115916,1 
+"01017","46740","Chambers AL","Valley, AL (Micro)",34076,1 
+"01019"," ","Cherokee AL"," ",26037,1 
+"01021","13820","Chilton AL","Birmingham-Hoover, AL (Metro)",43931,1 
+"01023"," ","Choctaw AL"," ",13323,1 
+"01025"," ","Clarke AL"," ",24945,1 
+"01027"," ","Clay AL"," ",13552,1 
+"01029"," ","Cleburne AL"," ",15080,1 
+"01031","21460","Coffee AL","Enterprise, AL (Micro)",50909,1 
+"01033","22520","Colbert AL","Florence-Muscle Shoals, AL (Metro)",54543,1 
+"01035"," ","Conecuh AL"," ",12670,1 
+"01037","45180","Coosa AL","Talladega-Sylacauga, AL (Micro)",10886,1 
+"01039"," ","Covington AL"," ",37914,1 
+"01041"," ","Crenshaw AL"," ",13977,1 
+"01043","18980","Cullman AL","Cullman, AL (Micro)",81289,1 
+"01045","37120","Dale AL","Ozark, AL (Micro)",49484,1 
+"01047","42820","Dallas AL","Selma, AL (Micro)",41711,1 
+"01049","22840","DeKalb AL","Fort Payne, AL (Micro)",71065,1 
+"01051","33860","Elmore AL","Montgomery, AL (Metro)",80977,1 
+"01053","12120","Escambia AL","Atmore, AL (Micro)",37733,1 
+"01055","23460","Etowah AL","Gadsden, AL (Metro)",103531,1 
+"01057"," ","Fayette AL"," ",16874,1 
+"01059"," ","Franklin AL"," ",31601,1 
+"01061","20020","Geneva AL","Dothan, AL (Metro)",26712,1 
+"01063"," ","Greene AL"," ",8553,1 
+"01065","46220","Hale AL","Tuscaloosa, AL (Metro)",15184,1 
+"01067","20020","Henry AL","Dothan, AL (Metro)",17190,1 
+"01069","20020","Houston AL","Dothan, AL (Metro)",104193,1 
+"01071","42460","Jackson AL","Scottsboro, AL (Micro)",52665,1 
+"01073","13820","Jefferson AL","Birmingham-Hoover, AL (Metro)",660793,1 
+"01075"," ","Lamar AL"," ",14086,1 
+"01077","22520","Lauderdale AL","Florence-Muscle Shoals, AL (Metro)",93096,1 
+"01079","19460","Lawrence AL","Decatur, AL (Metro)",33477,1 
+"01081","12220","Lee AL","Auburn-Opelika, AL (Metro)",154255,1 
+"01083","26620","Limestone AL","Huntsville, AL (Metro)",90787,1 
+"01085","33860","Lowndes AL","Montgomery, AL (Metro)",10580,1 
+"01087"," ","Macon AL"," ",19425,1 
+"01089","26620","Madison AL","Huntsville, AL (Metro)",350299,1 
+"01091"," ","Marengo AL"," ",20110,1 
+"01093"," ","Marion AL"," ",30271,1 
+"01095","10700","Marshall AL","Albertville, AL (Micro)",94636,1 
+"01097","33660","Mobile AL","Mobile, AL (Metro)",415123,1 
+"01099"," ","Monroe AL"," ",21947,1 
+"01101","33860","Montgomery AL","Montgomery, AL (Metro)",226189,1 
+"01103","19460","Morgan AL","Decatur, AL (Metro)",119607,1 
+"01105"," ","Perry AL"," ",9826,1 
+"01107","46220","Pickens AL","Tuscaloosa, AL (Metro)",20365,1 
+"01109","45980","Pike AL","Troy, AL (Micro)",33389,1 
+"01111"," ","Randolph AL"," ",22539,1 
+"01113","17980","Russell AL","Columbus, GA-AL (Metro)",59608,1 
+"01115","13820","St. Clair AL","Birmingham-Hoover, AL (Metro)",86697,1 
+"01117","13820","Shelby AL","Birmingham-Hoover, AL (Metro)",206655,1 
+"01119"," ","Sumter AL"," ",13166,1 
+"01121","45180","Talladega AL","Talladega-Sylacauga, AL (Micro)",81322,1 
+"01123","10760","Tallapoosa AL","Alexander City, AL (Micro)",41165,1 
+"01125","46220","Tuscaloosa AL","Tuscaloosa, AL (Metro)",202212,1 
+"01127","13820","Walker AL","Birmingham-Hoover, AL (Metro)",65471,1 
+"01129"," ","Washington AL"," ",16834,1 
+"01131"," ","Wilcox AL"," ",11098,1 
+"01133"," ","Winston AL"," ",24150,1 
+"02013"," ","Aleutians East Borough AK"," ",3360,1 
+"02016"," ","Aleutians West Census Area AK"," ",5750,1 
+"02020","11260","Anchorage Borough AK","Anchorage, AK (Metro)",301010,1 
+"02050"," ","Bethel Census Area AK"," ",17868,1 
+"02060"," ","Bristol Bay Borough AK"," ",957,1 
+"02068"," ","Denali Borough AK"," ",1921,1 
+"02070"," ","Dillingham Census Area AK"," ",4988,1 
+"02090","21820","Fairbanks North Star Borough AK","Fairbanks, AK (Metro)",99357,1 
+"02100"," ","Haines Borough AK"," ",2566,1 
+"02105"," ","Hoonah-Angoon Census Area"," ",2082,1 
+"02110","27940","Juneau Borough AK","Juneau, AK (Micro)",32406,1 
+"02122"," ","Kenai Peninsula Borough AK"," ",57477,1 
+"02130","28540","Ketchikan Gateway Borough AK","Ketchikan, AK (Micro)",13787,1 
+"02150"," ","Kodiak Island Borough AK"," ",13986,1 
+"02164"," ","Lake and Peninsula Borough AK"," ",1631,1 
+"02170","11260","Matanuska-Susitna Borough AK","Anchorage, AK (Metro)",97882,1 
+"02180"," ","Nome Census Area AK"," ",9817,1 
+"02185"," ","North Slope Borough AK"," ",9703,1 
+"02188"," ","Northwest Arctic Borough AK"," ",7717,1 
+"02195"," ","Petersburg Census Area"," ",3160,1 
+"02198"," ","Prince of Wales-Hyder Census Area"," ",6396,1 
+"02220"," ","Sitka Borough AK"," ",8900,1 
+"02230"," ","Skagway Municipality"," ",1036,1 
+"02240"," ","Southeast Fairbanks Census Area AK"," ",6931,1 
+"02261"," ","Valdez-Cordova Census Area AK"," ",9488,1 
+"02270"," ","Wade Hampton Census Area AK (D)"," ",8010,1 
+"02275"," ","Wrangell City and Borough"," ",2364,1 
+"02282"," ","Yakutat Borough"," ",635,1 
+"02290"," ","Yukon-Koyukuk Census Area AK"," ",5547,1 
+"04001"," ","Apache AZ"," ",71828,1 
+"04003","43420","Cochise AZ","Sierra Vista-Douglas, AZ (Metro)",127448,1 
+"04005","22380","Coconino AZ","Flagstaff, AZ (Metro)",137682,1 
+"04007","37740","Gila AZ","Payson, AZ (Micro)",53119,1 
+"04009","40940","Graham AZ","Safford, AZ (Micro)",37957,1 
+"04011"," ","Greenlee AZ"," ",9346,1 
+"04012"," ","La Paz AZ"," ",20231,1 
+"04013","38060","Maricopa AZ","Phoenix-Mesa-Scottsdale, AZ (Metro)",4087191,1 
+"04015","29420","Mohave AZ","Lake Havasu City-Kingman, AZ (Metro)",203361,1 
+"04017","43320","Navajo AZ","Show Low, AZ (Micro)",108101,1 
+"04019","46060","Pima AZ","Tucson, AZ (Metro)",1004516,1 
+"04021","38060","Pinal AZ","Phoenix-Mesa-Scottsdale, AZ (Metro)",401918,1 
+"04023","35700","Santa Cruz AZ","Nogales, AZ (Micro)",46695,1 
+"04025","39140","Yavapai AZ","Prescott, AZ (Metro)",218844,1 
+"04027","49740","Yuma AZ","Yuma, AZ (Metro)",203247,1 
+"05001"," ","Arkansas AR"," ",18594,1 
+"05003"," ","Ashley AR"," ",20948,1 
+"05005","34260","Baxter AR","Mountain Home, AR (Micro)",40857,1 
+"05007","22220","Benton AR","Fayetteville-Springdale-Rogers, AR-MO (Metro)",242321,1 
+"05009","25460","Boone AR","Harrison, AR (Micro)",37196,1 
+"05011"," ","Bradley AR"," ",11148,1 
+"05013","15780","Calhoun AR","Camden, AR (Micro)",5202,1 
+"05015"," ","Carroll AR"," ",27744,1 
+"05017"," ","Chicot AR"," ",11180,1 
+"05019","11660","Clark AR","Arkadelphia, AR (Micro)",22576,1 
+"05021"," ","Clay AR"," ",15118,1 
+"05023"," ","Cleburne AR"," ",25634,1 
+"05025","38220","Cleveland AR","Pine Bluff, AR (Metro)",8449,1 
+"05027","31620","Columbia AR","Magnolia, AR (Micro)",23933,1 
+"05029"," ","Conway AR"," ",21083,1 
+"05031","27860","Craighead AR","Jonesboro, AR (Metro)",102518,1 
+"05033","22900","Crawford AR","Fort Smith, AR-OK (Metro)",61697,1 
+"05035","32820","Crittenden AR","Memphis, TN-MS-AR (Metro)",49548,1 
+"05037"," ","Cross AR"," ",17227,1 
+"05039"," ","Dallas AR"," ",7755,1 
+"05041"," ","Desha AR"," ",12264,1 
+"05043"," ","Drew AR"," ",18622,1 
+"05045","30780","Faulkner AR","Little Rock-North Little Rock-Conway, AR (Metro)",120768,1 
+"05047"," ","Franklin AR"," ",17805,1 
+"05049"," ","Fulton AR"," ",12125,1 
+"05051","26300","Garland AR","Hot Springs, AR (Metro)",97322,1 
+"05053","30780","Grant AR","Little Rock-North Little Rock-Conway, AR (Metro)",18144,1 
+"05055","37500","Greene AR","Paragould, AR (Micro)",43694,1 
+"05057","26260","Hempstead AR","Hope, AR (Micro)",22327,1 
+"05059","31680","Hot Spring AR","Malvern, AR (Micro)",33368,1 
+"05061"," ","Howard AR"," ",13500,1 
+"05063","12900","Independence AR","Batesville, AR (Micro)",36959,1 
+"05065"," ","Izard AR"," ",13486,1 
+"05067"," ","Jackson AR"," ",17534,1 
+"05069","38220","Jefferson AR","Pine Bluff, AR (Metro)",72297,1 
+"05071"," ","Johnson AR"," ",26005,1 
+"05073"," ","Lafayette AR"," ",7111,1 
+"05075"," ","Lawrence AR"," ",16931,1 
+"05077"," ","Lee AR"," ",9860,1 
+"05079","38220","Lincoln AR","Pine Bluff, AR (Metro)",13970,1 
+"05081","45500","Little River AR","Texarkana, TX-AR (Metro)",12532,1 
+"05083"," ","Logan AR"," ",21958,1 
+"05085","30780","Lonoke AR","Little Rock-North Little Rock-Conway, AR (Metro)",71557,1 
+"05087","22220","Madison AR","Fayetteville-Springdale-Rogers, AR-MO (Metro)",15740,1 
+"05089"," ","Marion AR"," ",16367,1 
+"05091","45500","Miller AR","Texarkana, TX-AR (Metro)",43428,1 
+"05093","14180","Mississippi AR","Blytheville, AR (Micro)",44235,1 
+"05095"," ","Monroe AR"," ",7582,1 
+"05097"," ","Montgomery AR"," ",9082,1 
+"05099","26260","Nevada AR","Hope, AR (Micro)",8723,1 
+"05101","25460","Newton AR","Harrison, AR (Micro)",7904,1 
+"05103","15780","Ouachita AR","Camden, AR (Micro)",24828,1 
+"05105","30780","Perry AR","Little Rock-North Little Rock-Conway, AR (Metro)",10245,1 
+"05107","25760","Phillips AR","Helena-West Helena, AR (Micro)",19930,1 
+"05109"," ","Pike AR"," ",11024,1 
+"05111","27860","Poinsett AR","Jonesboro, AR (Metro)",24246,1 
+"05113"," ","Polk AR"," ",20225,1 
+"05115","40780","Pope AR","Russellville, AR (Micro)",63201,1 
+"05117"," ","Prairie AR"," ",8304,1 
+"05119","30780","Pulaski AR","Little Rock-North Little Rock-Conway, AR (Metro)",392702,1 
+"05121"," ","Randolph AR"," ",17571,1 
+"05123","22620","St. Francis AR","Forrest City, AR (Micro)",26899,1 
+"05125","30780","Saline AR","Little Rock-North Little Rock-Conway, AR (Metro)",115719,1 
+"05127"," ","Scott AR"," ",10693,1 
+"05129"," ","Searcy AR"," ",7929,1 
+"05131","22900","Sebastian AR","Fort Smith, AR-OK (Metro)",126776,1 
+"05133"," ","Sevier AR"," ",17426,1 
+"05135"," ","Sharp AR"," ",16906,1 
+"05137"," ","Stone AR"," ",12494,1 
+"05139","20980","Union AR","El Dorado, AR (Micro)",40227,1 
+"05141"," ","Van Buren AR"," ",16851,1 
+"05143","22220","Washington AR","Fayetteville-Springdale-Rogers, AR-MO (Metro)",220792,1 
+"05145","42620","White AR","Searcy, AR (Micro)",78592,1 
+"05147"," ","Woodruff AR"," ",6910,1 
+"05149","40780","Yell AR","Russellville, AR (Micro)",21951,1 
+"06001","41860","Alameda CA","San Francisco-Oakland-Hayward, CA (Metro)",1610921,1 
+"06003"," ","Alpine CA"," ",1116,1 
+"06005"," ","Amador CA"," ",36742,1 
+"06007","17020","Butte CA","Chico, CA (Metro)",224241,1 
+"06009"," ","Calaveras CA"," ",44624,1 
+"06011"," ","Colusa CA"," ",21419,1 
+"06013","41860","Contra Costa CA","San Francisco-Oakland-Hayward, CA (Metro)",1111339,1 
+"06015","18860","Del Norte CA","Crescent City, CA (Micro)",27212,1 
+"06017","40900","El Dorado CA","Sacramento--Roseville--Arden-Arcade, CA (Metro)",183087,1 
+"06019","23420","Fresno CA","Fresno, CA (Metro)",965974,1 
+"06021"," ","Glenn CA"," ",27955,1 
+"06023","21700","Humboldt CA","Eureka-Arcata-Fortuna, CA (Micro)",134809,1 
+"06025","20940","Imperial CA","El Centro, CA (Metro)",179091,1 
+"06027"," ","Inyo CA"," ",18410,1 
+"06029","12540","Kern CA","Bakersfield, CA (Metro)",874589,1 
+"06031","25260","Kings CA","Hanford-Corcoran, CA (Metro)",150269,1 
+"06033","17340","Lake CA","Clearlake, CA (Micro)",64184,1 
+"06035","45000","Lassen CA","Susanville, CA (Micro)",31749,1 
+"06037","31080","Los Angeles CA","Los Angeles-Long Beach-Anaheim, CA (Metro)",10116705,1 
+"06039","31460","Madera CA","Madera, CA (Metro)",154548,1 
+"06041","41860","Marin CA","San Francisco-Oakland-Hayward, CA (Metro)",260750,1 
+"06043"," ","Mariposa CA"," ",17682,1 
+"06045","46380","Mendocino CA","Ukiah, CA (Micro)",87869,1 
+"06047","32900","Merced CA","Merced, CA (Metro)",266353,1 
+"06049"," ","Modoc CA"," ",9023,1 
+"06051"," ","Mono CA"," ",13997,1 
+"06053","41500","Monterey CA","Salinas, CA (Metro)",431344,1 
+"06055","34900","Napa CA","Napa, CA (Metro)",141667,1 
+"06057","46020","Nevada CA","Truckee-Grass Valley, CA (Micro)",98893,1 
+"06059","31080","Orange CA","Los Angeles-Long Beach-Anaheim, CA (Metro)",3145515,1 
+"06061","40900","Placer CA","Sacramento--Roseville--Arden-Arcade, CA (Metro)",371694,1 
+"06063"," ","Plumas CA"," ",18606,1 
+"06065","40140","Riverside CA","Riverside-San Bernardino-Ontario, CA (Metro)",2329271,1 
+"06067","40900","Sacramento CA","Sacramento--Roseville--Arden-Arcade, CA (Metro)",1482026,1 
+"06069","41940","San Benito CA","San Jose-Sunnyvale-Santa Clara, CA (Metro)",58267,1 
+"06071","40140","San Bernardino CA","Riverside-San Bernardino-Ontario, CA (Metro)",2112619,1 
+"06073","41740","San Diego CA","San Diego-Carlsbad, CA (Metro)",3263431,1 
+"06075","41860","San Francisco CA","San Francisco-Oakland-Hayward, CA (Metro)",852469,1 
+"06077","44700","San Joaquin CA","Stockton-Lodi, CA (Metro)",715597,1 
+"06079","42020","San Luis Obispo CA","San Luis Obispo-Paso Robles-Arroyo Grande, CA (Metro)",279083,1 
+"06081","41860","San Mateo CA","San Francisco-Oakland-Hayward, CA (Metro)",758581,1 
+"06083","42200","Santa Barbara CA","Santa Maria-Santa Barbara, CA (Metro)",440668,1 
+"06085","41940","Santa Clara CA","San Jose-Sunnyvale-Santa Clara, CA (Metro)",1894605,1 
+"06087","42100","Santa Cruz CA","Santa Cruz-Watsonville, CA (Metro)",271804,1 
+"06089","39820","Shasta CA","Redding, CA (Metro)",179804,1 
+"06091"," ","Sierra CA"," ",3003,1 
+"06093"," ","Siskiyou CA"," ",43628,1 
+"06095","46700","Solano CA","Vallejo-Fairfield, CA (Metro)",431131,1 
+"06097","42220","Sonoma CA","Santa Rosa, CA (Metro)",500292,1 
+"06099","33700","Stanislaus CA","Modesto, CA (Metro)",531997,1 
+"06101","49700","Sutter CA","Yuba City, CA (Metro)",95847,1 
+"06103","39780","Tehama CA","Red Bluff, CA (Micro)",63067,1 
+"06105"," ","Trinity CA"," ",13170,1 
+"06107","47300","Tulare CA","Visalia-Porterville, CA (Metro)",458198,1 
+"06109","43760","Tuolumne CA","Sonora, CA (Micro)",53831,1 
+"06111","37100","Ventura CA","Oxnard-Thousand Oaks-Ventura, CA (Metro)",846178,1 
+"06113","40900","Yolo CA","Sacramento--Roseville--Arden-Arcade, CA (Metro)",207590,1 
+"06115","49700","Yuba CA","Yuba City, CA (Metro)",73966,1 
+"08001","19740","Adams CO","Denver-Aurora-Lakewood, CO (Metro)",480718,1 
+"08003"," ","Alamosa CO"," ",16177,1 
+"08005","19740","Arapahoe CO","Denver-Aurora-Lakewood, CO (Metro)",618821,1 
+"08007"," ","Archuleta CO"," ",12244,1 
+"08009"," ","Baca CO"," ",3645,1 
+"08011"," ","Bent CO"," ",5630,1 
+"08013","14500","Boulder CO","Boulder, CO (Metro)",313333,1 
+"08014","19740","Broomfield CO","Denver-Aurora-Lakewood, CO (Metro)",62138,1 
+"08015"," ","Chaffee CO"," ",18363,1 
+"08017"," ","Cheyenne CO"," ",1871,1 
+"08019","19740","Clear Creek CO","Denver-Aurora-Lakewood, CO (Metro)",9187,1 
+"08021"," ","Conejos CO"," ",8265,1 
+"08023"," ","Costilla CO"," ",3568,1 
+"08025"," ","Crowley CO"," ",5360,1 
+"08027"," ","Custer CO"," ",4361,1 
+"08029"," ","Delta CO"," ",29870,1 
+"08031","19740","Denver CO","Denver-Aurora-Lakewood, CO (Metro)",663862,1 
+"08033"," ","Dolores CO"," ",1978,1 
+"08035","19740","Douglas CO","Denver-Aurora-Lakewood, CO (Metro)",314638,1 
+"08037","20780","Eagle CO","Edwards, CO (Micro)",52921,1 
+"08039","19740","Elbert CO","Denver-Aurora-Lakewood, CO (Metro)",24195,1 
+"08041","17820","El Paso CO","Colorado Springs, CO (Metro)",663519,1 
+"08043","15860","Fremont CO","Cañon City, CO (Micro)",46502,1 
+"08045","24060","Garfield CO","Glenwood Springs, CO (Micro)",57461,1 
+"08047","19740","Gilpin CO","Denver-Aurora-Lakewood, CO (Metro)",5851,1 
+"08049"," ","Grand CO"," ",14546,1 
+"08051"," ","Gunnison CO"," ",15725,1 
+"08053"," ","Hinsdale CO"," ",786,1 
+"08055"," ","Huerfano CO"," ",6462,1 
+"08057"," ","Jackson CO"," ",1396,1 
+"08059","19740","Jefferson CO","Denver-Aurora-Lakewood, CO (Metro)",558503,1 
+"08061"," ","Kiowa CO"," ",1402,1 
+"08063"," ","Kit Carson CO"," ",8072,1 
+"08065"," ","Lake CO"," ",7357,1 
+"08067","20420","La Plata CO","Durango, CO (Micro)",53989,1 
+"08069","22660","Larimer CO","Fort Collins, CO (Metro)",324122,1 
+"08071"," ","Las Animas CO"," ",14052,1 
+"08073"," ","Lincoln CO"," ",5510,1 
+"08075","44540","Logan CO","Sterling, CO (Micro)",22524,1 
+"08077","24300","Mesa CO","Grand Junction, CO (Metro)",148255,1 
+"08079"," ","Mineral CO"," ",698,1 
+"08081","18780","Moffat CO","Craig, CO (Micro)",12928,1 
+"08083"," ","Montezuma CO"," ",25772,1 
+"08085","33940","Montrose CO","Montrose, CO (Micro)",40873,1 
+"08087","22820","Morgan CO","Fort Morgan, CO (Micro)",28328,1 
+"08089"," ","Otero CO"," ",18488,1 
+"08091"," ","Ouray CO"," ",4629,1 
+"08093","19740","Park CO","Denver-Aurora-Lakewood, CO (Metro)",16345,1 
+"08095"," ","Phillips CO"," ",4363,1 
+"08097","24060","Pitkin CO","Glenwood Springs, CO (Micro)",17626,1 
+"08099"," ","Prowers CO"," ",12034,1 
+"08101","39380","Pueblo CO","Pueblo, CO (Metro)",161875,1 
+"08103"," ","Rio Blanco CO"," ",6707,1 
+"08105"," ","Rio Grande CO"," ",11607,1 
+"08107","44460","Routt CO","Steamboat Springs, CO (Micro)",23865,1 
+"08109"," ","Saguache CO"," ",6196,1 
+"08111"," ","San Juan CO"," ",720,1 
+"08113"," ","San Miguel CO"," ",7840,1 
+"08115"," ","Sedgwick CO"," ",2348,1 
+"08117","14720","Summit CO","Breckenridge, CO (Micro)",29404,1 
+"08119","17820","Teller CO","Colorado Springs, CO (Metro)",23389,1 
+"08121"," ","Washington CO"," ",4780,1 
+"08123","24540","Weld CO","Greeley, CO (Metro)",277670,1 
+"08125"," ","Yuma CO"," ",10202,1 
+"09001","14860","Fairfield CT","Bridgeport-Stamford-Norwalk, CT (Metro)",945438,1 
+"09003","25540","Hartford CT","Hartford-West Hartford-East Hartford, CT (Metro)",897985,1 
+"09005","45860","Litchfield CT","Torrington, CT (Micro)",184993,1 
+"09007","25540","Middlesex CT","Hartford-West Hartford-East Hartford, CT (Metro)",164943,1 
+"09009","35300","New Haven CT","New Haven-Milford, CT (Metro)",861277,1 
+"09011","35980","New London CT","Norwich-New London, CT (Metro)",273676,1 
+"09013","25540","Tolland CT","Hartford-West Hartford-East Hartford, CT (Metro)",151367,1 
+"09015","49340","Windham CT","Worcester, MA-CT (Metro)",116998,1 
+"10001","20100","Kent DE","Dover, DE (Metro)",171987,1 
+"10003","37980","New Castle DE","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",552778,1 
+"10005","41540","Sussex DE","Salisbury, MD-DE (Metro)",210849,1 
+"11001","47900","District of Columbia DC","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",658893,1 
+"12001","23540","Alachua FL","Gainesville, FL (Metro)",256380,1 
+"12003","27260","Baker FL","Jacksonville, FL (Metro)",27093,1 
+"12005","37460","Bay FL","Panama City, FL (Metro)",178985,1 
+"12007"," ","Bradford FL"," ",26702,1 
+"12009","37340","Brevard FL","Palm Bay-Melbourne-Titusville, FL (Metro)",556885,1 
+"12011","33100","Broward FL","Miami-Fort Lauderdale-West Palm Beach, FL (Metro)",1869235,1 
+"12013"," ","Calhoun FL"," ",14532,1 
+"12015","39460","Charlotte FL","Punta Gorda, FL (Metro)",168474,1 
+"12017","26140","Citrus FL","Homosassa Springs, FL (Metro)",139377,1 
+"12019","27260","Clay FL","Jacksonville, FL (Metro)",199798,1 
+"12021","34940","Collier FL","Naples-Immokalee-Marco Island, FL (Metro)",348777,1 
+"12023","29380","Columbia FL","Lake City, FL (Micro)",67857,1 
+"12027","11580","DeSoto FL","Arcadia, FL (Micro)",35012,1 
+"12029"," ","Dixie FL"," ",15907,1 
+"12031","27260","Duval FL","Jacksonville, FL (Metro)",897698,1 
+"12033","37860","Escambia FL","Pensacola-Ferry Pass-Brent, FL (Metro)",310659,1 
+"12035","19660","Flagler FL","Deltona-Daytona Beach-Ormond Beach, FL (Metro)",102408,1 
+"12037"," ","Franklin FL"," ",11815,1 
+"12039","45220","Gadsden FL","Tallahassee, FL (Metro)",46281,1 
+"12041","23540","Gilchrist FL","Gainesville, FL (Metro)",16997,1 
+"12043"," ","Glades FL"," ",13635,1 
+"12045","37460","Gulf FL","Panama City, FL (Metro)",15944,1 
+"12047"," ","Hamilton FL"," ",14048,1 
+"12049","48100","Hardee FL","Wauchula, FL (Micro)",27469,1 
+"12051","17500","Hendry FL","Clewiston, FL (Micro)",38505,1 
+"12053","45300","Hernando FL","Tampa-St. Petersburg-Clearwater, FL (Metro)",175855,1 
+"12055","42700","Highlands FL","Sebring, FL (Metro)",98236,1 
+"12057","45300","Hillsborough FL","Tampa-St. Petersburg-Clearwater, FL (Metro)",1316298,1 
+"12059"," ","Holmes FL"," ",19650,1 
+"12061","42680","Indian River FL","Sebastian-Vero Beach, FL (Metro)",144755,1 
+"12063"," ","Jackson FL"," ",48801,1 
+"12065","45220","Jefferson FL","Tallahassee, FL (Metro)",14050,1 
+"12067"," ","Lafayette FL"," ",8835,1 
+"12069","36740","Lake FL","Orlando-Kissimmee-Sanford, FL (Metro)",315690,1 
+"12071","15980","Lee FL","Cape Coral-Fort Myers, FL (Metro)",679513,1 
+"12073","45220","Leon FL","Tallahassee, FL (Metro)",283988,1 
+"12075"," ","Levy FL"," ",39613,1 
+"12077"," ","Liberty FL"," ",8360,1 
+"12079"," ","Madison FL"," ",18518,1 
+"12081","35840","Manatee FL","North Port-Sarasota-Bradenton, FL (Metro)",351746,1 
+"12083","36100","Marion FL","Ocala, FL (Metro)",339167,1 
+"12085","38940","Martin FL","Port St. Lucie, FL (Metro)",153392,1 
+"12086","33100","Miami-Dade FL","Miami-Fort Lauderdale-West Palm Beach, FL (Metro)",2662874,1 
+"12087","28580","Monroe FL","Key West, FL (Micro)",77136,1 
+"12089","27260","Nassau FL","Jacksonville, FL (Metro)",76619,1 
+"12091","18880","Okaloosa FL","Crestview-Fort Walton Beach-Destin, FL (Metro)",196512,1 
+"12093","36380","Okeechobee FL","Okeechobee, FL (Micro)",39149,1 
+"12095","36740","Orange FL","Orlando-Kissimmee-Sanford, FL (Metro)",1253001,1 
+"12097","36740","Osceola FL","Orlando-Kissimmee-Sanford, FL (Metro)",310211,1 
+"12099","33100","Palm Beach FL","Miami-Fort Lauderdale-West Palm Beach, FL (Metro)",1397710,1 
+"12101","45300","Pasco FL","Tampa-St. Petersburg-Clearwater, FL (Metro)",485331,1 
+"12103","45300","Pinellas FL","Tampa-St. Petersburg-Clearwater, FL (Metro)",938098,1 
+"12105","29460","Polk FL","Lakeland-Winter Haven, FL (Metro)",634638,1 
+"12107","37260","Putnam FL","Palatka, FL (Micro)",72143,1 
+"12109","27260","St. Johns FL","Jacksonville, FL (Metro)",217919,1 
+"12111","38940","St. Lucie FL","Port St. Lucie, FL (Metro)",291028,1 
+"12113","37860","Santa Rosa FL","Pensacola-Ferry Pass-Brent, FL (Metro)",163422,1 
+"12115","35840","Sarasota FL","North Port-Sarasota-Bradenton, FL (Metro)",396962,1 
+"12117","36740","Seminole FL","Orlando-Kissimmee-Sanford, FL (Metro)",442516,1 
+"12119","45540","Sumter FL","The Villages, FL (Metro)",114350,1 
+"12121"," ","Suwannee FL"," ",44022,1 
+"12123"," ","Taylor FL"," ",22582,1 
+"12125"," ","Union FL"," ",15190,1 
+"12127","19660","Volusia FL","Deltona-Daytona Beach-Ormond Beach, FL (Metro)",507531,1 
+"12129","45220","Wakulla FL","Tallahassee, FL (Metro)",31432,1 
+"12131","18880","Walton FL","Crestview-Fort Walton Beach-Destin, FL (Metro)",61530,1 
+"12133"," ","Washington FL"," ",24451,1 
+"13001"," ","Appling GA"," ",18540,1 
+"13003"," ","Atkinson GA"," ",8223,1 
+"13005"," ","Bacon GA"," ",11281,1 
+"13007","10500","Baker GA","Albany, GA (Metro)",3255,1 
+"13009","33300","Baldwin GA","Milledgeville, GA (Micro)",45909,1 
+"13011"," ","Banks GA"," ",18295,1 
+"13013","12060","Barrow GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",73240,1 
+"13015","12060","Bartow GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",101736,1 
+"13017","22340","Ben Hill GA","Fitzgerald, GA (Micro)",17464,1 
+"13019"," ","Berrien GA"," ",18700,1 
+"13021","31420","Bibb GA","Macon-Bibb County, GA (Metro)",153905,1 
+"13023"," ","Bleckley GA"," ",12795,1 
+"13025","15260","Brantley GA","Brunswick, GA (Metro)",18417,1 
+"13027","46660","Brooks GA","Valdosta, GA (Metro)",15418,1 
+"13029","42340","Bryan GA","Savannah, GA (Metro)",33906,1 
+"13031","44340","Bulloch GA","Statesboro, GA (Micro)",72087,1 
+"13033","12260","Burke GA","Augusta-Richmond County, GA-SC (Metro)",22709,1 
+"13035","12060","Butts GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",23368,1 
+"13037"," ","Calhoun GA"," ",6463,1 
+"13039","41220","Camden GA","St. Marys, GA (Micro)",52027,1 
+"13043"," ","Candler GA"," ",10888,1 
+"13045","12060","Carroll GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",114093,1 
+"13047","16860","Catoosa GA","Chattanooga, TN-GA (Metro)",65621,1 
+"13049"," ","Charlton GA"," ",12897,1 
+"13051","42340","Chatham GA","Savannah, GA (Metro)",283379,1 
+"13053","17980","Chattahoochee GA","Columbus, GA-AL (Metro)",11837,1 
+"13055","44900","Chattooga GA","Summerville, GA (Micro)",24939,1 
+"13057","12060","Cherokee GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",230985,1 
+"13059","12020","Clarke GA","Athens-Clarke County, GA (Metro)",120938,1 
+"13061"," ","Clay GA"," ",3102,1 
+"13063","12060","Clayton GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",267542,1 
+"13065"," ","Clinch GA"," ",6831,1 
+"13067","12060","Cobb GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",730981,1 
+"13069","20060","Coffee GA","Douglas, GA (Micro)",42811,1 
+"13071","34220","Colquitt GA","Moultrie, GA (Micro)",46102,1 
+"13073","12260","Columbia GA","Augusta-Richmond County, GA-SC (Metro)",139257,1 
+"13075"," ","Cook GA"," ",17214,1 
+"13077","12060","Coweta GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",135571,1 
+"13079","31420","Crawford GA","Macon-Bibb County, GA (Metro)",12387,1 
+"13081","18380","Crisp GA","Cordele, GA (Micro)",22934,1 
+"13083","16860","Dade GA","Chattanooga, TN-GA (Metro)",16389,1 
+"13085","12060","Dawson GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",22957,1 
+"13087","12460","Decatur GA","Bainbridge, GA (Micro)",27220,1 
+"13089","12060","DeKalb GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",722161,1 
+"13091"," ","Dodge GA"," ",20976,1 
+"13093"," ","Dooly GA"," ",14188,1 
+"13095","10500","Dougherty GA","Albany, GA (Metro)",92407,1 
+"13097","12060","Douglas GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",138776,1 
+"13099"," ","Early GA"," ",10491,1 
+"13101","46660","Echols GA","Valdosta, GA (Metro)",4003,1 
+"13103","42340","Effingham GA","Savannah, GA (Metro)",55423,1 
+"13105"," ","Elbert GA"," ",19438,1 
+"13107"," ","Emanuel GA"," ",22755,1 
+"13109"," ","Evans GA"," ",10898,1 
+"13111"," ","Fannin GA"," ",23753,1 
+"13113","12060","Fayette GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",109664,1 
+"13115","40660","Floyd GA","Rome, GA (Metro)",96063,1 
+"13117","12060","Forsyth GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",204302,1 
+"13119"," ","Franklin GA"," ",22264,1 
+"13121","12060","Fulton GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",996319,1 
+"13123"," ","Gilmer GA"," ",28829,1 
+"13125"," ","Glascock GA"," ",3053,1 
+"13127","15260","Glynn GA","Brunswick, GA (Metro)",82175,1 
+"13129","15660","Gordon GA","Calhoun, GA (Micro)",56047,1 
+"13131"," ","Grady GA"," ",25359,1 
+"13133"," ","Greene GA"," ",16490,1 
+"13135","12060","Gwinnett GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",877922,1 
+"13137","18460","Habersham GA","Cornelia, GA (Micro)",43752,1 
+"13139","23580","Hall GA","Gainesville, GA (Metro)",190761,1 
+"13141","33300","Hancock GA","Milledgeville, GA (Micro)",8509,1 
+"13143","12060","Haralson GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",28641,1 
+"13145","17980","Harris GA","Columbus, GA-AL (Metro)",32876,1 
+"13147"," ","Hart GA"," ",25377,1 
+"13149","12060","Heard GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",11603,1 
+"13151","12060","Henry GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",213869,1 
+"13153","47580","Houston GA","Warner Robins, GA (Metro)",149111,1 
+"13155"," ","Irwin GA"," ",9104,1 
+"13157","27600","Jackson GA","Jefferson, GA (Micro)",61870,1 
+"13159","12060","Jasper GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",13432,1 
+"13161"," ","Jeff Davis GA"," ",14859,1 
+"13163"," ","Jefferson GA"," ",16272,1 
+"13165"," ","Jenkins GA"," ",9125,1 
+"13167","20140","Johnson GA","Dublin, GA (Micro)",9701,1 
+"13169","31420","Jones GA","Macon-Bibb County, GA (Metro)",28787,1 
+"13171","12060","Lamar GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",18207,1 
+"13173","46660","Lanier GA","Valdosta, GA (Metro)",10373,1 
+"13175","20140","Laurens GA","Dublin, GA (Micro)",47851,1 
+"13177","10500","Lee GA","Albany, GA (Metro)",29191,1 
+"13179","25980","Liberty GA","Hinesville, GA (Metro)",65198,1 
+"13181","12260","Lincoln GA","Augusta-Richmond County, GA-SC (Metro)",7622,1 
+"13183","25980","Long GA","Hinesville, GA (Metro)",17113,1 
+"13185","46660","Lowndes GA","Valdosta, GA (Metro)",113523,1 
+"13187"," ","Lumpkin GA"," ",31176,1 
+"13189","12260","McDuffie GA","Augusta-Richmond County, GA-SC (Metro)",21370,1 
+"13191","15260","McIntosh GA","Brunswick, GA (Metro)",14214,1 
+"13193"," ","Macon GA"," ",13792,1 
+"13195","12020","Madison GA","Athens-Clarke County, GA (Metro)",28312,1 
+"13197","17980","Marion GA","Columbus, GA-AL (Metro)",8797,1 
+"13199","12060","Meriwether GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",21198,1 
+"13201"," ","Miller GA"," ",5958,1 
+"13205"," ","Mitchell GA"," ",22771,1 
+"13207","31420","Monroe GA","Macon-Bibb County, GA (Metro)",27051,1 
+"13209","47080","Montgomery GA","Vidalia, GA (Micro)",8991,1 
+"13211","12060","Morgan GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",17956,1 
+"13213","19140","Murray GA","Dalton, GA (Metro)",39410,1 
+"13215","17980","Muscogee GA","Columbus, GA-AL (Metro)",200887,1 
+"13217","12060","Newton GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",103675,1 
+"13219","12020","Oconee GA","Athens-Clarke County, GA (Metro)",35093,1 
+"13221","12020","Oglethorpe GA","Athens-Clarke County, GA (Metro)",14673,1 
+"13223","12060","Paulding GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",148987,1 
+"13225","47580","Peach GA","Warner Robins, GA (Metro)",26922,1 
+"13227","12060","Pickens GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",29997,1 
+"13229","48180","Pierce GA","Waycross, GA (Micro)",18991,1 
+"13231","12060","Pike GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",17784,1 
+"13233","16340","Polk GA","Cedartown, GA (Micro)",41133,1 
+"13235","47580","Pulaski GA","Warner Robins, GA (Metro)",11483,1 
+"13237"," ","Putnam GA"," ",21192,1 
+"13239","21640","Quitman GA","Eufaula, AL-GA (Micro)",2315,1 
+"13241"," ","Rabun GA"," ",16243,1 
+"13243"," ","Randolph GA"," ",7313,1 
+"13245","12260","Richmond GA","Augusta-Richmond County, GA-SC (Metro)",201368,1 
+"13247","12060","Rockdale GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",87754,1 
+"13249","11140","Schley GA","Americus, GA (Micro)",5163,1 
+"13251"," ","Screven GA"," ",14085,1 
+"13253"," ","Seminole GA"," ",8686,1 
+"13255","12060","Spalding GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",63988,1 
+"13257","45740","Stephens GA","Toccoa, GA (Micro)",25480,1 
+"13259"," ","Stewart GA"," ",5744,1 
+"13261","11140","Sumter GA","Americus, GA (Micro)",31232,1 
+"13263"," ","Talbot GA"," ",6390,1 
+"13265"," ","Taliaferro GA"," ",1693,1 
+"13267"," ","Tattnall GA"," ",25224,1 
+"13269"," ","Taylor GA"," ",8442,1 
+"13271"," ","Telfair GA"," ",16518,1 
+"13273","10500","Terrell GA","Albany, GA (Metro)",9132,1 
+"13275","45620","Thomas GA","Thomasville, GA (Micro)",44959,1 
+"13277","45700","Tift GA","Tifton, GA (Micro)",40704,1 
+"13279","47080","Toombs GA","Vidalia, GA (Micro)",27282,1 
+"13281"," ","Towns GA"," ",11098,1 
+"13283"," ","Treutlen GA"," ",6778,1 
+"13285","29300","Troup GA","LaGrange, GA (Micro)",69469,1 
+"13287"," ","Turner GA"," ",8153,1 
+"13289","31420","Twiggs GA","Macon-Bibb County, GA (Metro)",8320,1 
+"13291"," ","Union GA"," ",21984,1 
+"13293","45580","Upson GA","Thomaston, GA (Micro)",26256,1 
+"13295","16860","Walker GA","Chattanooga, TN-GA (Metro)",68218,1 
+"13297","12060","Walton GA","Atlanta-Sandy Springs-Roswell, GA (Metro)",87615,1 
+"13299","48180","Ware GA","Waycross, GA (Micro)",35515,1 
+"13301"," ","Warren GA"," ",5520,1 
+"13303"," ","Washington GA"," ",20635,1 
+"13305","27700","Wayne GA","Jesup, GA (Micro)",29949,1 
+"13307"," ","Webster GA"," ",2649,1 
+"13309"," ","Wheeler GA"," ",7995,1 
+"13311"," ","White GA"," ",27970,1 
+"13313","19140","Whitfield GA","Dalton, GA (Metro)",103542,1 
+"13315"," ","Wilcox GA"," ",8847,1 
+"13317"," ","Wilkes GA"," ",9940,1 
+"13319"," ","Wilkinson GA"," ",9326,1 
+"13321","10500","Worth GA","Albany, GA (Metro)",20940,1 
+"15001","25900","Hawaii HI","Hilo, HI (Micro)",194190,1 
+"15003","46520","Honolulu HI","Urban Honolulu, HI (Metro)",991788,1 
+"15005","27980","Kalawao HI","Kahului-Wailuku-Lahaina, HI (Metro)",89,1 
+"15007","28180","Kauai HI","Kapaa, HI (Micro)",70475,1 
+"15009","27980","Maui HI","Kahului-Wailuku-Lahaina, HI (Metro)",163019,1 
+"16001","14260","Ada ID","Boise City, ID (Metro)",426236,1 
+"16003"," ","Adams ID"," ",3861,1 
+"16005","38540","Bannock ID","Pocatello, ID (Metro)",83347,1 
+"16007"," ","Bear Lake ID"," ",5957,1 
+"16009"," ","Benewah ID"," ",9118,1 
+"16011","13940","Bingham ID","Blackfoot, ID (Micro)",45269,1 
+"16013","25200","Blaine ID","Hailey, ID (Micro)",21482,1 
+"16015","14260","Boise ID","Boise City, ID (Metro)",6824,1 
+"16017","41760","Bonner ID","Sandpoint, ID (Micro)",41585,1 
+"16019","26820","Bonneville ID","Idaho Falls, ID (Metro)",108623,1 
+"16021"," ","Boundary ID"," ",10979,1 
+"16023","26820","Butte ID","Idaho Falls, ID (Metro)",2622,1 
+"16025","25200","Camas ID","Hailey, ID (Micro)",1039,1 
+"16027","14260","Canyon ID","Boise City, ID (Metro)",203143,1 
+"16029"," ","Caribou ID"," ",6837,1 
+"16031","15420","Cassia ID","Burley, ID (Micro)",23540,1 
+"16033"," ","Clark ID"," ",867,1 
+"16035"," ","Clearwater ID"," ",8562,1 
+"16037"," ","Custer ID"," ",4140,1 
+"16039","34300","Elmore ID","Mountain Home, ID (Micro)",26094,1 
+"16041","30860","Franklin ID","Logan, UT-ID (Metro)",13021,1 
+"16043","39940","Fremont ID","Rexburg, ID (Micro)",12867,1 
+"16045","14260","Gem ID","Boise City, ID (Metro)",16866,1 
+"16047"," ","Gooding ID"," ",15064,1 
+"16049"," ","Idaho ID"," ",16215,1 
+"16051","26820","Jefferson ID","Idaho Falls, ID (Metro)",27021,1 
+"16053","46300","Jerome ID","Twin Falls, ID (Micro)",22818,1 
+"16055","17660","Kootenai ID","Coeur dAlene, ID (Metro)",147326,1 
+"16057","34140","Latah ID","Moscow, ID (Micro)",38411,1 
+"16059"," ","Lemhi ID"," ",7726,1 
+"16061"," ","Lewis ID"," ",3838,1 
+"16063","25200","Lincoln ID","Hailey, ID (Micro)",5316,1 
+"16065","39940","Madison ID","Rexburg, ID (Micro)",38038,1 
+"16067","15420","Minidoka ID","Burley, ID (Micro)",20323,1 
+"16069","30300","Nez Perce ID","Lewiston, ID-WA (Metro)",40007,1 
+"16071"," ","Oneida ID"," ",4184,1 
+"16073","14260","Owyhee ID","Boise City, ID (Metro)",11353,1 
+"16075","36620","Payette ID","Ontario, OR-ID (Micro)",22836,1 
+"16077"," ","Power ID"," ",7617,1 
+"16079"," ","Shoshone ID"," ",12390,1 
+"16081","27220","Teton ID","Jackson, WY-ID (Micro)",10341,1 
+"16083","46300","Twin Falls ID","Twin Falls, ID (Micro)",80914,1 
+"16085"," ","Valley ID"," ",9826,1 
+"16087"," ","Washington ID"," ",10021,1 
+"17001","39500","Adams IL","Quincy, IL-MO (Micro)",66988,1 
+"17003","16020","Alexander IL","Cape Girardeau, MO-IL (Metro)",7492,1 
+"17005","41180","Bond IL","St. Louis, MO-IL (Metro)",17269,1 
+"17007","40420","Boone IL","Rockford, IL (Metro)",53869,1 
+"17009"," ","Brown IL"," ",6832,1 
+"17011","36860","Bureau IL","Ottawa-Peru, IL (Micro)",33840,1 
+"17013","41180","Calhoun IL","St. Louis, MO-IL (Metro)",4956,1 
+"17015"," ","Carroll IL"," ",14715,1 
+"17017"," ","Cass IL"," ",13156,1 
+"17019","16580","Champaign IL","Champaign-Urbana, IL (Metro)",207133,1 
+"17021","45380","Christian IL","Taylorville, IL (Micro)",33892,1 
+"17023"," ","Clark IL"," ",16180,1 
+"17025"," ","Clay IL"," ",13520,1 
+"17027","41180","Clinton IL","St. Louis, MO-IL (Metro)",37857,1 
+"17029","16660","Coles IL","Charleston-Mattoon, IL (Micro)",53320,1 
+"17031","16980","Cook IL","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",5246456,1 
+"17033"," ","Crawford IL"," ",19393,1 
+"17035","16660","Cumberland IL","Charleston-Mattoon, IL (Micro)",10833,1 
+"17037","16980","DeKalb IL","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",105462,1 
+"17039","14010","De Witt IL","Bloomington, IL (Metro)",16284,1 
+"17041"," ","Douglas IL"," ",19889,1 
+"17043","16980","DuPage IL","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",932708,1 
+"17045"," ","Edgar IL"," ",17841,1 
+"17047"," ","Edwards IL"," ",6617,1 
+"17049","20820","Effingham IL","Effingham, IL (Micro)",34320,1 
+"17051"," ","Fayette IL"," ",21870,1 
+"17053","16580","Ford IL","Champaign-Urbana, IL (Metro)",13688,1 
+"17055"," ","Franklin IL"," ",39411,1 
+"17057","15900","Fulton IL","Canton, IL (Micro)",36007,1 
+"17059"," ","Gallatin IL"," ",5291,1 
+"17061"," ","Greene IL"," ",13434,1 
+"17063","16980","Grundy IL","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",50425,1 
+"17065"," ","Hamilton IL"," ",8296,1 
+"17067","22800","Hancock IL","Fort Madison-Keokuk, IA-IL-MO (Micro)",18564,1 
+"17069"," ","Hardin IL"," ",4129,1 
+"17071","15460","Henderson IL","Burlington, IA-IL (Micro)",6916,1 
+"17073","19340","Henry IL","Davenport-Moline-Rock Island, IA-IL (Metro)",49635,1 
+"17075"," ","Iroquois IL"," ",28879,1 
+"17077","16060","Jackson IL","Carbondale-Marion, IL (Metro)",59677,1 
+"17079"," ","Jasper IL"," ",9623,1 
+"17081","34500","Jefferson IL","Mount Vernon, IL (Micro)",38534,1 
+"17083","41180","Jersey IL","St. Louis, MO-IL (Metro)",22571,1 
+"17085"," ","Jo Daviess IL"," ",22254,1 
+"17087"," ","Johnson IL"," ",12601,1 
+"17089","16980","Kane IL","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",527306,1 
+"17091","28100","Kankakee IL","Kankakee, IL (Metro)",111375,1 
+"17093","16980","Kendall IL","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",121350,1 
+"17095","23660","Knox IL","Galesburg, IL (Micro)",52069,1 
+"17097","16980","Lake IL","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",705186,1 
+"17099","36860","La Salle IL","Ottawa-Peru, IL (Micro)",111241,1 
+"17101"," ","Lawrence IL"," ",16519,1 
+"17103","19940","Lee IL","Dixon, IL (Micro)",34735,1 
+"17105","38700","Livingston IL","Pontiac, IL (Micro)",37903,1 
+"17107","30660","Logan IL","Lincoln, IL (Micro)",29746,1 
+"17109","31380","McDonough IL","Macomb, IL (Micro)",31880,1 
+"17111","16980","McHenry IL","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",307283,1 
+"17113","14010","McLean IL","Bloomington, IL (Metro)",174061,1 
+"17115","19500","Macon IL","Decatur, IL (Metro)",108350,1 
+"17117","41180","Macoupin IL","St. Louis, MO-IL (Metro)",46453,1 
+"17119","41180","Madison IL","St. Louis, MO-IL (Metro)",266560,1 
+"17121","16460","Marion IL","Centralia, IL (Micro)",38571,1 
+"17123","37900","Marshall IL","Peoria, IL (Metro)",12014,1 
+"17125"," ","Mason IL"," ",13898,1 
+"17127","37140","Massac IL","Paducah, KY-IL (Micro)",14905,1 
+"17129","44100","Menard IL","Springfield, IL (Metro)",12570,1 
+"17131","19340","Mercer IL","Davenport-Moline-Rock Island, IA-IL (Metro)",15945,1 
+"17133","41180","Monroe IL","St. Louis, MO-IL (Metro)",33722,1 
+"17135"," ","Montgomery IL"," ",29359,1 
+"17137","27300","Morgan IL","Jacksonville, IL (Micro)",34929,1 
+"17139"," ","Moultrie IL"," ",14837,1 
+"17141","40300","Ogle IL","Rochelle, IL (Micro)",52085,1 
+"17143","37900","Peoria IL","Peoria, IL (Metro)",187319,1 
+"17145"," ","Perry IL"," ",21672,1 
+"17147","16580","Piatt IL","Champaign-Urbana, IL (Metro)",16431,1 
+"17149"," ","Pike IL"," ",16022,1 
+"17151"," ","Pope IL"," ",4276,1 
+"17153"," ","Pulaski IL"," ",5815,1 
+"17155","36860","Putnam IL","Ottawa-Peru, IL (Micro)",5814,1 
+"17157"," ","Randolph IL"," ",32869,1 
+"17159"," ","Richland IL"," ",16061,1 
+"17161","19340","Rock Island IL","Davenport-Moline-Rock Island, IA-IL (Metro)",146063,1 
+"17163","41180","St. Clair IL","St. Louis, MO-IL (Metro)",265729,1 
+"17165"," ","Saline IL"," ",24612,1 
+"17167","44100","Sangamon IL","Springfield, IL (Metro)",198997,1 
+"17169"," ","Schuyler IL"," ",7330,1 
+"17171","27300","Scott IL","Jacksonville, IL (Micro)",5204,1 
+"17173"," ","Shelby IL"," ",22048,1 
+"17175","37900","Stark IL","Peoria, IL (Metro)",5813,1 
+"17177","23300","Stephenson IL","Freeport, IL (Micro)",46435,1 
+"17179","37900","Tazewell IL","Peoria, IL (Metro)",135707,1 
+"17181"," ","Union IL"," ",17447,1 
+"17183","19180","Vermilion IL","Danville, IL (Metro)",79728,1 
+"17185"," ","Wabash IL"," ",11549,1 
+"17187"," ","Warren IL"," ",17874,1 
+"17189"," ","Washington IL"," ",14337,1 
+"17191"," ","Wayne IL"," ",16543,1 
+"17193"," ","White IL"," ",14374,1 
+"17195","44580","Whiteside IL","Sterling, IL (Micro)",56876,1 
+"17197","16980","Will IL","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",685419,1 
+"17199","16060","Williamson IL","Carbondale-Marion, IL (Metro)",67008,1 
+"17201","40420","Winnebago IL","Rockford, IL (Metro)",288542,1 
+"17203","37900","Woodford IL","Peoria, IL (Metro)",39187,1 
+"18001","19540","Adams IN","Decatur, IN (Micro)",34791,1 
+"18003","23060","Allen IN","Fort Wayne, IN (Metro)",365918,1 
+"18005","18020","Bartholomew IN","Columbus, IN (Metro)",80217,1 
+"18007","29200","Benton IN","Lafayette-West Lafayette, IN (Metro)",8700,1 
+"18009"," ","Blackford IN"," ",12401,1 
+"18011","26900","Boone IN","Indianapolis-Carmel-Anderson, IN (Metro)",61915,1 
+"18013","26900","Brown IN","Indianapolis-Carmel-Anderson, IN (Metro)",14962,1 
+"18015","29200","Carroll IN","Lafayette-West Lafayette, IN (Metro)",19923,1 
+"18017","30900","Cass IN","Logansport, IN (Micro)",38438,1 
+"18019","31140","Clark IN","Louisville/Jefferson County, KY-IN (Metro)",114262,1 
+"18021","45460","Clay IN","Terre Haute, IN (Metro)",26562,1 
+"18023","23140","Clinton IN","Frankfort, IN (Micro)",32776,1 
+"18025"," ","Crawford IN"," ",10655,1 
+"18027","47780","Daviess IN","Washington, IN (Micro)",32729,1 
+"18029","17140","Dearborn IN","Cincinnati, OH-KY-IN (Metro)",49506,1 
+"18031","24700","Decatur IN","Greensburg, IN (Micro)",26524,1 
+"18033","12140","De Kalb IN","Auburn, IN (Micro)",42383,1 
+"18035","34620","Delaware IN","Muncie, IN (Metro)",117074,1 
+"18037","27540","Dubois IN","Jasper, IN (Micro)",42345,1 
+"18039","21140","Elkhart IN","Elkhart-Goshen, IN (Metro)",201971,1 
+"18041","18220","Fayette IN","Connersville, IN (Micro)",23468,1 
+"18043","31140","Floyd IN","Louisville/Jefferson County, KY-IN (Metro)",76179,1 
+"18045"," ","Fountain IN"," ",16658,1 
+"18047"," ","Franklin IN"," ",22934,1 
+"18049"," ","Fulton IN"," ",20500,1 
+"18051"," ","Gibson IN"," ",33759,1 
+"18053","31980","Grant IN","Marion, IN (Micro)",68569,1 
+"18055"," ","Greene IN"," ",32726,1 
+"18057","26900","Hamilton IN","Indianapolis-Carmel-Anderson, IN (Metro)",302623,1 
+"18059","26900","Hancock IN","Indianapolis-Carmel-Anderson, IN (Metro)",71978,1 
+"18061","31140","Harrison IN","Louisville/Jefferson County, KY-IN (Metro)",39299,1 
+"18063","26900","Hendricks IN","Indianapolis-Carmel-Anderson, IN (Metro)",156056,1 
+"18065","35220","Henry IN","New Castle, IN (Micro)",48995,1 
+"18067","29020","Howard IN","Kokomo, IN (Metro)",82982,1 
+"18069","26540","Huntington IN","Huntington, IN (Micro)",36706,1 
+"18071","42980","Jackson IN","Seymour, IN (Micro)",43705,1 
+"18073","16980","Jasper IN","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",33475,1 
+"18075"," ","Jay IN"," ",21179,1 
+"18077","31500","Jefferson IN","Madison, IN (Micro)",32494,1 
+"18079","35860","Jennings IN","North Vernon, IN (Micro)",28000,1 
+"18081","26900","Johnson IN","Indianapolis-Carmel-Anderson, IN (Metro)",147538,1 
+"18083","47180","Knox IN","Vincennes, IN (Micro)",37938,1 
+"18085","47700","Kosciusko IN","Warsaw, IN (Micro)",78564,1 
+"18087"," ","Lagrange IN"," ",38436,1 
+"18089","16980","Lake IN","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",490228,1 
+"18091","33140","La Porte IN","Michigan City-La Porte, IN (Metro)",111444,1 
+"18093","13260","Lawrence IN","Bedford, IN (Micro)",45704,1 
+"18095","26900","Madison IN","Indianapolis-Carmel-Anderson, IN (Metro)",130069,1 
+"18097","26900","Marion IN","Indianapolis-Carmel-Anderson, IN (Metro)",934243,1 
+"18099","38500","Marshall IN","Plymouth, IN (Micro)",47107,1 
+"18101"," ","Martin IN"," ",10203,1 
+"18103","37940","Miami IN","Peru, IN (Micro)",35954,1 
+"18105","14020","Monroe IN","Bloomington, IN (Metro)",143339,1 
+"18107","18820","Montgomery IN","Crawfordsville, IN (Micro)",38146,1 
+"18109","26900","Morgan IN","Indianapolis-Carmel-Anderson, IN (Metro)",69693,1 
+"18111","16980","Newton IN","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",14156,1 
+"18113","28340","Noble IN","Kendallville, IN (Micro)",47618,1 
+"18115","17140","Ohio IN","Cincinnati, OH-KY-IN (Metro)",6035,1 
+"18117"," ","Orange IN"," ",19626,1 
+"18119","14020","Owen IN","Bloomington, IN (Metro)",20969,1 
+"18121"," ","Parke IN"," ",17233,1 
+"18123"," ","Perry IN"," ",19454,1 
+"18125","27540","Pike IN","Jasper, IN (Micro)",12624,1 
+"18127","16980","Porter IN","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",167076,1 
+"18129","21780","Posey IN","Evansville, IN-KY (Metro)",25540,1 
+"18131"," ","Pulaski IN"," ",12967,1 
+"18133","26900","Putnam IN","Indianapolis-Carmel-Anderson, IN (Metro)",37618,1 
+"18135"," ","Randolph IN"," ",25384,1 
+"18137"," ","Ripley IN"," ",28497,1 
+"18139"," ","Rush IN"," ",16892,1 
+"18141","43780","St. Joseph IN","South Bend-Mishawaka, IN-MI (Metro)",267618,1 
+"18143","31140","Scott IN","Louisville/Jefferson County, KY-IN (Metro)",23712,1 
+"18145","26900","Shelby IN","Indianapolis-Carmel-Anderson, IN (Metro)",44579,1 
+"18147"," ","Spencer IN"," ",20801,1 
+"18149"," ","Starke IN"," ",23074,1 
+"18151","11420","Steuben IN","Angola, IN (Micro)",34308,1 
+"18153","45460","Sullivan IN","Terre Haute, IN (Metro)",21050,1 
+"18155"," ","Switzerland IN"," ",10452,1 
+"18157","29200","Tippecanoe IN","Lafayette-West Lafayette, IN (Metro)",183074,1 
+"18159"," ","Tipton IN"," ",15415,1 
+"18161","17140","Union IN","Cincinnati, OH-KY-IN (Metro)",7246,1 
+"18163","21780","Vanderburgh IN","Evansville, IN-KY (Metro)",182006,1 
+"18165","45460","Vermillion IN","Terre Haute, IN (Metro)",15693,1 
+"18167","45460","Vigo IN","Terre Haute, IN (Metro)",108175,1 
+"18169","47340","Wabash IN","Wabash, IN (Micro)",32252,1 
+"18171"," ","Warren IN"," ",8352,1 
+"18173","21780","Warrick IN","Evansville, IN-KY (Metro)",61149,1 
+"18175","31140","Washington IN","Louisville/Jefferson County, KY-IN (Metro)",27878,1 
+"18177","39980","Wayne IN","Richmond, IN (Micro)",67671,1 
+"18179","23060","Wells IN","Fort Wayne, IN (Metro)",27862,1 
+"18181"," ","White IN"," ",24453,1 
+"18183","23060","Whitley IN","Fort Wayne, IN (Metro)",33403,1 
+"19001"," ","Adair IA"," ",7454,1 
+"19003"," ","Adams IA"," ",3875,1 
+"19005"," ","Allamakee IA"," ",14038,1 
+"19007"," ","Appanoose IA"," ",12661,1 
+"19009"," ","Audubon IA"," ",5794,1 
+"19011","16300","Benton IA","Cedar Rapids, IA (Metro)",25680,1 
+"19013","47940","Black Hawk IA","Waterloo-Cedar Falls, IA (Metro)",132897,1 
+"19015","14340","Boone IA","Boone, IA (Micro)",26433,1 
+"19017","47940","Bremer IA","Waterloo-Cedar Falls, IA (Metro)",24721,1 
+"19019"," ","Buchanan IA"," ",21038,1 
+"19021","44740","Buena Vista IA","Storm Lake, IA (Micro)",20578,1 
+"19023"," ","Butler IA"," ",15006,1 
+"19025"," ","Calhoun IA"," ",9866,1 
+"19027","16140","Carroll IA","Carroll, IA (Micro)",20562,1 
+"19029"," ","Cass IA"," ",13448,1 
+"19031"," ","Cedar IA"," ",18411,1 
+"19033","32380","Cerro Gordo IA","Mason City, IA (Micro)",43254,1 
+"19035"," ","Cherokee IA"," ",11836,1 
+"19037"," ","Chickasaw IA"," ",12264,1 
+"19039"," ","Clarke IA"," ",9217,1 
+"19041","43980","Clay IA","Spencer, IA (Micro)",16515,1 
+"19043"," ","Clayton IA"," ",17692,1 
+"19045","17540","Clinton IA","Clinton, IA (Micro)",48051,1 
+"19047"," ","Crawford IA"," ",17228,1 
+"19049","19780","Dallas IA","Des Moines-West Des Moines, IA (Metro)",77400,1 
+"19051","36900","Davis IA","Ottumwa, IA (Micro)",8781,1 
+"19053"," ","Decatur IA"," ",8263,1 
+"19055"," ","Delaware IA"," ",17398,1 
+"19057","15460","Des Moines IA","Burlington, IA-IL (Micro)",40255,1 
+"19059","44020","Dickinson IA","Spirit Lake, IA (Micro)",16935,1 
+"19061","20220","Dubuque IA","Dubuque, IA (Metro)",96370,1 
+"19063"," ","Emmet IA"," ",9990,1 
+"19065"," ","Fayette IA"," ",20343,1 
+"19067"," ","Floyd IA"," ",16077,1 
+"19069"," ","Franklin IA"," ",10436,1 
+"19071"," ","Fremont IA"," ",7022,1 
+"19073"," ","Greene IA"," ",9200,1 
+"19075","47940","Grundy IA","Waterloo-Cedar Falls, IA (Metro)",12375,1 
+"19077","19780","Guthrie IA","Des Moines-West Des Moines, IA (Metro)",10722,1 
+"19079"," ","Hamilton IA"," ",15117,1 
+"19081"," ","Hancock IA"," ",11027,1 
+"19083"," ","Hardin IA"," ",17311,1 
+"19085","36540","Harrison IA","Omaha-Council Bluffs, NE-IA (Metro)",14324,1 
+"19087"," ","Henry IA"," ",20217,1 
+"19089"," ","Howard IA"," ",9449,1 
+"19091"," ","Humboldt IA"," ",9640,1 
+"19093"," ","Ida IA"," ",7042,1 
+"19095"," ","Iowa IA"," ",16375,1 
+"19097"," ","Jackson IA"," ",19482,1 
+"19099","35500","Jasper IA","Newton, IA (Micro)",36872,1 
+"19101","21840","Jefferson IA","Fairfield, IA (Micro)",17325,1 
+"19103","26980","Johnson IA","Iowa City, IA (Metro)",142287,1 
+"19105","16300","Jones IA","Cedar Rapids, IA (Metro)",20454,1 
+"19107"," ","Keokuk IA"," ",10231,1 
+"19109"," ","Kossuth IA"," ",15222,1 
+"19111","22800","Lee IA","Fort Madison-Keokuk, IA-IL-MO (Micro)",35286,1 
+"19113","16300","Linn IA","Cedar Rapids, IA (Metro)",217751,1 
+"19115"," ","Louisa IA"," ",11161,1 
+"19117"," ","Lucas IA"," ",8701,1 
+"19119"," ","Lyon IA"," ",11683,1 
+"19121","19780","Madison IA","Des Moines-West Des Moines, IA (Metro)",15609,1 
+"19123","36820","Mahaska IA","Oskaloosa, IA (Micro)",22370,1 
+"19125","37800","Marion IA","Pella, IA (Micro)",33365,1 
+"19127","32260","Marshall IA","Marshalltown, IA (Micro)",40866,1 
+"19129","36540","Mills IA","Omaha-Council Bluffs, NE-IA (Metro)",14831,1 
+"19131"," ","Mitchell IA"," ",10779,1 
+"19133"," ","Monona IA"," ",8996,1 
+"19135"," ","Monroe IA"," ",8001,1 
+"19137"," ","Montgomery IA"," ",10421,1 
+"19139","34700","Muscatine IA","Muscatine, IA (Micro)",42903,1 
+"19141"," ","OBrien IA"," ",14056,1 
+"19143"," ","Osceola IA"," ",6218,1 
+"19145"," ","Page IA"," ",15496,1 
+"19147"," ","Palo Alto IA"," ",9099,1 
+"19149","43580","Plymouth IA","Sioux City, IA-NE-SD (Metro)",24874,1 
+"19151"," ","Pocahontas IA"," ",7138,1 
+"19153","19780","Polk IA","Des Moines-West Des Moines, IA (Metro)",459862,1 
+"19155","36540","Pottawattamie IA","Omaha-Council Bluffs, NE-IA (Metro)",93128,1 
+"19157"," ","Poweshiek IA"," ",18668,1 
+"19159"," ","Ringgold IA"," ",5051,1 
+"19161"," ","Sac IA"," ",10035,1 
+"19163","19340","Scott IA","Davenport-Moline-Rock Island, IA-IL (Metro)",171387,1 
+"19165"," ","Shelby IA"," ",11948,1 
+"19167"," ","Sioux IA"," ",34681,1 
+"19169","11180","Story IA","Ames, IA (Metro)",94073,1 
+"19171"," ","Tama IA"," ",17451,1 
+"19173"," ","Taylor IA"," ",6143,1 
+"19175"," ","Union IA"," ",12516,1 
+"19177"," ","Van Buren IA"," ",7468,1 
+"19179","36900","Wapello IA","Ottumwa, IA (Micro)",35212,1 
+"19181","19780","Warren IA","Des Moines-West Des Moines, IA (Metro)",47956,1 
+"19183","26980","Washington IA","Iowa City, IA (Metro)",22070,1 
+"19185"," ","Wayne IA"," ",6395,1 
+"19187","22700","Webster IA","Fort Dodge, IA (Micro)",36955,1 
+"19189"," ","Winnebago IA"," ",10559,1 
+"19191"," ","Winneshiek IA"," ",20768,1 
+"19193","43580","Woodbury IA","Sioux City, IA-NE-SD (Metro)",102271,1 
+"19195","32380","Worth IA","Mason City, IA (Micro)",7624,1 
+"19197"," ","Wright IA"," ",12840,1 
+"20001"," ","Allen KS"," ",12909,1 
+"20003"," ","Anderson KS"," ",7883,1 
+"20005","11860","Atchison KS","Atchison, KS (Micro)",16513,1 
+"20007"," ","Barber KS"," ",4897,1 
+"20009","24460","Barton KS","Great Bend, KS (Micro)",27385,1 
+"20011"," ","Bourbon KS"," ",14772,1 
+"20013"," ","Brown KS"," ",9815,1 
+"20015","48620","Butler KS","Wichita, KS (Metro)",66227,1 
+"20017"," ","Chase KS"," ",2692,1 
+"20019"," ","Chautauqua KS"," ",3481,1 
+"20021"," ","Cherokee KS"," ",20787,1 
+"20023"," ","Cheyenne KS"," ",2693,1 
+"20025"," ","Clark KS"," ",2144,1 
+"20027"," ","Clay KS"," ",8317,1 
+"20029"," ","Cloud KS"," ",9385,1 
+"20031"," ","Coffey KS"," ",8433,1 
+"20033"," ","Comanche KS"," ",1954,1 
+"20035","11680","Cowley KS","Arkansas City-Winfield, KS (Micro)",35963,1 
+"20037","38260","Crawford KS","Pittsburg, KS (Micro)",39290,1 
+"20039"," ","Decatur KS"," ",2908,1 
+"20041"," ","Dickinson KS"," ",19394,1 
+"20043","41140","Doniphan KS","St. Joseph, MO-KS (Metro)",7874,1 
+"20045","29940","Douglas KS","Lawrence, KS (Metro)",116585,1 
+"20047"," ","Edwards KS"," ",3030,1 
+"20049"," ","Elk KS"," ",2694,1 
+"20051","25700","Ellis KS","Hays, KS (Micro)",29013,1 
+"20053"," ","Ellsworth KS"," ",6392,1 
+"20055","23780","Finney KS","Garden City, KS (Micro)",37184,1 
+"20057","19980","Ford KS","Dodge City, KS (Micro)",34795,1 
+"20059","36840","Franklin KS","Ottawa, KS (Micro)",25611,1 
+"20061","27920","Geary KS","Junction City, KS (Micro)",36713,1 
+"20063"," ","Gove KS"," ",2727,1 
+"20065"," ","Graham KS"," ",2566,1 
+"20067"," ","Grant KS"," ",7816,1 
+"20069"," ","Gray KS"," ",6082,1 
+"20071"," ","Greeley KS"," ",1301,1 
+"20073"," ","Greenwood KS"," ",6328,1 
+"20075"," ","Hamilton KS"," ",2603,1 
+"20077"," ","Harper KS"," ",5818,1 
+"20079","48620","Harvey KS","Wichita, KS (Metro)",34820,1 
+"20081"," ","Haskell KS"," ",4106,1 
+"20083"," ","Hodgeman KS"," ",1916,1 
+"20085","45820","Jackson KS","Topeka, KS (Metro)",13539,1 
+"20087","45820","Jefferson KS","Topeka, KS (Metro)",18855,1 
+"20089"," ","Jewell KS"," ",3043,1 
+"20091","28140","Johnson KS","Kansas City, MO-KS (Metro)",574272,1 
+"20093","23780","Kearny KS","Garden City, KS (Micro)",3915,1 
+"20095","48620","Kingman KS","Wichita, KS (Metro)",7698,1 
+"20097"," ","Kiowa KS"," ",2513,1 
+"20099","37660","Labette KS","Parsons, KS (Micro)",20960,1 
+"20101"," ","Lane KS"," ",1687,1 
+"20103","28140","Leavenworth KS","Kansas City, MO-KS (Metro)",78797,1 
+"20105"," ","Lincoln KS"," ",3167,1 
+"20107","28140","Linn KS","Kansas City, MO-KS (Metro)",9502,1 
+"20109"," ","Logan KS"," ",2794,1 
+"20111","21380","Lyon KS","Emporia, KS (Micro)",33212,1 
+"20113","32700","McPherson KS","McPherson, KS (Micro)",29241,1 
+"20115"," ","Marion KS"," ",12208,1 
+"20117"," ","Marshall KS"," ",10006,1 
+"20119"," ","Meade KS"," ",4357,1 
+"20121","28140","Miami KS","Kansas City, MO-KS (Metro)",32822,1 
+"20123"," ","Mitchell KS"," ",6284,1 
+"20125","17700","Montgomery KS","Coffeyville, KS (Micro)",34065,1 
+"20127"," ","Morris KS"," ",5698,1 
+"20129"," ","Morton KS"," ",3110,1 
+"20131"," ","Nemaha KS"," ",10148,1 
+"20133"," ","Neosho KS"," ",16416,1 
+"20135"," ","Ness KS"," ",3105,1 
+"20137"," ","Norton KS"," ",5560,1 
+"20139","45820","Osage KS","Topeka, KS (Metro)",15936,1 
+"20141"," ","Osborne KS"," ",3756,1 
+"20143","41460","Ottawa KS","Salina, KS (Micro)",6065,1 
+"20145"," ","Pawnee KS"," ",6916,1 
+"20147"," ","Phillips KS"," ",5533,1 
+"20149","31740","Pottawatomie KS","Manhattan, KS (Metro)",22897,1 
+"20151"," ","Pratt KS"," ",9850,1 
+"20153"," ","Rawlins KS"," ",2584,1 
+"20155","26740","Reno KS","Hutchinson, KS (Micro)",63794,1 
+"20157"," ","Republic KS"," ",4803,1 
+"20159"," ","Rice KS"," ",10015,1 
+"20161","31740","Riley KS","Manhattan, KS (Metro)",75194,1 
+"20163"," ","Rooks KS"," ",5155,1 
+"20165"," ","Rush KS"," ",3197,1 
+"20167"," ","Russell KS"," ",6956,1 
+"20169","41460","Saline KS","Salina, KS (Micro)",55755,1 
+"20171"," ","Scott KS"," ",5080,1 
+"20173","48620","Sedgwick KS","Wichita, KS (Metro)",508803,1 
+"20175","30580","Seward KS","Liberal, KS (Micro)",23465,1 
+"20177","45820","Shawnee KS","Topeka, KS (Metro)",178406,1 
+"20179"," ","Sheridan KS"," ",2539,1 
+"20181"," ","Sherman KS"," ",6110,1 
+"20183"," ","Smith KS"," ",3769,1 
+"20185"," ","Stafford KS"," ",4297,1 
+"20187"," ","Stanton KS"," ",2111,1 
+"20189"," ","Stevens KS"," ",5801,1 
+"20191","48620","Sumner KS","Wichita, KS (Metro)",23528,1 
+"20193"," ","Thomas KS"," ",7891,1 
+"20195"," ","Trego KS"," ",2902,1 
+"20197","45820","Wabaunsee KS","Topeka, KS (Metro)",7022,1 
+"20199"," ","Wallace KS"," ",1506,1 
+"20201"," ","Washington KS"," ",5598,1 
+"20203"," ","Wichita KS"," ",2176,1 
+"20205"," ","Wilson KS"," ",9028,1 
+"20207"," ","Woodson KS"," ",3157,1 
+"20209","28140","Wyandotte KS","Kansas City, MO-KS (Metro)",161636,1 
+"21001"," ","Adair KY"," ",19204,1 
+"21003","14540","Allen KY","Bowling Green, KY (Metro)",20384,1 
+"21005","23180","Anderson KY","Frankfort, KY (Micro)",21888,1 
+"21007","37140","Ballard KY","Paducah, KY-IL (Micro)",8240,1 
+"21009","23980","Barren KY","Glasgow, KY (Micro)",43148,1 
+"21011","34460","Bath KY","Mount Sterling, KY (Micro)",12206,1 
+"21013","33180","Bell KY","Middlesborough, KY (Micro)",27778,1 
+"21015","17140","Boone KY","Cincinnati, OH-KY-IN (Metro)",126413,1 
+"21017","30460","Bourbon KY","Lexington-Fayette, KY (Metro)",19972,1 
+"21019","26580","Boyd KY","Huntington-Ashland, WV-KY-OH (Metro)",48832,1 
+"21021","19220","Boyle KY","Danville, KY (Micro)",29706,1 
+"21023","17140","Bracken KY","Cincinnati, OH-KY-IN (Metro)",8406,1 
+"21025"," ","Breathitt KY"," ",13409,1 
+"21027"," ","Breckinridge KY"," ",19888,1 
+"21029","31140","Bullitt KY","Louisville/Jefferson County, KY-IN (Metro)",77955,1 
+"21031","14540","Butler KY","Bowling Green, KY (Metro)",12875,1 
+"21033"," ","Caldwell KY"," ",12725,1 
+"21035","34660","Calloway KY","Murray, KY (Micro)",38282,1 
+"21037","17140","Campbell KY","Cincinnati, OH-KY-IN (Metro)",91833,1 
+"21039"," ","Carlisle KY"," ",4978,1 
+"21041"," ","Carroll KY"," ",10815,1 
+"21043"," ","Carter KY"," ",27223,1 
+"21045"," ","Casey KY"," ",15891,1 
+"21047","17300","Christian KY","Clarksville, TN-KY (Metro)",74250,1 
+"21049","30460","Clark KY","Lexington-Fayette, KY (Metro)",35758,1 
+"21051"," ","Clay KY"," ",21147,1 
+"21053"," ","Clinton KY"," ",10165,1 
+"21055"," ","Crittenden KY"," ",9224,1 
+"21057"," ","Cumberland KY"," ",6745,1 
+"21059","36980","Daviess KY","Owensboro, KY (Metro)",98275,1 
+"21061","14540","Edmonson KY","Bowling Green, KY (Metro)",12013,1 
+"21063"," ","Elliott KY"," ",7672,1 
+"21065"," ","Estill KY"," ",14447,1 
+"21067","30460","Fayette KY","Lexington-Fayette, KY (Metro)",310797,1 
+"21069"," ","Fleming KY"," ",14545,1 
+"21071"," ","Floyd KY"," ",38108,1 
+"21073","23180","Franklin KY","Frankfort, KY (Micro)",49880,1 
+"21075","46460","Fulton KY","Union City, TN-KY (Micro)",6265,1 
+"21077","17140","Gallatin KY","Cincinnati, OH-KY-IN (Metro)",8589,1 
+"21079"," ","Garrard KY"," ",16858,1 
+"21081","17140","Grant KY","Cincinnati, OH-KY-IN (Metro)",24875,1 
+"21083","32460","Graves KY","Mayfield, KY (Micro)",37618,1 
+"21085"," ","Grayson KY"," ",26194,1 
+"21087"," ","Green KY"," ",11043,1 
+"21089","26580","Greenup KY","Huntington-Ashland, WV-KY-OH (Metro)",36308,1 
+"21091","36980","Hancock KY","Owensboro, KY (Metro)",8753,1 
+"21093","21060","Hardin KY","Elizabethtown-Fort Knox, KY (Metro)",108266,1 
+"21095"," ","Harlan KY"," ",28163,1 
+"21097"," ","Harrison KY"," ",18592,1 
+"21099"," ","Hart KY"," ",18597,1 
+"21101","21780","Henderson KY","Evansville, IN-KY (Metro)",46467,1 
+"21103","31140","Henry KY","Louisville/Jefferson County, KY-IN (Metro)",15572,1 
+"21105"," ","Hickman KY"," ",4734,1 
+"21107","31580","Hopkins KY","Madisonville, KY (Micro)",46376,1 
+"21109"," ","Jackson KY"," ",13289,1 
+"21111","31140","Jefferson KY","Louisville/Jefferson County, KY-IN (Metro)",760026,1 
+"21113","30460","Jessamine KY","Lexington-Fayette, KY (Metro)",50815,1 
+"21115"," ","Johnson KY"," ",23262,1 
+"21117","17140","Kenton KY","Cincinnati, OH-KY-IN (Metro)",163929,1 
+"21119"," ","Knott KY"," ",15892,1 
+"21121","30940","Knox KY","London, KY (Micro)",31798,1 
+"21123","21060","Larue KY","Elizabethtown-Fort Knox, KY (Metro)",14180,1 
+"21125","30940","Laurel KY","London, KY (Micro)",60015,1 
+"21127"," ","Lawrence KY"," ",15804,1 
+"21129"," ","Lee KY"," ",7594,1 
+"21131"," ","Leslie KY"," ",10918,1 
+"21133"," ","Letcher KY"," ",23359,1 
+"21135"," ","Lewis KY"," ",13880,1 
+"21137","19220","Lincoln KY","Danville, KY (Micro)",24445,1 
+"21139","37140","Livingston KY","Paducah, KY-IL (Micro)",9359,1 
+"21141"," ","Logan KY"," ",26867,1 
+"21143"," ","Lyon KY"," ",8430,1 
+"21145","37140","McCracken KY","Paducah, KY-IL (Micro)",65316,1 
+"21147"," ","McCreary KY"," ",17863,1 
+"21149","36980","McLean KY","Owensboro, KY (Metro)",9478,1 
+"21151","40080","Madison KY","Richmond-Berea, KY (Micro)",87340,1 
+"21153"," ","Magoffin KY"," ",12913,1 
+"21155"," ","Marion KY"," ",20007,1 
+"21157"," ","Marshall KY"," ",30953,1 
+"21159"," ","Martin KY"," ",12537,1 
+"21161","32500","Mason KY","Maysville, KY (Micro)",17166,1 
+"21163","21060","Meade KY","Elizabethtown-Fort Knox, KY (Metro)",29139,1 
+"21165","34460","Menifee KY","Mount Sterling, KY (Micro)",6287,1 
+"21167"," ","Mercer KY"," ",21319,1 
+"21169","23980","Metcalfe KY","Glasgow, KY (Micro)",9990,1 
+"21171"," ","Monroe KY"," ",10704,1 
+"21173","34460","Montgomery KY","Mount Sterling, KY (Micro)",27474,1 
+"21175"," ","Morgan KY"," ",13303,1 
+"21177","16420","Muhlenberg KY","Central City, KY (Micro)",31207,1 
+"21179","12680","Nelson KY","Bardstown, KY (Micro)",44812,1 
+"21181"," ","Nicholas KY"," ",7041,1 
+"21183"," ","Ohio KY"," ",23977,1 
+"21185","31140","Oldham KY","Louisville/Jefferson County, KY-IN (Metro)",63490,1 
+"21187"," ","Owen KY"," ",10645,1 
+"21189"," ","Owsley KY"," ",4508,1 
+"21191","17140","Pendleton KY","Cincinnati, OH-KY-IN (Metro)",14493,1 
+"21193"," ","Perry KY"," ",27597,1 
+"21195"," ","Pike KY"," ",63034,1 
+"21197"," ","Powell KY"," ",12434,1 
+"21199","43700","Pulaski KY","Somerset, KY (Micro)",63825,1 
+"21201"," ","Robertson KY"," ",2197,1 
+"21203","40080","Rockcastle KY","Richmond-Berea, KY (Micro)",16826,1 
+"21205"," ","Rowan KY"," ",23655,1 
+"21207"," ","Russell KY"," ",17774,1 
+"21209","30460","Scott KY","Lexington-Fayette, KY (Metro)",51284,1 
+"21211","31140","Shelby KY","Louisville/Jefferson County, KY-IN (Metro)",44875,1 
+"21213"," ","Simpson KY"," ",17826,1 
+"21215","31140","Spencer KY","Louisville/Jefferson County, KY-IN (Metro)",17668,1 
+"21217","15820","Taylor KY","Campbellsville, KY (Micro)",25257,1 
+"21219"," ","Todd KY"," ",12520,1 
+"21221","17300","Trigg KY","Clarksville, TN-KY (Metro)",14142,1 
+"21223","31140","Trimble KY","Louisville/Jefferson County, KY-IN (Metro)",8786,1 
+"21225"," ","Union KY"," ",15165,1 
+"21227","14540","Warren KY","Bowling Green, KY (Metro)",120460,1 
+"21229"," ","Washington KY"," ",11959,1 
+"21231"," ","Wayne KY"," ",20486,1 
+"21233"," ","Webster KY"," ",13236,1 
+"21235","30940","Whitley KY","London, KY (Micro)",35503,1 
+"21237"," ","Wolfe KY"," ",7214,1 
+"21239","30460","Woodford KY","Lexington-Fayette, KY (Metro)",25563,1 
+"22001","29180","Acadia Parish LA","Lafayette, LA (Metro)",62486,1 
+"22003"," ","Allen Parish LA"," ",25713,1 
+"22005","12940","Ascension Parish LA","Baton Rouge, LA (Metro)",117029,1 
+"22007"," ","Assumption Parish LA"," ",23034,1 
+"22009"," ","Avoyelles Parish LA"," ",41145,1 
+"22011","19760","Beauregard Parish LA","DeRidder, LA (Micro)",36198,1 
+"22013"," ","Bienville Parish LA"," ",13885,1 
+"22015","43340","Bossier Parish LA","Shreveport-Bossier City, LA (Metro)",125064,1 
+"22017","43340","Caddo Parish LA","Shreveport-Bossier City, LA (Metro)",252603,1 
+"22019","29340","Calcasieu Parish LA","Lake Charles, LA (Metro)",197204,1 
+"22021"," ","Caldwell Parish LA"," ",9894,1 
+"22023","29340","Cameron Parish LA","Lake Charles, LA (Metro)",6679,1 
+"22025"," ","Catahoula Parish LA"," ",10151,1 
+"22027"," ","Claiborne Parish LA"," ",16412,1 
+"22029","35020","Concordia Parish LA","Natchez, MS-LA (Micro)",20466,1 
+"22031","43340","De Soto Parish LA","Shreveport-Bossier City, LA (Metro)",27142,1 
+"22033","12940","East Baton Rouge Parish LA","Baton Rouge, LA (Metro)",446042,1 
+"22035"," ","East Carroll Parish LA"," ",7487,1 
+"22037","12940","East Feliciana Parish LA","Baton Rouge, LA (Metro)",19813,1 
+"22039"," ","Evangeline Parish LA"," ",33700,1 
+"22041"," ","Franklin Parish LA"," ",20441,1 
+"22043","10780","Grant Parish LA","Alexandria, LA (Metro)",22384,1 
+"22045","29180","Iberia Parish LA","Lafayette, LA (Metro)",73913,1 
+"22047","12940","Iberville Parish LA","Baton Rouge, LA (Metro)",33327,1 
+"22049"," ","Jackson Parish LA"," ",15994,1 
+"22051","35380","Jefferson Parish LA","New Orleans-Metairie, LA (Metro)",435716,1 
+"22053","27660","Jefferson Davis Parish LA","Jennings, LA (Micro)",31477,1 
+"22055","29180","Lafayette Parish LA","Lafayette, LA (Metro)",235644,1 
+"22057","26380","Lafourche Parish LA","Houma-Thibodaux, LA (Metro)",98020,1 
+"22059"," ","La Salle Parish LA"," ",14839,1 
+"22061","40820","Lincoln Parish LA","Ruston, LA (Micro)",47617,1 
+"22063","12940","Livingston Parish LA","Baton Rouge, LA (Metro)",135751,1 
+"22065"," ","Madison Parish LA"," ",11843,1 
+"22067","12820","Morehouse Parish LA","Bastrop, LA (Micro)",26760,1 
+"22069","35060","Natchitoches Parish LA","Natchitoches, LA (Micro)",39166,1 
+"22071","35380","Orleans Parish LA","New Orleans-Metairie, LA (Metro)",384320,1 
+"22073","33740","Ouachita Parish LA","Monroe, LA (Metro)",156325,1 
+"22075","35380","Plaquemines Parish LA","New Orleans-Metairie, LA (Metro)",23447,1 
+"22077","12940","Pointe Coupee Parish LA","Baton Rouge, LA (Metro)",22406,1 
+"22079","10780","Rapides Parish LA","Alexandria, LA (Metro)",132488,1 
+"22081"," ","Red River Parish LA"," ",8669,1 
+"22083"," ","Richland Parish LA"," ",20740,1 
+"22085"," ","Sabine Parish LA"," ",24199,1 
+"22087","35380","St. Bernard Parish LA","New Orleans-Metairie, LA (Metro)",44409,1 
+"22089","35380","St. Charles Parish LA","New Orleans-Metairie, LA (Metro)",52745,1 
+"22091","12940","St. Helena Parish LA","Baton Rouge, LA (Metro)",10619,1 
+"22093","35380","St. James Parish LA","New Orleans-Metairie, LA (Metro)",21638,1 
+"22095","35380","St. John the Baptist Parish LA","New Orleans-Metairie, LA (Metro)",43745,1 
+"22097","36660","St. Landry Parish LA","Opelousas, LA (Micro)",83709,1 
+"22099","29180","St. Martin Parish LA","Lafayette, LA (Metro)",53315,1 
+"22101","34020","St. Mary Parish LA","Morgan City, LA (Micro)",53162,1 
+"22103","35380","St. Tammany Parish LA","New Orleans-Metairie, LA (Metro)",245829,1 
+"22105","25220","Tangipahoa Parish LA","Hammond, LA (Metro)",127049,1 
+"22107"," ","Tensas Parish LA"," ",4830,1 
+"22109","26380","Terrebonne Parish LA","Houma-Thibodaux, LA (Metro)",113328,1 
+"22111","33740","Union Parish LA","Monroe, LA (Metro)",22539,1 
+"22113","29180","Vermilion Parish LA","Lafayette, LA (Metro)",59616,1 
+"22115","22860","Vernon Parish LA","Fort Polk South, LA (Micro)",52132,1 
+"22117","14220","Washington Parish LA","Bogalusa, LA (Micro)",46286,1 
+"22119","43340","Webster Parish LA","Shreveport-Bossier City, LA (Metro)",40333,1 
+"22121","12940","West Baton Rouge Parish LA","Baton Rouge, LA (Metro)",25085,1 
+"22123"," ","West Carroll Parish LA"," ",11525,1 
+"22125","12940","West Feliciana Parish LA","Baton Rouge, LA (Metro)",15406,1 
+"22127"," ","Winn Parish LA"," ",14743,1 
+"23001","30340","Androscoggin ME","Lewiston-Auburn, ME (Metro)",107440,1 
+"23003"," ","Aroostook ME"," ",69447,1 
+"23005","38860","Cumberland ME","Portland-South Portland, ME (Metro)",287797,1 
+"23007"," ","Franklin ME"," ",30296,1 
+"23009"," ","Hancock ME"," ",54696,1 
+"23011","12300","Kennebec ME","Augusta-Waterville, ME (Micro)",121112,1 
+"23013"," ","Knox ME"," ",39676,1 
+"23015"," ","Lincoln ME"," ",34170,1 
+"23017"," ","Oxford ME"," ",57238,1 
+"23019","12620","Penobscot ME","Bangor, ME (Metro)",153414,1 
+"23021"," ","Piscataquis ME"," ",17026,1 
+"23023","38860","Sagadahoc ME","Portland-South Portland, ME (Metro)",35045,1 
+"23025"," ","Somerset ME"," ",51163,1 
+"23027"," ","Waldo ME"," ",39051,1 
+"23029"," ","Washington ME"," ",31808,1 
+"23031","38860","York ME","Portland-South Portland, ME (Metro)",200710,1 
+"24001","19060","Allegany MD","Cumberland, MD-WV (Metro)",72952,1 
+"24003","12580","Anne Arundel MD","Baltimore-Columbia-Towson, MD (Metro)",560133,1 
+"24005","12580","Baltimore MD","Baltimore-Columbia-Towson, MD (Metro)",826925,1 
+"24009","47900","Calvert MD","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",90613,1 
+"24011"," ","Caroline MD"," ",32538,1 
+"24013","12580","Carroll MD","Baltimore-Columbia-Towson, MD (Metro)",167830,1 
+"24015","37980","Cecil MD","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",102383,1 
+"24017","47900","Charles MD","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",154747,1 
+"24019","15700","Dorchester MD","Cambridge, MD (Micro)",32578,1 
+"24021","47900","Frederick MD","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",243675,1 
+"24023"," ","Garrett MD"," ",29679,1 
+"24025","12580","Harford MD","Baltimore-Columbia-Towson, MD (Metro)",250105,1 
+"24027","12580","Howard MD","Baltimore-Columbia-Towson, MD (Metro)",309284,1 
+"24029"," ","Kent MD"," ",19820,1 
+"24031","47900","Montgomery MD","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",1030447,1 
+"24033","47900","Prince Georges MD","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",904430,1 
+"24035","12580","Queen Annes MD","Baltimore-Columbia-Towson, MD (Metro)",48804,1 
+"24037","15680","St. Marys MD","California-Lexington Park, MD (Metro)",110382,1 
+"24039","41540","Somerset MD","Salisbury, MD-DE (Metro)",25859,1 
+"24041","20660","Talbot MD","Easton, MD (Micro)",37643,1 
+"24043","25180","Washington MD","Hagerstown-Martinsburg, MD-WV (Metro)",149573,1 
+"24045","41540","Wicomico MD","Salisbury, MD-DE (Metro)",101539,1 
+"24047","41540","Worcester MD","Salisbury, MD-DE (Metro)",51675,1 
+"24510","12580","Baltimore city MD","Baltimore-Columbia-Towson, MD (Metro)",622793,1 
+"25001","12700","Barnstable MA","Barnstable Town, MA (Metro)",214914,1 
+"25003","38340","Berkshire MA","Pittsfield, MA (Metro)",128715,1 
+"25005","39300","Bristol MA","Providence-Warwick, RI-MA (Metro)",554194,1 
+"25007","47240","Dukes MA","Vineyard Haven, MA (Micro)",17356,1 
+"25009","14460","Essex MA","Boston-Cambridge-Newton, MA-NH (Metro)",769091,1 
+"25011","24640","Franklin MA","Greenfield Town, MA (Micro)",70862,1 
+"25013","44140","Hampden MA","Springfield, MA (Metro)",468161,1 
+"25015","44140","Hampshire MA","Springfield, MA (Metro)",160939,1 
+"25017","14460","Middlesex MA","Boston-Cambridge-Newton, MA-NH (Metro)",1570315,1 
+"25019"," ","Nantucket MA"," ",10856,1 
+"25021","14460","Norfolk MA","Boston-Cambridge-Newton, MA-NH (Metro)",692254,1 
+"25023","14460","Plymouth MA","Boston-Cambridge-Newton, MA-NH (Metro)",507022,1 
+"25025","14460","Suffolk MA","Boston-Cambridge-Newton, MA-NH (Metro)",767254,1 
+"25027","49340","Worcester MA","Worcester, MA-CT (Metro)",813475,1 
+"26001"," ","Alcona MI"," ",10454,1 
+"26003"," ","Alger MI"," ",9459,1 
+"26005","26090","Allegan MI","Holland, MI (Micro)",113847,1 
+"26007","10980","Alpena MI","Alpena, MI (Micro)",28988,1 
+"26009"," ","Antrim MI"," ",23267,1 
+"26011"," ","Arenac MI"," ",15353,1 
+"26013"," ","Baraga MI"," ",8654,1 
+"26015","24340","Barry MI","Grand Rapids-Wyoming, MI (Metro)",59281,1 
+"26017","13020","Bay MI","Bay City, MI (Metro)",106179,1 
+"26019","45900","Benzie MI","Traverse City, MI (Micro)",17519,1 
+"26021","35660","Berrien MI","Niles-Benton Harbor, MI (Metro)",155233,1 
+"26023","17740","Branch MI","Coldwater, MI (Micro)",43545,1 
+"26025","12980","Calhoun MI","Battle Creek, MI (Metro)",134878,1 
+"26027","43780","Cass MI","South Bend-Mishawaka, IN-MI (Metro)",51608,1 
+"26029"," ","Charlevoix MI"," ",26121,1 
+"26031"," ","Cheboygan MI"," ",25675,1 
+"26033","42300","Chippewa MI","Sault Ste. Marie, MI (Micro)",38321,1 
+"26035"," ","Clare MI"," ",30652,1 
+"26037","29620","Clinton MI","Lansing-East Lansing, MI (Metro)",77297,1 
+"26039"," ","Crawford MI"," ",13745,1 
+"26041","21540","Delta MI","Escanaba, MI (Micro)",36559,1 
+"26043","27020","Dickinson MI","Iron Mountain, MI-WI (Micro)",25957,1 
+"26045","29620","Eaton MI","Lansing-East Lansing, MI (Metro)",108579,1 
+"26047"," ","Emmet MI"," ",33204,1 
+"26049","22420","Genesee MI","Flint, MI (Metro)",412895,1 
+"26051"," ","Gladwin MI"," ",25411,1 
+"26053"," ","Gogebic MI"," ",15737,1 
+"26055","45900","Grand Traverse MI","Traverse City, MI (Micro)",90782,1 
+"26057","10940","Gratiot MI","Alma, MI (Micro)",41665,1 
+"26059","25880","Hillsdale MI","Hillsdale, MI (Micro)",45830,1 
+"26061","26340","Houghton MI","Houghton, MI (Micro)",36495,1 
+"26063"," ","Huron MI"," ",32065,1 
+"26065","29620","Ingham MI","Lansing-East Lansing, MI (Metro)",284582,1 
+"26067","26960","Ionia MI","Ionia, MI (Micro)",64294,1 
+"26069"," ","Iosco MI"," ",25420,1 
+"26071"," ","Iron MI"," ",11387,1 
+"26073","34380","Isabella MI","Mount Pleasant, MI (Micro)",70616,1 
+"26075","27100","Jackson MI","Jackson, MI (Metro)",159741,1 
+"26077","28020","Kalamazoo MI","Kalamazoo-Portage, MI (Metro)",258818,1 
+"26079","45900","Kalkaska MI","Traverse City, MI (Micro)",17394,1 
+"26081","24340","Kent MI","Grand Rapids-Wyoming, MI (Metro)",629237,1 
+"26083","26340","Keweenaw MI","Houghton, MI (Micro)",2217,1 
+"26085"," ","Lake MI"," ",11341,1 
+"26087","19820","Lapeer MI","Detroit-Warren-Dearborn, MI (Metro)",88153,1 
+"26089","45900","Leelanau MI","Traverse City, MI (Micro)",21915,1 
+"26091","10300","Lenawee MI","Adrian, MI (Micro)",99047,1 
+"26093","19820","Livingston MI","Detroit-Warren-Dearborn, MI (Metro)",185596,1 
+"26095"," ","Luce MI"," ",6426,1 
+"26097"," ","Mackinac MI"," ",11042,1 
+"26099","19820","Macomb MI","Detroit-Warren-Dearborn, MI (Metro)",860112,1 
+"26101"," ","Manistee MI"," ",24420,1 
+"26103","32100","Marquette MI","Marquette, MI (Micro)",67676,1 
+"26105","31220","Mason MI","Ludington, MI (Micro)",28824,1 
+"26107","13660","Mecosta MI","Big Rapids, MI (Micro)",43186,1 
+"26109","31940","Menominee MI","Marinette, WI-MI (Micro)",23714,1 
+"26111","33220","Midland MI","Midland, MI (Metro)",83427,1 
+"26113","15620","Missaukee MI","Cadillac, MI (Micro)",15037,1 
+"26115","33780","Monroe MI","Monroe, MI (Metro)",149824,1 
+"26117","24340","Montcalm MI","Grand Rapids-Wyoming, MI (Metro)",62893,1 
+"26119"," ","Montmorency MI"," ",9300,1 
+"26121","34740","Muskegon MI","Muskegon, MI (Metro)",172344,1 
+"26123"," ","Newaygo MI"," ",47900,1 
+"26125","19820","Oakland MI","Detroit-Warren-Dearborn, MI (Metro)",1237868,1 
+"26127"," ","Oceana MI"," ",26221,1 
+"26129"," ","Ogemaw MI"," ",21039,1 
+"26131"," ","Ontonagon MI"," ",6172,1 
+"26133"," ","Osceola MI"," ",23169,1 
+"26135"," ","Oscoda MI"," ",8371,1 
+"26137"," ","Otsego MI"," ",24158,1 
+"26139","24340","Ottawa MI","Grand Rapids-Wyoming, MI (Metro)",276292,1 
+"26141"," ","Presque Isle MI"," ",13004,1 
+"26143"," ","Roscommon MI"," ",23955,1 
+"26145","40980","Saginaw MI","Saginaw, MI (Metro)",195012,1 
+"26147","19820","St. Clair MI","Detroit-Warren-Dearborn, MI (Metro)",160078,1 
+"26149","44780","St. Joseph MI","Sturgis, MI (Micro)",60946,1 
+"26151"," ","Sanilac MI"," ",41587,1 
+"26153"," ","Schoolcraft MI"," ",8171,1 
+"26155","37020","Shiawassee MI","Owosso, MI (Micro)",68933,1 
+"26157"," ","Tuscola MI"," ",54000,1 
+"26159","28020","Van Buren MI","Kalamazoo-Portage, MI (Metro)",75199,1 
+"26161","11460","Washtenaw MI","Ann Arbor, MI (Metro)",356874,1 
+"26163","19820","Wayne MI","Detroit-Warren-Dearborn, MI (Metro)",1764804,1 
+"26165","15620","Wexford MI","Cadillac, MI (Micro)",32886,1 
+"27001"," ","Aitkin MN"," ",15771,1 
+"27003","33460","Anoka MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",341864,1 
+"27005"," ","Becker MN"," ",33259,1 
+"27007","13420","Beltrami MN","Bemidji, MN (Micro)",45664,1 
+"27009","41060","Benton MN","St. Cloud, MN (Metro)",39506,1 
+"27011"," ","Big Stone MN"," ",5127,1 
+"27013","31860","Blue Earth MN","Mankato-North Mankato, MN (Metro)",65385,1 
+"27015","35580","Brown MN","New Ulm, MN (Micro)",25292,1 
+"27017","20260","Carlton MN","Duluth, MN-WI (Metro)",35571,1 
+"27019","33460","Carver MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",97338,1 
+"27021","14660","Cass MN","Brainerd, MN (Micro)",28559,1 
+"27023"," ","Chippewa MN"," ",12110,1 
+"27025","33460","Chisago MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",54025,1 
+"27027","22020","Clay MN","Fargo, ND-MN (Metro)",61286,1 
+"27029"," ","Clearwater MN"," ",8791,1 
+"27031"," ","Cook MN"," ",5233,1 
+"27033"," ","Cottonwood MN"," ",11633,1 
+"27035","14660","Crow Wing MN","Brainerd, MN (Micro)",63265,1 
+"27037","33460","Dakota MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",412529,1 
+"27039","40340","Dodge MN","Rochester, MN (Metro)",20353,1 
+"27041","10820","Douglas MN","Alexandria, MN (Micro)",36790,1 
+"27043"," ","Faribault MN"," ",14192,1 
+"27045","40340","Fillmore MN","Rochester, MN (Metro)",20776,1 
+"27047","10660","Freeborn MN","Albert Lea, MN (Micro)",30840,1 
+"27049","39860","Goodhue MN","Red Wing, MN (Micro)",46423,1 
+"27051"," ","Grant MN"," ",5956,1 
+"27053","33460","Hennepin MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",1212064,1 
+"27055","29100","Houston MN","La Crosse-Onalaska, WI-MN (Metro)",18738,1 
+"27057"," ","Hubbard MN"," ",20573,1 
+"27059","33460","Isanti MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",38413,1 
+"27061","24330","Itasca MN","Grand Rapiuds, MN (Micro)",45589,1 
+"27063"," ","Jackson MN"," ",10269,1 
+"27065"," ","Kanabec MN"," ",15930,1 
+"27067","48820","Kandiyohi MN","Willmar, MN (Micro)",42285,1 
+"27069"," ","Kittson MN"," ",4435,1 
+"27071"," ","Koochiching MN"," ",12856,1 
+"27073"," ","Lac qui Parle MN"," ",6891,1 
+"27075"," ","Lake MN"," ",10680,1 
+"27077"," ","Lake of the Woods MN"," ",3918,1 
+"27079","33460","Le Sueur MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",27770,1 
+"27081"," ","Lincoln MN"," ",5788,1 
+"27083","32140","Lyon MN","Marshall, MN (Micro)",25665,1 
+"27085","26780","McLeod MN","Hutchinson, MN (Micro)",35882,1 
+"27087"," ","Mahnomen MN"," ",5505,1 
+"27089"," ","Marshall MN"," ",9417,1 
+"27091","21860","Martin MN","Fairmont, MN (Micro)",20220,1 
+"27093"," ","Meeker MN"," ",23107,1 
+"27095","33460","Mille Lacs MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",25884,1 
+"27097"," ","Morrison MN"," ",32810,1 
+"27099","12380","Mower MN","Austin, MN (Micro)",39323,1 
+"27101"," ","Murray MN"," ",8470,1 
+"27103","31860","Nicollet MN","Mankato-North Mankato, MN (Metro)",33093,1 
+"27105","49380","Nobles MN","Worthington, MN (Micro)",21590,1 
+"27107"," ","Norman MN"," ",6639,1 
+"27109","40340","Olmsted MN","Rochester, MN (Metro)",150287,1 
+"27111","22260","Otter Tail MN","Fergus Falls, MN (Micro)",57635,1 
+"27113"," ","Pennington MN"," ",14058,1 
+"27115"," ","Pine MN"," ",29095,1 
+"27117"," ","Pipestone MN"," ",9281,1 
+"27119","24220","Polk MN","Grand Forks, ND-MN (Metro)",31704,1 
+"27121"," ","Pope MN"," ",10984,1 
+"27123","33460","Ramsey MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",532655,1 
+"27125"," ","Red Lake MN"," ",4043,1 
+"27127"," ","Redwood MN"," ",15515,1 
+"27129"," ","Renville MN"," ",15025,1 
+"27131","22060","Rice MN","Faribault-Northfield, MN (Micro)",65151,1 
+"27133"," ","Rock MN"," ",9553,1 
+"27135"," ","Roseau MN"," ",15679,1 
+"27137","20260","St. Louis MN","Duluth, MN-WI (Metro)",200949,1 
+"27139","33460","Scott MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",139672,1 
+"27141","33460","Sherburne MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",91126,1 
+"27143","33460","Sibley MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",14918,1 
+"27145","41060","Stearns MN","St. Cloud, MN (Metro)",152912,1 
+"27147","36940","Steele MN","Owatonna, MN (Micro)",36573,1 
+"27149"," ","Stevens MN"," ",9800,1 
+"27151"," ","Swift MN"," ",9436,1 
+"27153"," ","Todd MN"," ",24264,1 
+"27155"," ","Traverse MN"," ",3387,1 
+"27157","40340","Wabasha MN","Rochester, MN (Metro)",21362,1 
+"27159"," ","Wadena MN"," ",13757,1 
+"27161"," ","Waseca MN"," ",19025,1 
+"27163","33460","Washington MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",249283,1 
+"27165"," ","Watonwan MN"," ",11083,1 
+"27167","47420","Wilkin MN","Wahpeton, ND-MN (Micro)",6495,1 
+"27169","49100","Winona MN","Winona, MN (Micro)",51097,1 
+"27171","33460","Wright MN","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",129918,1 
+"27173"," ","Yellow Medicine MN"," ",10109,1 
+"28001","35020","Adams MS","Natchez, MS-LA (Micro)",31737,1 
+"28003","18420","Alcorn MS","Corinth, MS (Micro)",37380,1 
+"28005","32620","Amite MS","McComb, MS (Micro)",12629,1 
+"28007"," ","Attala MS"," ",19163,1 
+"28009","32820","Benton MS","Memphis, TN-MS-AR (Metro)",8296,1 
+"28011","17380","Bolivar MS","Cleveland, MS (Micro)",33768,1 
+"28013"," ","Calhoun MS"," ",14745,1 
+"28015","24900","Carroll MS","Greenwood, MS (Micro)",10254,1 
+"28017"," ","Chickasaw MS"," ",17313,1 
+"28019"," ","Choctaw MS"," ",8294,1 
+"28021","46980","Claiborne MS","Vicksburg, MS (Micro)",9080,1 
+"28023","32940","Clarke MS","Meridian, MS (Micro)",16299,1 
+"28025","48500","Clay MS","West Point, MS (Micro)",20225,1 
+"28027","17260","Coahoma MS","Clarksdale, MS (Micro)",24807,1 
+"28029","27140","Copiah MS","Jackson, MS (Metro)",28797,1 
+"28031"," ","Covington MS"," ",19442,1 
+"28033","32820","DeSoto MS","Memphis, TN-MS-AR (Metro)",170913,1 
+"28035","25620","Forrest MS","Hattiesburg, MS (Metro)",76330,1 
+"28037"," ","Franklin MS"," ",7833,1 
+"28039"," ","George MS"," ",23303,1 
+"28041"," ","Greene MS"," ",14326,1 
+"28043","24980","Grenada MS","Grenada, MS (Micro)",21666,1 
+"28045","25060","Hancock MS","Gulfport-Biloxi-Pascagoula, MS (Metro)",45949,1 
+"28047","25060","Harrison MS","Gulfport-Biloxi-Pascagoula, MS (Metro)",199058,1 
+"28049","27140","Hinds MS","Jackson, MS (Metro)",243729,1 
+"28051"," ","Holmes MS"," ",18459,1 
+"28053"," ","Humphreys MS"," ",8741,1 
+"28055"," ","Issaquena MS"," ",1397,1 
+"28057","46180","Itawamba MS","Tupelo, MS (Micro)",23527,1 
+"28059","25060","Jackson MS","Gulfport-Biloxi-Pascagoula, MS (Metro)",141137,1 
+"28061","29860","Jasper MS","Laurel, MS (Micro)",16601,1 
+"28063"," ","Jefferson MS"," ",7599,1 
+"28065"," ","Jefferson Davis MS"," ",11822,1 
+"28067","29860","Jones MS","Laurel, MS (Micro)",68290,1 
+"28069","32940","Kemper MS","Meridian, MS (Micro)",10163,1 
+"28071","37060","Lafayette MS","Oxford, MS (Micro)",52930,1 
+"28073","25620","Lamar MS","Hattiesburg, MS (Metro)",60099,1 
+"28075","32940","Lauderdale MS","Meridian, MS (Micro)",79739,1 
+"28077"," ","Lawrence MS"," ",12502,1 
+"28079"," ","Leake MS"," ",23193,1 
+"28081","46180","Lee MS","Tupelo, MS (Micro)",85246,1 
+"28083","24900","Leflore MS","Greenwood, MS (Micro)",31422,1 
+"28085","15020","Lincoln MS","Brookhaven, MS (Micro)",34775,1 
+"28087","18060","Lowndes MS","Columbus, MS (Micro)",59730,1 
+"28089","27140","Madison MS","Jackson, MS (Metro)",101688,1 
+"28091"," ","Marion MS"," ",25868,1 
+"28093","32820","Marshall MS","Memphis, TN-MS-AR (Metro)",36234,1 
+"28095"," ","Monroe MS"," ",36003,1 
+"28097"," ","Montgomery MS"," ",10400,1 
+"28099"," ","Neshoba MS"," ",29465,1 
+"28101"," ","Newton MS"," ",21832,1 
+"28103"," ","Noxubee MS"," ",11115,1 
+"28105","44260","Oktibbeha MS","Starkville, MS (Micro)",49414,1 
+"28107"," ","Panola MS"," ",34444,1 
+"28109","38100","Pearl River MS","Picayune, MS (Micro)",55224,1 
+"28111","25620","Perry MS","Hattiesburg, MS (Metro)",12227,1 
+"28113","32620","Pike MS","McComb, MS (Micro)",40058,1 
+"28115","46180","Pontotoc MS","Tupelo, MS (Micro)",30950,1 
+"28117"," ","Prentiss MS"," ",25428,1 
+"28119"," ","Quitman MS"," ",7678,1 
+"28121","27140","Rankin MS","Jackson, MS (Metro)",148070,1 
+"28123"," ","Scott MS"," ",28461,1 
+"28125"," ","Sharkey MS"," ",4647,1 
+"28127","27140","Simpson MS","Jackson, MS (Metro)",27463,1 
+"28129"," ","Smith MS"," ",16188,1 
+"28131"," ","Stone MS"," ",17875,1 
+"28133","26940","Sunflower MS","Indianola, MS (Micro)",27496,1 
+"28135"," ","Tallahatchie MS"," ",14761,1 
+"28137","32820","Tate MS","Memphis, TN-MS-AR (Metro)",28204,1 
+"28139"," ","Tippah MS"," ",22039,1 
+"28141"," ","Tishomingo MS"," ",19420,1 
+"28143","32820","Tunica MS","Memphis, TN-MS-AR (Metro)",10598,1 
+"28145"," ","Union MS"," ",28097,1 
+"28147"," ","Walthall MS"," ",14859,1 
+"28149","46980","Warren MS","Vicksburg, MS (Micro)",47983,1 
+"28151","24740","Washington MS","Greenville, MS (Micro)",48958,1 
+"28153"," ","Wayne MS"," ",20490,1 
+"28155"," ","Webster MS"," ",9972,1 
+"28157"," ","Wilkinson MS"," ",9191,1 
+"28159"," ","Winston MS"," ",18478,1 
+"28161"," ","Yalobusha MS"," ",12276,1 
+"28163","27140","Yazoo MS","Jackson, MS (Metro)",27817,1 
+"29001","28860","Adair MO","Kirksville, MO (Micro)",25602,1 
+"29003","41140","Andrew MO","St. Joseph, MO-KS (Metro)",17379,1 
+"29005"," ","Atchison MO"," ",5382,1 
+"29007","33020","Audrain MO","Mexico, MO (Micro)",25887,1 
+"29009"," ","Barry MO"," ",35662,1 
+"29011"," ","Barton MO"," ",12057,1 
+"29013","28140","Bates MO","Kansas City, MO-KS (Metro)",16584,1 
+"29015"," ","Benton MO"," ",18806,1 
+"29017","16020","Bollinger MO","Cape Girardeau, MO-IL (Metro)",12394,1 
+"29019","17860","Boone MO","Columbia, MO (Metro)",172717,1 
+"29021","41140","Buchanan MO","St. Joseph, MO-KS (Metro)",89486,1 
+"29023","38740","Butler MO","Poplar Bluff, MO (Micro)",42972,1 
+"29025","28140","Caldwell MO","Kansas City, MO-KS (Metro)",9034,1 
+"29027","27620","Callaway MO","Jefferson City, MO (Metro)",44750,1 
+"29029"," ","Camden MO"," ",44021,1 
+"29031","16020","Cape Girardeau MO","Cape Girardeau, MO-IL (Metro)",78043,1 
+"29033"," ","Carroll MO"," ",9043,1 
+"29035"," ","Carter MO"," ",6258,1 
+"29037","28140","Cass MO","Kansas City, MO-KS (Metro)",100889,1 
+"29039"," ","Cedar MO"," ",13952,1 
+"29041"," ","Chariton MO"," ",7694,1 
+"29043","44180","Christian MO","Springfield, MO (Metro)",82101,1 
+"29045","22800","Clark MO","Fort Madison-Keokuk, IA-IL-MO (Micro)",6917,1 
+"29047","28140","Clay MO","Kansas City, MO-KS (Metro)",233682,1 
+"29049","28140","Clinton MO","Kansas City, MO-KS (Metro)",20299,1 
+"29051","27620","Cole MO","Jefferson City, MO (Metro)",76557,1 
+"29053"," ","Cooper MO"," ",17585,1 
+"29055"," ","Crawford MO"," ",24650,1 
+"29057"," ","Dade MO"," ",7628,1 
+"29059","44180","Dallas MO","Springfield, MO (Metro)",16389,1 
+"29061"," ","Daviess MO"," ",8297,1 
+"29063","41140","DeKalb MO","St. Joseph, MO-KS (Metro)",12692,1 
+"29065"," ","Dent MO"," ",15655,1 
+"29067"," ","Douglas MO"," ",13546,1 
+"29069","28380","Dunklin MO","Kennett, MO (Micro)",31344,1 
+"29071","41180","Franklin MO","St. Louis, MO-IL (Metro)",102084,1 
+"29073"," ","Gasconade MO"," ",14866,1 
+"29075"," ","Gentry MO"," ",6826,1 
+"29077","44180","Greene MO","Springfield, MO (Metro)",285865,1 
+"29079"," ","Grundy MO"," ",10197,1 
+"29081"," ","Harrison MO"," ",8639,1 
+"29083"," ","Henry MO"," ",22028,1 
+"29085"," ","Hickory MO"," ",9219,1 
+"29087"," ","Holt MO"," ",4516,1 
+"29089"," ","Howard MO"," ",10159,1 
+"29091","48460","Howell MO","West Plains, MO (Micro)",40173,1 
+"29093"," ","Iron MO"," ",10267,1 
+"29095","28140","Jackson MO","Kansas City, MO-KS (Metro)",683191,1 
+"29097","27900","Jasper MO","Joplin, MO (Metro)",117543,1 
+"29099","41180","Jefferson MO","St. Louis, MO-IL (Metro)",222716,1 
+"29101","47660","Johnson MO","Warrensburg, MO (Micro)",54362,1 
+"29103"," ","Knox MO"," ",4000,1 
+"29105","30060","Laclede MO","Lebanon, MO (Micro)",35439,1 
+"29107","28140","Lafayette MO","Kansas City, MO-KS (Metro)",32688,1 
+"29109"," ","Lawrence MO"," ",38023,1 
+"29111","39500","Lewis MO","Quincy, IL-MO (Micro)",10138,1 
+"29113","41180","Lincoln MO","St. Louis, MO-IL (Metro)",54249,1 
+"29115"," ","Linn MO"," ",12311,1 
+"29117"," ","Livingston MO"," ",15053,1 
+"29119","22220","McDonald MO","Fayetteville-Springdale-Rogers, AR-MO (Metro)",22800,1 
+"29121"," ","Macon MO"," ",15479,1 
+"29123"," ","Madison MO"," ",12368,1 
+"29125"," ","Maries MO"," ",9013,1 
+"29127","25300","Marion MO","Hannibal, MO (Micro)",28920,1 
+"29129"," ","Mercer MO"," ",3719,1 
+"29131"," ","Miller MO"," ",25141,1 
+"29133"," ","Mississippi MO"," ",14232,1 
+"29135","27620","Moniteau MO","Jefferson City, MO (Metro)",15856,1 
+"29137"," ","Monroe MO"," ",8707,1 
+"29139"," ","Montgomery MO"," ",11841,1 
+"29141"," ","Morgan MO"," ",20240,1 
+"29143"," ","New Madrid MO"," ",18272,1 
+"29145","27900","Newton MO","Joplin, MO (Metro)",58598,1 
+"29147","32340","Nodaway MO","Maryville, MO (Micro)",23081,1 
+"29149"," ","Oregon MO"," ",10911,1 
+"29151","27620","Osage MO","Jefferson City, MO (Metro)",13703,1 
+"29153"," ","Ozark MO"," ",9492,1 
+"29155"," ","Pemiscot MO"," ",17650,1 
+"29157"," ","Perry MO"," ",19202,1 
+"29159","42740","Pettis MO","Sedalia, MO (Micro)",42225,1 
+"29161","40620","Phelps MO","Rolla, MO (Micro)",44847,1 
+"29163"," ","Pike MO"," ",18541,1 
+"29165","28140","Platte MO","Kansas City, MO-KS (Metro)",94788,1 
+"29167","44180","Polk MO","Springfield, MO (Metro)",31054,1 
+"29169","22780","Pulaski MO","Fort Leonard Wood, MO (Micro)",53436,1 
+"29171"," ","Putnam MO"," ",4829,1 
+"29173","25300","Ralls MO","Hannibal, MO (Micro)",10255,1 
+"29175","33620","Randolph MO","Moberly, MO (Micro)",25072,1 
+"29177","28140","Ray MO","Kansas City, MO-KS (Metro)",22949,1 
+"29179"," ","Reynolds MO"," ",6565,1 
+"29181"," ","Ripley MO"," ",13969,1 
+"29183","41180","St. Charles MO","St. Louis, MO-IL (Metro)",379493,1 
+"29185"," ","St. Clair MO"," ",9457,1 
+"29186"," ","Ste. Genevieve MO"," ",17914,1 
+"29187","22100","St. Francois MO","Farmington, MO (Micro)",65960,1 
+"29189","41180","St. Louis MO","St. Louis, MO-IL (Metro)",1001876,1 
+"29195","32180","Saline MO","Marshall, MO (Micro)",23347,1 
+"29197","28860","Schuyler MO","Kirksville, MO (Micro)",4370,1 
+"29199"," ","Scotland MO"," ",4863,1 
+"29201","43460","Scott MO","Sikeston, MO (Micro)",38903,1 
+"29203"," ","Shannon MO"," ",8329,1 
+"29205"," ","Shelby MO"," ",6108,1 
+"29207"," ","Stoddard MO"," ",29867,1 
+"29209","14700","Stone MO","Branson, MO (Micro)",31104,1 
+"29211"," ","Sullivan MO"," ",6411,1 
+"29213","14700","Taney MO","Branson, MO (Micro)",54230,1 
+"29215"," ","Texas MO"," ",25642,1 
+"29217"," ","Vernon MO"," ",21001,1 
+"29219","41180","Warren MO","St. Louis, MO-IL (Metro)",33253,1 
+"29221"," ","Washington MO"," ",25077,1 
+"29223"," ","Wayne MO"," ",13452,1 
+"29225","44180","Webster MO","Springfield, MO (Metro)",36888,1 
+"29227"," ","Worth MO"," ",2073,1 
+"29229"," ","Wright MO"," ",18291,1 
+"29510","41180","St. Louis city MO","St. Louis, MO-IL (Metro)",317419,1 
+"30001"," ","Beaverhead MT"," ",9345,1 
+"30003"," ","Big Horn MT"," ",13282,1 
+"30005"," ","Blaine MT"," ",6619,1 
+"30007"," ","Broadwater MT"," ",5667,1 
+"30009","13740","Carbon MT","Billings, MT (Metro)",10399,1 
+"30011"," ","Carter MT"," ",1169,1 
+"30013","24500","Cascade MT","Great Falls, MT (Metro)",82344,1 
+"30015"," ","Chouteau MT"," ",5894,1 
+"30017"," ","Custer MT"," ",12092,1 
+"30019"," ","Daniels MT"," ",1793,1 
+"30021"," ","Dawson MT"," ",9518,1 
+"30023"," ","Deer Lodge MT"," ",9150,1 
+"30025"," ","Fallon MT"," ",3108,1 
+"30027"," ","Fergus MT"," ",11442,1 
+"30029","28060","Flathead MT","Kalispell, MT (Micro)",94924,1 
+"30031","14580","Gallatin MT","Bozeman, MT (Micro)",97308,1 
+"30033"," ","Garfield MT"," ",1309,1 
+"30035"," ","Glacier MT"," ",13696,1 
+"30037","13740","Golden Valley MT","Billings, MT (Metro)",852,1 
+"30039"," ","Granite MT"," ",3209,1 
+"30041"," ","Hill MT"," ",16596,1 
+"30043","25740","Jefferson MT","Helena, MT (Micro)",11558,1 
+"30045"," ","Judith Basin MT"," ",1991,1 
+"30047"," ","Lake MT"," ",29099,1 
+"30049","25740","Lewis and Clark MT","Helena, MT (Micro)",65856,1 
+"30051"," ","Liberty MT"," ",2359,1 
+"30053"," ","Lincoln MT"," ",19125,1 
+"30055"," ","McCone MT"," ",1694,1 
+"30057"," ","Madison MT"," ",7820,1 
+"30059"," ","Meagher MT"," ",1853,1 
+"30061"," ","Mineral MT"," ",4257,1 
+"30063","33540","Missoula MT","Missoula, MT (Metro)",112684,1 
+"30065"," ","Musselshell MT"," ",4589,1 
+"30067"," ","Park MT"," ",15880,1 
+"30069"," ","Petroleum MT"," ",485,1 
+"30071"," ","Phillips MT"," ",4192,1 
+"30073"," ","Pondera MT"," ",6219,1 
+"30075"," ","Powder River MT"," ",1783,1 
+"30077"," ","Powell MT"," ",6909,1 
+"30079"," ","Prairie MT"," ",1148,1 
+"30081"," ","Ravalli MT"," ",41030,1 
+"30083"," ","Richland MT"," ",11576,1 
+"30085"," ","Roosevelt MT"," ",11332,1 
+"30087"," ","Rosebud MT"," ",9326,1 
+"30089"," ","Sanders MT"," ",11364,1 
+"30091"," ","Sheridan MT"," ",3696,1 
+"30093","15580","Silver Bow MT","Butte-Silver Bow, MT (Micro)",34680,1 
+"30095"," ","Stillwater MT"," ",9290,1 
+"30097"," ","Sweet Grass MT"," ",3665,1 
+"30099"," ","Teton MT"," ",6064,1 
+"30101"," ","Toole MT"," ",5150,1 
+"30103"," ","Treasure MT"," ",692,1 
+"30105"," ","Valley MT"," ",7640,1 
+"30107"," ","Wheatland MT"," ",2102,1 
+"30109"," ","Wibaux MT"," ",1121,1 
+"30111","13740","Yellowstone MT","Billings, MT (Metro)",155634,1 
+"31001","25580","Adams NE","Hastings, NE (Micro)",31457,1 
+"31003"," ","Antelope NE"," ",6398,1 
+"31005"," ","Arthur NE"," ",453,1 
+"31007","42420","Banner NE","Scottsbluff, NE (Micro)",764,1 
+"31009"," ","Blaine NE"," ",504,1 
+"31011"," ","Boone NE"," ",5353,1 
+"31013"," ","Box Butte NE"," ",11340,1 
+"31015"," ","Boyd NE"," ",2033,1 
+"31017"," ","Brown NE"," ",2941,1 
+"31019","28260","Buffalo NE","Kearney, NE (Micro)",48224,1 
+"31021"," ","Burt NE"," ",6573,1 
+"31023"," ","Butler NE"," ",8249,1 
+"31025","36540","Cass NE","Omaha-Council Bluffs, NE-IA (Metro)",25524,1 
+"31027"," ","Cedar NE"," ",8610,1 
+"31029"," ","Chase NE"," ",3978,1 
+"31031"," ","Cherry NE"," ",5762,1 
+"31033"," ","Cheyenne NE"," ",10148,1 
+"31035"," ","Clay NE"," ",6315,1 
+"31037"," ","Colfax NE"," ",10504,1 
+"31039"," ","Cuming NE"," ",9027,1 
+"31041"," ","Custer NE"," ",10728,1 
+"31043","43580","Dakota NE","Sioux City, IA-NE-SD (Metro)",20850,1 
+"31045"," ","Dawes NE"," ",9042,1 
+"31047","30420","Dawson NE","Lexington, NE (Micro)",24096,1 
+"31049"," ","Deuel NE"," ",1940,1 
+"31051","43580","Dixon NE","Sioux City, IA-NE-SD (Metro)",5782,1 
+"31053","23340","Dodge NE","Fremont, NE (Micro)",36744,1 
+"31055","36540","Douglas NE","Omaha-Council Bluffs, NE-IA (Metro)",543244,1 
+"31057"," ","Dundy NE"," ",1886,1 
+"31059"," ","Fillmore NE"," ",5661,1 
+"31061"," ","Franklin NE"," ",3076,1 
+"31063"," ","Frontier NE"," ",2705,1 
+"31065"," ","Furnas NE"," ",4888,1 
+"31067","13100","Gage NE","Beatrice, NE (Micro)",21663,1 
+"31069"," ","Garden NE"," ",1911,1 
+"31071"," ","Garfield NE"," ",2003,1 
+"31073","30420","Gosper NE","Lexington, NE (Micro)",1970,1 
+"31075"," ","Grant NE"," ",619,1 
+"31077"," ","Greeley NE"," ",2482,1 
+"31079","24260","Hall NE","Grand Island, NE (Metro)",61492,1 
+"31081","24260","Hamilton NE","Grand Island, NE (Metro)",9135,1 
+"31083"," ","Harlan NE"," ",3492,1 
+"31085"," ","Hayes NE"," ",933,1 
+"31087"," ","Hitchcock NE"," ",2901,1 
+"31089"," ","Holt NE"," ",10403,1 
+"31091"," ","Hooker NE"," ",728,1 
+"31093","24260","Howard NE","Grand Island, NE (Metro)",6362,1 
+"31095"," ","Jefferson NE"," ",7335,1 
+"31097"," ","Johnson NE"," ",5185,1 
+"31099","28260","Kearney NE","Kearney, NE (Micro)",6644,1 
+"31101"," ","Keith NE"," ",8121,1 
+"31103"," ","Keya Paha NE"," ",810,1 
+"31105"," ","Kimball NE"," ",3713,1 
+"31107"," ","Knox NE"," ",8482,1 
+"31109","30700","Lancaster NE","Lincoln, NE (Metro)",301795,1 
+"31111","35820","Lincoln NE","North Platte, NE (Micro)",35815,1 
+"31113","35820","Logan NE","North Platte, NE (Micro)",750,1 
+"31115"," ","Loup NE"," ",588,1 
+"31117","35820","McPherson NE","North Platte, NE (Micro)",498,1 
+"31119","35740","Madison NE","Norfolk, NE (Micro)",35174,1 
+"31121","24260","Merrick NE","Grand Island, NE (Metro)",7766,1 
+"31123"," ","Morrill NE"," ",4862,1 
+"31125"," ","Nance NE"," ",3570,1 
+"31127"," ","Nemaha NE"," ",7175,1 
+"31129"," ","Nuckolls NE"," ",4369,1 
+"31131"," ","Otoe NE"," ",15797,1 
+"31133"," ","Pawnee NE"," ",2702,1 
+"31135"," ","Perkins NE"," ",2891,1 
+"31137"," ","Phelps NE"," ",9187,1 
+"31139","35740","Pierce NE","Norfolk, NE (Micro)",7202,1 
+"31141","18100","Platte NE","Columbus, NE (Micro)",32666,1 
+"31143"," ","Polk NE"," ",5271,1 
+"31145"," ","Red Willow NE"," ",10867,1 
+"31147"," ","Richardson NE"," ",8128,1 
+"31149"," ","Rock NE"," ",1443,1 
+"31151"," ","Saline NE"," ",14252,1 
+"31153","36540","Sarpy NE","Omaha-Council Bluffs, NE-IA (Metro)",172193,1 
+"31155","36540","Saunders NE","Omaha-Council Bluffs, NE-IA (Metro)",20919,1 
+"31157","42420","Scotts Bluff NE","Scottsbluff, NE (Micro)",36465,1 
+"31159","30700","Seward NE","Lincoln, NE (Metro)",17150,1 
+"31161"," ","Sheridan NE"," ",5259,1 
+"31163"," ","Sherman NE"," ",3074,1 
+"31165","42420","Sioux NE","Scottsbluff, NE (Micro)",1303,1 
+"31167","35740","Stanton NE","Norfolk, NE (Micro)",6069,1 
+"31169"," ","Thayer NE"," ",5230,1 
+"31171"," ","Thomas NE"," ",687,1 
+"31173"," ","Thurston NE"," ",6969,1 
+"31175"," ","Valley NE"," ",4204,1 
+"31177","36540","Washington NE","Omaha-Council Bluffs, NE-IA (Metro)",20258,1 
+"31179"," ","Wayne NE"," ",9431,1 
+"31181"," ","Webster NE"," ",3658,1 
+"31183"," ","Wheeler NE"," ",766,1 
+"31185"," ","York NE"," ",13917,1 
+"32001","21980","Churchill NV","Fallon, NV (Micro)",23989,1 
+"32003","29820","Clark NV","Las Vegas-Henderson-Paradise, NV (Metro)",2069681,1 
+"32005","23820","Douglas NV","Gardnerville Ranchos, NV (Micro)",47536,1 
+"32007","21220","Elko NV","Elko, NV (Micro)",52766,1 
+"32009"," ","Esmeralda NV"," ",822,1 
+"32011","21220","Eureka NV","Elko, NV (Micro)",2018,1 
+"32013","49080","Humboldt NV","Winnemucca, NV (Micro)",17279,1 
+"32015"," ","Lander NV"," ",6009,1 
+"32017"," ","Lincoln NV"," ",5184,1 
+"32019","22280","Lyon NV","Fernley, NV (Micro)",51789,1 
+"32021"," ","Mineral NV"," ",4500,1 
+"32023","37220","Nye NV","Pahrump, NV (Micro)",42282,1 
+"32027"," ","Pershing NV"," ",6698,1 
+"32029","39900","Storey NV","Reno, NV (Metro)",3912,1 
+"32031","39900","Washoe NV","Reno, NV (Metro)",440078,1 
+"32033"," ","White Pine NV"," ",10034,1 
+"32510","16180","Carson City NV","Carson City, NV (Metro)",54522,1 
+"33001","29060","Belknap NH","Laconia, NH (Micro)",60305,1 
+"33003"," ","Carroll NH"," ",47399,1 
+"33005","28300","Cheshire NH","Keene, NH (Micro)",76115,1 
+"33007","13620","Coos NH","Berlin, NH-VT (Micro)",31653,1 
+"33009","17200","Grafton NH","Claremont-Lebanon, NH-VT (Micro)",89658,1 
+"33011","31700","Hillsborough NH","Manchester-Nashua, NH (Metro)",405184,1 
+"33013","18180","Merrimack NH","Concord, NH (Micro)",147171,1 
+"33015","14460","Rockingham NH","Boston-Cambridge-Newton, MA-NH (Metro)",300621,1 
+"33017","14460","Strafford NH","Boston-Cambridge-Newton, MA-NH (Metro)",125604,1 
+"33019","17200","Sullivan NH","Claremont-Lebanon, NH-VT (Micro)",43103,1 
+"34001","12100","Atlantic NJ","Atlantic City-Hammonton, NJ (Metro)",275209,1 
+"34003","35620","Bergen NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",933572,1 
+"34005","37980","Burlington NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",449722,1 
+"34007","37980","Camden NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",511038,1 
+"34009","36140","Cape May NJ","Ocean City, NJ (Metro)",95344,1 
+"34011","47220","Cumberland NJ","Vineland-Bridgeton, NJ (Metro)",157389,1 
+"34013","35620","Essex NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",795723,1 
+"34015","37980","Gloucester NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",290951,1 
+"34017","35620","Hudson NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",669115,1 
+"34019","35620","Hunterdon NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",126067,1 
+"34021","45940","Mercer NJ","Trenton, NJ (Metro)",371537,1 
+"34023","35620","Middlesex NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",836297,1 
+"34025","35620","Monmouth NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",629279,1 
+"34027","35620","Morris NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",499727,1 
+"34029","35620","Ocean NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",586301,1 
+"34031","35620","Passaic NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",508856,1 
+"34033","37980","Salem NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",64715,1 
+"34035","35620","Somerset NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",332568,1 
+"34037","35620","Sussex NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",144909,1 
+"34039","35620","Union NJ","New York-Newark-Jersey City, NY-NJ-PA (Metro)",552939,1 
+"34041","10900","Warren NJ","Allentown-Bethlehem-Easton, PA-NJ (Metro)",106917,1 
+"35001","10740","Bernalillo NM","Albuquerque, NM (Metro)",675551,1 
+"35003"," ","Catron NM"," ",3556,1 
+"35005","40740","Chaves NM","Roswell, NM (Micro)",65878,1 
+"35006","24380","Cibola NM","Grants, NM (Micro)",27349,1 
+"35007"," ","Colfax NM"," ",12680,1 
+"35009","17580","Curry NM","Clovis, NM (Micro)",50969,1 
+"35011"," ","DeBaca NM"," ",1825,1 
+"35013","29740","Dona Ana NM","Las Cruces, NM (Metro)",213676,1 
+"35015","16100","Eddy NM","Carlsbad-Artesia, NM (Micro)",56395,1 
+"35017","43500","Grant NM","Silver City, NM (Micro)",29096,1 
+"35019"," ","Guadalupe NM"," ",4468,1 
+"35021"," ","Harding NM"," ",683,1 
+"35023"," ","Hidalgo NM"," ",4560,1 
+"35025","26020","Lea NM","Hobbs, NM (Micro)",69999,1 
+"35027","40760","Lincoln NM","Ruidoso, NM (Micro)",19706,1 
+"35028","31060","Los Alamos NM","Los Alamos, NM (Micro)",17682,1 
+"35029","19700","Luna NM","Deming, NM (Micro)",24673,1 
+"35031","23700","McKinley NM","Gallup, NM (Micro)",74098,1 
+"35033"," ","Mora NM"," ",4592,1 
+"35035","10460","Otero NM","Alamogordo, NM (Micro)",65082,1 
+"35037"," ","Quay NM"," ",8501,1 
+"35039","21580","Rio Arriba NM","Española, NM (Micro)",39777,1 
+"35041","38780","Roosevelt NM","Portales, NM (Micro)",19536,1 
+"35043","10740","Sandoval NM","Albuquerque, NM (Metro)",137608,1 
+"35045","22140","San Juan NM","Farmington, NM (Metro)",123785,1 
+"35047","29780","San Miguel NM","Las Vegas, NM (Micro)",28239,1 
+"35049","42140","Santa Fe NM","Santa Fe, NM (Metro)",148164,1 
+"35051"," ","Sierra NM"," ",11325,1 
+"35053"," ","Socorro NM"," ",17310,1 
+"35055","45340","Taos NM","Taos, NM (Micro)",33084,1 
+"35057","10740","Torrance NM","Albuquerque, NM (Metro)",15611,1 
+"35059"," ","Union NM"," ",4297,1 
+"35061","10740","Valencia NM","Albuquerque, NM (Metro)",75817,1 
+"36001","10580","Albany NY","Albany-Schenectady-Troy, NY (Metro)",308171,1 
+"36003"," ","Allegany NY"," ",47736,1 
+"36005","35620","Bronx NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",1438159,1 
+"36007","13780","Broome NY","Binghamton, NY (Metro)",197349,1 
+"36009","36460","Cattaraugus NY","Olean, NY (Micro)",78600,1 
+"36011","12180","Cayuga NY","Auburn, NY (Micro)",78823,1 
+"36013","27460","Chautauqua NY","Jamestown-Dunkirk-Fredonia, NY (Micro)",132053,1 
+"36015","21300","Chemung NY","Elmira, NY (Metro)",87770,1 
+"36017"," ","Chenango NY"," ",49426,1 
+"36019","38460","Clinton NY","Plattsburgh, NY (Micro)",81632,1 
+"36021","26460","Columbia NY","Hudson, NY (Micro)",62122,1 
+"36023","18660","Cortland NY","Cortland, NY (Micro)",49024,1 
+"36025"," ","Delaware NY"," ",46581,1 
+"36027","35620","Dutchess NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",296579,1 
+"36029","15380","Erie NY","Buffalo-Cheektowaga-Niagara Falls, NY (Metro)",922835,1 
+"36031"," ","Essex NY"," ",38679,1 
+"36033","31660","Franklin NY","Malone, NY (Micro)",51262,1 
+"36035","24100","Fulton NY","Gloversville, NY (Micro)",54105,1 
+"36037","12860","Genesee NY","Batavia, NY (Micro)",59162,1 
+"36039"," ","Greene NY"," ",47967,1 
+"36041"," ","Hamilton NY"," ",4715,1 
+"36043","46540","Herkimer NY","Utica-Rome, NY (Metro)",63744,1 
+"36045","48060","Jefferson NY","Watertown-Fort Drum, NY (Metro)",119103,1 
+"36047","35620","Kings NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",2621793,1 
+"36049"," ","Lewis NY"," ",27220,1 
+"36051","40380","Livingston NY","Rochester, NY (Metro)",64586,1 
+"36053","45060","Madison NY","Syracuse, NY (Metro)",72369,1 
+"36055","40380","Monroe NY","Rochester, NY (Metro)",749857,1 
+"36057","11220","Montgomery NY","Amsterdam, NY (Micro)",49779,1 
+"36059","35620","Nassau NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",1358627,1 
+"36061","35620","New York NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",1636268,1 
+"36063","15380","Niagara NY","Buffalo-Cheektowaga-Niagara Falls, NY (Metro)",213525,1 
+"36065","46540","Oneida NY","Utica-Rome, NY (Metro)",232871,1 
+"36067","45060","Onondaga NY","Syracuse, NY (Metro)",468196,1 
+"36069","40380","Ontario NY","Rochester, NY (Metro)",109707,1 
+"36071","35620","Orange NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",376099,1 
+"36073","40380","Orleans NY","Rochester, NY (Metro)",41984,1 
+"36075","45060","Oswego NY","Syracuse, NY (Metro)",120913,1 
+"36077","36580","Otsego NY","Oneonta, NY (Micro)",61128,1 
+"36079","35620","Putnam NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",99487,1 
+"36081","35620","Queens NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",2321580,1 
+"36083","10580","Rensselaer NY","Albany-Schenectady-Troy, NY (Metro)",159774,1 
+"36085","35620","Richmond NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",473279,1 
+"36087","35620","Rockland NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",323866,1 
+"36089","36300","St. Lawrence NY","Ogdensburg-Massena, NY (Micro)",111400,1 
+"36091","10580","Saratoga NY","Albany-Schenectady-Troy, NY (Metro)",224921,1 
+"36093","10580","Schenectady NY","Albany-Schenectady-Troy, NY (Metro)",155735,1 
+"36095","10580","Schoharie NY","Albany-Schenectady-Troy, NY (Metro)",31566,1 
+"36097"," ","Schuyler NY"," ",18479,1 
+"36099","42900","Seneca NY","Seneca Falls, NY (Micro)",34884,1 
+"36101","18500","Steuben NY","Corning, NY (Micro)",98394,1 
+"36103","35620","Suffolk NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",1502968,1 
+"36105"," ","Sullivan NY"," ",75943,1 
+"36107","13780","Tioga NY","Binghamton, NY (Metro)",49870,1 
+"36109","27060","Tompkins NY","Ithaca, NY (Metro)",104691,1 
+"36111","28740","Ulster NY","Kingston, NY (Metro)",180445,1 
+"36113","24020","Warren NY","Glens Falls, NY (Metro)",64973,1 
+"36115","24020","Washington NY","Glens Falls, NY (Metro)",62372,1 
+"36117","40380","Wayne NY","Rochester, NY (Metro)",92051,1 
+"36119","35620","Westchester NY","New York-Newark-Jersey City, NY-NJ-PA (Metro)",972634,1 
+"36121"," ","Wyoming NY"," ",41188,1 
+"36123","40380","Yates NY","Rochester, NY (Metro)",25208,1 
+"37001","15500","Alamance NC","Burlington, NC (Metro)",155792,1 
+"37003","25860","Alexander NC","Hickory-Lenoir-Morganton, NC (Metro)",37392,1 
+"37005"," ","Alleghany NC"," ",10879,1 
+"37007"," ","Anson NC"," ",25765,1 
+"37009"," ","Ashe NC"," ",27126,1 
+"37011"," ","Avery NC"," ",17773,1 
+"37013","47820","Beaufort NC","Washington, NC (Micro)",47585,1 
+"37015"," ","Bertie NC"," ",20106,1 
+"37017"," ","Bladen NC"," ",34657,1 
+"37019","34820","Brunswick NC","Myrtle Beach-Conway-North Myrtle Beach, SC-NC (Metro)",118836,1 
+"37021","11700","Buncombe NC","Asheville, NC (Metro)",250539,1 
+"37023","25860","Burke NC","Hickory-Lenoir-Morganton, NC (Metro)",89486,1 
+"37025","16740","Cabarrus NC","Charlotte-Concord-Gastonia, NC-SC (Metro)",192103,1 
+"37027","25860","Caldwell NC","Hickory-Lenoir-Morganton, NC (Metro)",81484,1 
+"37029","21020","Camden NC","Elizabeth City, NC (Micro)",10331,1 
+"37031","33980","Carteret NC","Morehead City, NC (Micro)",68811,1 
+"37033"," ","Caswell NC"," ",23082,1 
+"37035","25860","Catawba NC","Hickory-Lenoir-Morganton, NC (Metro)",154534,1 
+"37037","20500","Chatham NC","Durham-Chapel Hill, NC (Metro)",68698,1 
+"37039"," ","Cherokee NC"," ",27141,1 
+"37041"," ","Chowan NC"," ",14572,1 
+"37043"," ","Clay NC"," ",10581,1 
+"37045","43140","Cleveland NC","Shelby, NC (Micro)",97076,1 
+"37047"," ","Columbus NC"," ",56953,1 
+"37049","35100","Craven NC","New Bern, NC (Metro)",104510,1 
+"37051","22180","Cumberland NC","Fayetteville, NC (Metro)",326328,1 
+"37053","47260","Currituck NC","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",24976,1 
+"37055","28620","Dare NC","Kill Devil Hills, NC (Micro)",35104,1 
+"37057","49180","Davidson NC","Winston-Salem, NC (Metro)",164072,1 
+"37059","49180","Davie NC","Winston-Salem, NC (Metro)",41434,1 
+"37061"," ","Duplin NC"," ",59882,1 
+"37063","20500","Durham NC","Durham-Chapel Hill, NC (Metro)",294460,1 
+"37065","40580","Edgecombe NC","Rocky Mount, NC (Metro)",54933,1 
+"37067","49180","Forsyth NC","Winston-Salem, NC (Metro)",365298,1 
+"37069","39580","Franklin NC","Raleigh, NC (Metro)",62860,1 
+"37071","16740","Gaston NC","Charlotte-Concord-Gastonia, NC-SC (Metro)",211127,1 
+"37073","47260","Gates NC","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",11567,1 
+"37075"," ","Graham NC"," ",8644,1 
+"37077","37080","Granville NC","Oxford, NC (Micro)",58500,1 
+"37079"," ","Greene NC"," ",21093,1 
+"37081","24660","Guilford NC","Greensboro-High Point, NC (Metro)",512119,1 
+"37083","40260","Halifax NC","Roanoke Rapids, NC (Micro)",52970,1 
+"37085","20380","Harnett NC","Dunn, NC (Micro)",126666,1 
+"37087","11700","Haywood NC","Asheville, NC (Metro)",59471,1 
+"37089","11700","Henderson NC","Asheville, NC (Metro)",111149,1 
+"37091"," ","Hertford NC"," ",24308,1 
+"37093","22180","Hoke NC","Fayetteville, NC (Metro)",51611,1 
+"37095"," ","Hyde NC"," ",5676,1 
+"37097","16740","Iredell NC","Charlotte-Concord-Gastonia, NC-SC (Metro)",166675,1 
+"37099","19000","Jackson NC","Cullowhee, NC (Micro)",40981,1 
+"37101","39580","Johnston NC","Raleigh, NC (Metro)",181423,1 
+"37103","35100","Jones NC","New Bern, NC (Metro)",10076,1 
+"37105","41820","Lee NC","Sanford, NC (Micro)",59662,1 
+"37107","28820","Lenoir NC","Kinston, NC (Micro)",58485,1 
+"37109","16740","Lincoln NC","Charlotte-Concord-Gastonia, NC-SC (Metro)",79829,1 
+"37111","32000","McDowell NC","Marion, NC (Micro)",44965,1 
+"37113"," ","Macon NC"," ",33875,1 
+"37115","11700","Madison NC","Asheville, NC (Metro)",21157,1 
+"37117"," ","Martin NC"," ",23454,1 
+"37119","16740","Mecklenburg NC","Charlotte-Concord-Gastonia, NC-SC (Metro)",1012539,1 
+"37121"," ","Mitchell NC"," ",15311,1 
+"37123"," ","Montgomery NC"," ",27395,1 
+"37125","38240","Moore NC","Pinehurst-Southern Pines, NC (Micro)",93077,1 
+"37127","40580","Nash NC","Rocky Mount, NC (Metro)",94357,1 
+"37129","48900","New Hanover NC","Wilmington, NC (Metro)",216298,1 
+"37131","40260","Northampton NC","Roanoke Rapids, NC (Micro)",20463,1 
+"37133","27340","Onslow NC","Jacksonville, NC (Metro)",187589,1 
+"37135","20500","Orange NC","Durham-Chapel Hill, NC (Metro)",140420,1 
+"37137","35100","Pamlico NC","New Bern, NC (Metro)",12948,1 
+"37139","21020","Pasquotank NC","Elizabeth City, NC (Micro)",39787,1 
+"37141","48900","Pender NC","Wilmington, NC (Metro)",56250,1 
+"37143","21020","Perquimans NC","Elizabeth City, NC (Micro)",13466,1 
+"37145","20500","Person NC","Durham-Chapel Hill, NC (Metro)",39132,1 
+"37147","24780","Pitt NC","Greenville, NC (Metro)",175354,1 
+"37149"," ","Polk NC"," ",20357,1 
+"37151","24660","Randolph NC","Greensboro-High Point, NC (Metro)",142778,1 
+"37153","40460","Richmond NC","Rockingham, NC (Micro)",45733,1 
+"37155","31300","Robeson NC","Lumberton, NC (Micro)",134760,1 
+"37157","24660","Rockingham NC","Greensboro-High Point, NC (Metro)",91696,1 
+"37159","16740","Rowan NC","Charlotte-Concord-Gastonia, NC-SC (Metro)",138630,1 
+"37161","22580","Rutherford NC","Forest City, NC (Micro)",66600,1 
+"37163"," ","Sampson NC"," ",64050,1 
+"37165","29900","Scotland NC","Laurinburg, NC (Micro)",35576,1 
+"37167","10620","Stanly NC","Albemarle, NC (Micro)",60600,1 
+"37169","49180","Stokes NC","Winston-Salem, NC (Metro)",46419,1 
+"37171","34340","Surry NC","Mount Airy, NC (Micro)",72968,1 
+"37173"," ","Swain NC"," ",14274,1 
+"37175","14820","Transylvania NC","Brevard, NC (Micro)",33045,1 
+"37177","28620","Tyrrell NC","Kill Devil Hills, NC (Micro)",4115,1 
+"37179","16740","Union NC","Charlotte-Concord-Gastonia, NC-SC (Metro)",218568,1 
+"37181","25780","Vance NC","Henderson, NC (Micro)",44614,1 
+"37183","39580","Wake NC","Raleigh, NC (Metro)",998691,1 
+"37185"," ","Warren NC"," ",20231,1 
+"37187"," ","Washington NC"," ",12570,1 
+"37189","14380","Watauga NC","Boone, NC (Micro)",52560,1 
+"37191","24140","Wayne NC","Goldsboro, NC (Metro)",124456,1 
+"37193","35900","Wilkes NC","North Wilkesboro, NC (Micro)",68838,1 
+"37195","48980","Wilson NC","Wilson, NC (Micro)",81401,1 
+"37197","49180","Yadkin NC","Winston-Salem, NC (Metro)",37792,1 
+"37199"," ","Yancey NC"," ",17614,1 
+"38001"," ","Adams ND"," ",2384,1 
+"38003"," ","Barnes ND"," ",11144,1 
+"38005"," ","Benson ND"," ",6833,1 
+"38007"," ","Billings ND"," ",901,1 
+"38009"," ","Bottineau ND"," ",6650,1 
+"38011"," ","Bowman ND"," ",3247,1 
+"38013"," ","Burke ND"," ",2245,1 
+"38015","13900","Burleigh ND","Bismarck, ND (Metro)",90503,1 
+"38017","22020","Cass ND","Fargo, ND-MN (Metro)",167005,1 
+"38019"," ","Cavalier ND"," ",3855,1 
+"38021"," ","Dickey ND"," ",5150,1 
+"38023"," ","Divide ND"," ",2432,1 
+"38025"," ","Dunn ND"," ",4399,1 
+"38027"," ","Eddy ND"," ",2377,1 
+"38029"," ","Emmons ND"," ",3422,1 
+"38031"," ","Foster ND"," ",3362,1 
+"38033"," ","Golden Valley ND"," ",1825,1 
+"38035","24220","Grand Forks ND","Grand Forks, ND-MN (Metro)",70138,1 
+"38037"," ","Grant ND"," ",2361,1 
+"38039"," ","Griggs ND"," ",2319,1 
+"38041"," ","Hettinger ND"," ",2660,1 
+"38043"," ","Kidder ND"," ",2424,1 
+"38045"," ","LaMoure ND"," ",4149,1 
+"38047"," ","Logan ND"," ",1944,1 
+"38049","33500","McHenry ND","Minot, ND (Micro)",5988,1 
+"38051"," ","McIntosh ND"," ",2801,1 
+"38053"," ","McKenzie ND"," ",10996,1 
+"38055"," ","McLean ND"," ",9578,1 
+"38057"," ","Mercer ND"," ",8746,1 
+"38059","13900","Morton ND","Bismarck, ND (Metro)",29822,1 
+"38061"," ","Mountrail ND"," ",9782,1 
+"38063"," ","Nelson ND"," ",3045,1 
+"38065","13900","Oliver ND","Bismarck, ND (Metro)",1850,1 
+"38067"," ","Pembina ND"," ",7128,1 
+"38069"," ","Pierce ND"," ",4404,1 
+"38071"," ","Ramsey ND"," ",11564,1 
+"38073"," ","Ransom ND"," ",5446,1 
+"38075","33500","Renville ND","Minot, ND (Micro)",2587,1 
+"38077","47420","Richland ND","Wahpeton, ND-MN (Micro)",16432,1 
+"38079"," ","Rolette ND"," ",14616,1 
+"38081"," ","Sargent ND"," ",3931,1 
+"38083"," ","Sheridan ND"," ",1326,1 
+"38085","13900","Sioux ND","Bismarck, ND (Metro)",4422,1 
+"38087"," ","Slope ND"," ",765,1 
+"38089","19860","Stark ND","Dickinson, ND (Micro)",30372,1 
+"38091"," ","Steele ND"," ",1955,1 
+"38093","27420","Stutsman ND","Jamestown, ND (Micro)",21129,1 
+"38095"," ","Towner ND"," ",2310,1 
+"38097"," ","Traill ND"," ",8082,1 
+"38099"," ","Walsh ND"," ",10970,1 
+"38101","33500","Ward ND","Minot, ND (Micro)",69384,1 
+"38103"," ","Wells ND"," ",4192,1 
+"38105","48780","Williams ND","Williston, ND (Micro)",32130,1 
+"39001"," ","Adams OH"," ",28129,1 
+"39003","30620","Allen OH","Lima, OH (Metro)",105040,1 
+"39005","11740","Ashland OH","Ashland, OH (Micro)",53035,1 
+"39007","11780","Ashtabula OH","Ashtabula, OH (Micro)",99175,1 
+"39009","11900","Athens OH","Athens, OH (Micro)",64713,1 
+"39011","47540","Auglaize OH","Wapakoneta, OH (Micro)",45841,1 
+"39013","48540","Belmont OH","Wheeling, WV-OH (Metro)",69461,1 
+"39015","17140","Brown OH","Cincinnati, OH-KY-IN (Metro)",44116,1 
+"39017","17140","Butler OH","Cincinnati, OH-KY-IN (Metro)",374158,1 
+"39019","15940","Carroll OH","Canton-Massillon, OH (Metro)",28187,1 
+"39021","46500","Champaign OH","Urbana, OH (Micro)",39128,1 
+"39023","44220","Clark OH","Springfield, OH (Metro)",136554,1 
+"39025","17140","Clermont OH","Cincinnati, OH-KY-IN (Metro)",201560,1 
+"39027","48940","Clinton OH","Wilmington, OH (Micro)",41835,1 
+"39029","41400","Columbiana OH","Salem, OH (Micro)",105686,1 
+"39031","18740","Coshocton OH","Coshocton, OH (Micro)",36516,1 
+"39033","15340","Crawford OH","Bucyrus, OH (Micro)",42480,1 
+"39035","17460","Cuyahoga OH","Cleveland-Elyria, OH (Metro)",1259828,1 
+"39037","24820","Darke OH","Greenville, OH (Micro)",52196,1 
+"39039","19580","Defiance OH","Defiance, OH (Micro)",38510,1 
+"39041","18140","Delaware OH","Columbus, OH (Metro)",189113,1 
+"39043","41780","Erie OH","Sandusky, OH (Micro)",75828,1 
+"39045","18140","Fairfield OH","Columbus, OH (Metro)",150381,1 
+"39047","47920","Fayette OH","Washington Court House, OH (Micro)",28800,1 
+"39049","18140","Franklin OH","Columbus, OH (Metro)",1231393,1 
+"39051","45780","Fulton OH","Toledo, OH (Metro)",42580,1 
+"39053","38580","Gallia OH","Point Pleasant, WV-OH (Micro)",30397,1 
+"39055","17460","Geauga OH","Cleveland-Elyria, OH (Metro)",94295,1 
+"39057","19380","Greene OH","Dayton, OH (Metro)",163820,1 
+"39059","15740","Guernsey OH","Cambridge, OH (Micro)",39590,1 
+"39061","17140","Hamilton OH","Cincinnati, OH-KY-IN (Metro)",806631,1 
+"39063","22300","Hancock OH","Findlay, OH (Micro)",75337,1 
+"39065"," ","Hardin OH"," ",31796,1 
+"39067"," ","Harrison OH"," ",15543,1 
+"39069"," ","Henry OH"," ",27937,1 
+"39071"," ","Highland OH"," ",43045,1 
+"39073","18140","Hocking OH","Columbus, OH (Metro)",28725,1 
+"39075"," ","Holmes OH"," ",43898,1 
+"39077","35940","Huron OH","Norwalk, OH (Micro)",58714,1 
+"39079","27160","Jackson OH","Jackson, OH (Micro)",32748,1 
+"39081","48260","Jefferson OH","Weirton-Steubenville, WV-OH (Metro)",67694,1 
+"39083","34540","Knox OH","Mount Vernon, OH (Micro)",61167,1 
+"39085","17460","Lake OH","Cleveland-Elyria, OH (Metro)",229230,1 
+"39087","26580","Lawrence OH","Huntington-Ashland, WV-KY-OH (Metro)",61623,1 
+"39089","18140","Licking OH","Columbus, OH (Metro)",169390,1 
+"39091","13340","Logan OH","Bellefontaine, OH (Micro)",45507,1 
+"39093","17460","Lorain OH","Cleveland-Elyria, OH (Metro)",304216,1 
+"39095","45780","Lucas OH","Toledo, OH (Metro)",435286,1 
+"39097","18140","Madison OH","Columbus, OH (Metro)",43918,1 
+"39099","49660","Mahoning OH","Youngstown-Warren-Boardman, OH-PA (Metro)",233204,1 
+"39101","32020","Marion OH","Marion, OH (Micro)",65720,1 
+"39103","17460","Medina OH","Cleveland-Elyria, OH (Metro)",176029,1 
+"39105"," ","Meigs OH"," ",23331,1 
+"39107","16380","Mercer OH","Celina, OH (Micro)",40831,1 
+"39109","19380","Miami OH","Dayton, OH (Metro)",103900,1 
+"39111"," ","Monroe OH"," ",14465,1 
+"39113","19380","Montgomery OH","Dayton, OH (Metro)",533116,1 
+"39115"," ","Morgan OH"," ",14843,1 
+"39117","18140","Morrow OH","Columbus, OH (Metro)",35152,1 
+"39119","49780","Muskingum OH","Zanesville, OH (Micro)",85818,1 
+"39121"," ","Noble OH"," ",14363,1 
+"39123","38840","Ottawa OH","Port Clinton, OH (Micro)",41154,1 
+"39125"," ","Paulding OH"," ",18989,1 
+"39127","18140","Perry OH","Columbus, OH (Metro)",35812,1 
+"39129","18140","Pickaway OH","Columbus, OH (Metro)",56876,1 
+"39131"," ","Pike OH"," ",28256,1 
+"39133","10420","Portage OH","Akron, OH (Metro)",161882,1 
+"39135"," ","Preble OH"," ",41586,1 
+"39137"," ","Putnam OH"," ",34171,1 
+"39139","31900","Richland OH","Mansfield, OH (Metro)",121942,1 
+"39141","17060","Ross OH","Chillicothe, OH (Micro)",77159,1 
+"39143","23380","Sandusky OH","Fremont, OH (Micro)",60179,1 
+"39145","39020","Scioto OH","Portsmouth, OH (Micro)",77258,1 
+"39147","45660","Seneca OH","Tiffin, OH (Micro)",55669,1 
+"39149","43380","Shelby OH","Sidney, OH (Micro)",48951,1 
+"39151","15940","Stark OH","Canton-Massillon, OH (Metro)",375736,1 
+"39153","10420","Summit OH","Akron, OH (Metro)",541943,1 
+"39155","49660","Trumbull OH","Youngstown-Warren-Boardman, OH-PA (Metro)",205175,1 
+"39157","35420","Tuscarawas OH","New Philadelphia-Dover, OH (Micro)",92788,1 
+"39159","18140","Union OH","Columbus, OH (Metro)",53776,1 
+"39161","46780","Van Wert OH","Van Wert, OH (Micro)",28462,1 
+"39163"," ","Vinton OH"," ",13234,1 
+"39165","17140","Warren OH","Cincinnati, OH-KY-IN (Metro)",221659,1 
+"39167","31930","Washington OH","Marietta, OH (Micro)",61213,1 
+"39169","49300","Wayne OH","Wooster, OH (Micro)",115537,1 
+"39171"," ","Williams OH"," ",37291,1 
+"39173","45780","Wood OH","Toledo, OH (Metro)",129590,1 
+"39175"," ","Wyandot OH"," ",22353,1 
+"40001"," ","Adair OK"," ",22186,1 
+"40003"," ","Alfalfa OK"," ",5790,1 
+"40005"," ","Atoka OK"," ",13796,1 
+"40007"," ","Beaver OK"," ",5486,1 
+"40009","21120","Beckham OK","Elk City, OK (Micro)",23691,1 
+"40011"," ","Blaine OK"," ",9917,1 
+"40013","20460","Bryan OK","Durant, OK (Micro)",44486,1 
+"40015"," ","Caddo OK"," ",29317,1 
+"40017","36420","Canadian OK","Oklahoma City, OK (Metro)",129582,1 
+"40019","11620","Carter OK","Ardmore, OK (Micro)",48821,1 
+"40021","45140","Cherokee OK","Tahlequah, OK (Micro)",48341,1 
+"40023"," ","Choctaw OK"," ",15161,1 
+"40025"," ","Cimarron OK"," ",2294,1 
+"40027","36420","Cleveland OK","Oklahoma City, OK (Metro)",269908,1 
+"40029"," ","Coal OK"," ",5807,1 
+"40031","30020","Comanche OK","Lawton, OK (Metro)",125033,1 
+"40033","30020","Cotton OK","Lawton, OK (Metro)",6150,1 
+"40035"," ","Craig OK"," ",14582,1 
+"40037","46140","Creek OK","Tulsa, OK (Metro)",70632,1 
+"40039","48220","Custer OK","Weatherford, OK (Micro)",29500,1 
+"40041"," ","Delaware OK"," ",41446,1 
+"40043"," ","Dewey OK"," ",4914,1 
+"40045"," ","Ellis OK"," ",4150,1 
+"40047","21420","Garfield OK","Enid, OK (Metro)",63091,1 
+"40049"," ","Garvin OK"," ",27561,1 
+"40051","36420","Grady OK","Oklahoma City, OK (Metro)",53854,1 
+"40053"," ","Grant OK"," ",4501,1 
+"40055"," ","Greer OK"," ",6151,1 
+"40057"," ","Harmon OK"," ",2798,1 
+"40059"," ","Harper OK"," ",3812,1 
+"40061"," ","Haskell OK"," ",12896,1 
+"40063"," ","Hughes OK"," ",13806,1 
+"40065","11060","Jackson OK","Altus, OK (Micro)",25998,1 
+"40067"," ","Jefferson OK"," ",6292,1 
+"40069"," ","Johnston OK"," ",11103,1 
+"40071","38620","Kay OK","Ponca City, OK (Micro)",45478,1 
+"40073"," ","Kingfisher OK"," ",15532,1 
+"40075"," ","Kiowa OK"," ",9336,1 
+"40077"," ","Latimer OK"," ",10693,1 
+"40079","22900","Le Flore OK","Fort Smith, AR-OK (Metro)",49761,1 
+"40081","36420","Lincoln OK","Oklahoma City, OK (Metro)",34619,1 
+"40083","36420","Logan OK","Oklahoma City, OK (Metro)",45276,1 
+"40085"," ","Love OK"," ",9773,1 
+"40087","36420","McClain OK","Oklahoma City, OK (Metro)",37313,1 
+"40089"," ","McCurtain OK"," ",33050,1 
+"40091"," ","McIntosh OK"," ",20088,1 
+"40093"," ","Major OK"," ",7750,1 
+"40095"," ","Marshall OK"," ",16182,1 
+"40097"," ","Mayes OK"," ",40816,1 
+"40099"," ","Murray OK"," ",13803,1 
+"40101","34780","Muskogee OK","Muskogee, OK (Micro)",69966,1 
+"40103"," ","Noble OK"," ",11494,1 
+"40105"," ","Nowata OK"," ",10524,1 
+"40107"," ","Okfuskee OK"," ",12186,1 
+"40109","36420","Oklahoma OK","Oklahoma City, OK (Metro)",766215,1 
+"40111","46140","Okmulgee OK","Tulsa, OK (Metro)",39095,1 
+"40113","46140","Osage OK","Tulsa, OK (Metro)",47981,1 
+"40115","33060","Ottawa OK","Miami, OK (Micro)",32105,1 
+"40117","46140","Pawnee OK","Tulsa, OK (Metro)",16401,1 
+"40119","44660","Payne OK","Stillwater, OK (Micro)",80264,1 
+"40121","32540","Pittsburg OK","McAlester, OK (Micro)",44626,1 
+"40123","10220","Pontotoc OK","Ada, OK (Micro)",38005,1 
+"40125","43060","Pottawatomie OK","Shawnee, OK (Micro)",71811,1 
+"40127"," ","Pushmataha OK"," ",11125,1 
+"40129"," ","Roger Mills OK"," ",3761,1 
+"40131","46140","Rogers OK","Tulsa, OK (Metro)",89815,1 
+"40133"," ","Seminole OK"," ",25421,1 
+"40135","22900","Sequoyah OK","Fort Smith, AR-OK (Metro)",41358,1 
+"40137","20340","Stephens OK","Duncan, OK (Micro)",44493,1 
+"40139","25100","Texas OK","Guymon, OK (Micro)",21853,1 
+"40141"," ","Tillman OK"," ",7628,1 
+"40143","46140","Tulsa OK","Tulsa, OK (Metro)",629598,1 
+"40145","46140","Wagoner OK","Tulsa, OK (Metro)",75702,1 
+"40147","12780","Washington OK","Bartlesville, OK (Micro)",51937,1 
+"40149"," ","Washita OK"," ",11547,1 
+"40151"," ","Woods OK"," ",9288,1 
+"40153","49260","Woodward OK","Woodward, OK (Micro)",21529,1 
+"41001"," ","Baker OR"," ",16059,1 
+"41003","18700","Benton OR","Corvallis, OR (Metro)",86316,1 
+"41005","38900","Clackamas OR","Portland-Vancouver-Hillsboro, OR-WA (Metro)",394972,1 
+"41007","11820","Clatsop OR","Astoria, OR (Micro)",37474,1 
+"41009","38900","Columbia OR","Portland-Vancouver-Hillsboro, OR-WA (Metro)",49459,1 
+"41011","18300","Coos OR","Coos Bay, OR (Micro)",62475,1 
+"41013","39260","Crook OR","Prineville, OR (Micro)",20998,1 
+"41015","15060","Curry OR","Brookings, OR (Micro)",22335,1 
+"41017","13460","Deschutes OR","Bend-Redmond, OR (Metro)",170388,1 
+"41019","40700","Douglas OR","Roseburg, OR (Micro)",106972,1 
+"41021"," ","Gilliam OR"," ",1932,1 
+"41023"," ","Grant OR"," ",7180,1 
+"41025"," ","Harney OR"," ",7126,1 
+"41027","26220","Hood River OR","Hood River, OR (Micro)",22885,1 
+"41029","32780","Jackson OR","Medford, OR (Metro)",210287,1 
+"41031"," ","Jefferson OR"," ",22192,1 
+"41033","24420","Josephine OR","Grants Pass, OR (Metro)",83599,1 
+"41035","28900","Klamath OR","Klamath Falls, OR (Micro)",65455,1 
+"41037"," ","Lake OR"," ",7838,1 
+"41039","21660","Lane OR","Eugene, OR (Metro)",358337,1 
+"41041","35440","Lincoln OR","Newport, OR (Micro)",46406,1 
+"41043","10540","Linn OR","Albany, OR (Metro)",119356,1 
+"41045","36620","Malheur OR","Ontario, OR-ID (Micro)",30359,1 
+"41047","41420","Marion OR","Salem, OR (Metro)",326110,1 
+"41049","25840","Morrow OR","Hermiston-Pendleton, OR (Micro)",11187,1 
+"41051","38900","Multnomah OR","Portland-Vancouver-Hillsboro, OR-WA (Metro)",776712,1 
+"41053","41420","Polk OR","Salem, OR (Metro)",77916,1 
+"41055"," ","Sherman OR"," ",1710,1 
+"41057"," ","Tillamook OR"," ",25342,1 
+"41059","25840","Umatilla OR","Hermiston-Pendleton, OR (Micro)",76705,1 
+"41061","29260","Union OR","La Grande, OR (Micro)",25691,1 
+"41063"," ","Wallowa OR"," ",6820,1 
+"41065","45520","Wasco OR","The Dalles, OR (Micro)",25515,1 
+"41067","38900","Washington OR","Portland-Vancouver-Hillsboro, OR-WA (Metro)",562998,1 
+"41069"," ","Wheeler OR"," ",1375,1 
+"41071","38900","Yamhill OR","Portland-Vancouver-Hillsboro, OR-WA (Metro)",101758,1 
+"42001","23900","Adams PA","Gettysburg, PA (Metro)",101714,1 
+"42003","38300","Allegheny PA","Pittsburgh, PA (Metro)",1231255,1 
+"42005","38300","Armstrong PA","Pittsburgh, PA (Metro)",67785,1 
+"42007","38300","Beaver PA","Pittsburgh, PA (Metro)",169392,1 
+"42009"," ","Bedford PA"," ",48946,1 
+"42011","39740","Berks PA","Reading, PA (Metro)",413691,1 
+"42013","11020","Blair PA","Altoona, PA (Metro)",125955,1 
+"42015","42380","Bradford PA","Sayre, PA (Micro)",61784,1 
+"42017","37980","Bucks PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",626685,1 
+"42019","38300","Butler PA","Pittsburgh, PA (Metro)",185943,1 
+"42021","27780","Cambria PA","Johnstown, PA (Metro)",137732,1 
+"42023"," ","Cameron PA"," ",4805,1 
+"42025","10900","Carbon PA","Allentown-Bethlehem-Easton, PA-NJ (Metro)",64441,1 
+"42027","44300","Centre PA","State College, PA (Metro)",158742,1 
+"42029","37980","Chester PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",512784,1 
+"42031"," ","Clarion PA"," ",38821,1 
+"42033","20180","Clearfield PA","DuBois, PA (Micro)",81191,1 
+"42035","30820","Clinton PA","Lock Haven, PA (Micro)",39745,1 
+"42037","14100","Columbia PA","Bloomsburg-Berwick, PA (Metro)",67122,1 
+"42039","32740","Crawford PA","Meadville, PA (Micro)",87175,1 
+"42041","25420","Cumberland PA","Harrisburg-Carlisle, PA (Metro)",243762,1 
+"42043","25420","Dauphin PA","Harrisburg-Carlisle, PA (Metro)",271453,1 
+"42045","37980","Delaware PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",562960,1 
+"42047","41260","Elk PA","St. Marys, PA (Micro)",31194,1 
+"42049","21500","Erie PA","Erie, PA (Metro)",278443,1 
+"42051","38300","Fayette PA","Pittsburgh, PA (Metro)",134086,1 
+"42053"," ","Forest PA"," ",7518,1 
+"42055","16540","Franklin PA","Chambersburg-Waynesboro, PA (Metro)",152892,1 
+"42057"," ","Fulton PA"," ",14632,1 
+"42059"," ","Greene PA"," ",37843,1 
+"42061","26500","Huntingdon PA","Huntingdon, PA (Micro)",45750,1 
+"42063","26860","Indiana PA","Indiana, PA (Micro)",87706,1 
+"42065"," ","Jefferson PA"," ",44638,1 
+"42067"," ","Juniata PA"," ",24796,1 
+"42069","42540","Lackawanna PA","Scranton--Wilkes-Barre--Hazleton, PA (Metro)",212719,1 
+"42071","29540","Lancaster PA","Lancaster, PA (Metro)",533320,1 
+"42073","35260","Lawrence PA","New Castle, PA (Micro)",88771,1 
+"42075","30140","Lebanon PA","Lebanon, PA (Metro)",136359,1 
+"42077","10900","Lehigh PA","Allentown-Bethlehem-Easton, PA-NJ (Metro)",357823,1 
+"42079","42540","Luzerne PA","Scranton--Wilkes-Barre--Hazleton, PA (Metro)",318829,1 
+"42081","48700","Lycoming PA","Williamsport, PA (Metro)",116508,1 
+"42083","14620","Mc Kean PA","Bradford, PA (Micro)",42554,1 
+"42085","49660","Mercer PA","Youngstown-Warren-Boardman, OH-PA (Metro)",114884,1 
+"42087","30380","Mifflin PA","Lewistown, PA (Micro)",46552,1 
+"42089","20700","Monroe PA","East Stroudsburg, PA (Metro)",166314,1 
+"42091","37980","Montgomery PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",816857,1 
+"42093","14100","Montour PA","Bloomsburg-Berwick, PA (Metro)",18641,1 
+"42095","10900","Northampton PA","Allentown-Bethlehem-Easton, PA-NJ (Metro)",300654,1 
+"42097","44980","Northumberland PA","Sunbury, PA (Micro)",93944,1 
+"42099","25420","Perry PA","Harrisburg-Carlisle, PA (Metro)",45634,1 
+"42101","37980","Philadelphia PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metro)",1560297,1 
+"42103","35620","Pike PA","New York-Newark-Jersey City, NY-NJ-PA (Metro)",56191,1 
+"42105"," ","Potter PA"," ",17206,1 
+"42107","39060","Schuylkill PA","Pottsville, PA (Micro)",145797,1 
+"42109","42780","Snyder PA","Selinsgrove, PA (Micro)",40323,1 
+"42111","43740","Somerset PA","Somerset, PA (Micro)",76218,1 
+"42113"," ","Sullivan PA"," ",6339,1 
+"42115"," ","Susquehanna PA"," ",41920,1 
+"42117"," ","Tioga PA"," ",42274,1 
+"42119","30260","Union PA","Lewisburg, PA (Micro)",44874,1 
+"42121","36340","Venango PA","Oil City, PA (Micro)",53529,1 
+"42123","47620","Warren PA","Warren, PA (Micro)",40703,1 
+"42125","38300","Washington PA","Pittsburgh, PA (Metro)",208187,1 
+"42127"," ","Wayne PA"," ",51401,1 
+"42129","38300","Westmoreland PA","Pittsburgh, PA (Metro)",359320,1 
+"42131","42540","Wyoming PA","Scranton--Wilkes-Barre--Hazleton, PA (Metro)",28131,1 
+"42133","49620","York PA","York-Hanover, PA (Metro)",440755,1 
+"44001","39300","Bristol RI","Providence-Warwick, RI-MA (Metro)",49060,1 
+"44003","39300","Kent RI","Providence-Warwick, RI-MA (Metro)",165128,1 
+"44005","39300","Newport RI","Providence-Warwick, RI-MA (Metro)",82358,1 
+"44007","39300","Providence RI","Providence-Warwick, RI-MA (Metro)",631974,1 
+"44009","39300","Washington RI","Providence-Warwick, RI-MA (Metro)",126653,1 
+"45001","24940","Abbeville SC","Greenwood, SC (Micro)",24965,1 
+"45003","12260","Aiken SC","Augusta-Richmond County, GA-SC (Metro)",164753,1 
+"45005"," ","Allendale SC"," ",9695,1 
+"45007","24860","Anderson SC","Greenville-Anderson-Mauldin, SC (Metro)",192810,1 
+"45009"," ","Bamberg SC"," ",15182,1 
+"45011"," ","Barnwell SC"," ",21959,1 
+"45013","25940","Beaufort SC","Hilton Head Island-Bluffton-Beaufort, SC (Metro)",175852,1 
+"45015","16700","Berkeley SC","Charleston-North Charleston, SC (Metro)",198205,1 
+"45017","17900","Calhoun SC","Columbia, SC (Metro)",14878,1 
+"45019","16700","Charleston SC","Charleston-North Charleston, SC (Metro)",381015,1 
+"45021","23500","Cherokee SC","Gaffney, SC (Micro)",56024,1 
+"45023","16740","Chester SC","Charlotte-Concord-Gastonia, NC-SC (Metro)",32337,1 
+"45025"," ","Chesterfield SC"," ",46125,1 
+"45027"," ","Clarendon SC"," ",34113,1 
+"45029"," ","Colleton SC"," ",37771,1 
+"45031","22500","Darlington SC","Florence, SC (Metro)",67799,1 
+"45033"," ","Dillon SC"," ",31127,1 
+"45035","16700","Dorchester SC","Charleston-North Charleston, SC (Metro)",148469,1 
+"45037","12260","Edgefield SC","Augusta-Richmond County, GA-SC (Metro)",26553,1 
+"45039","17900","Fairfield SC","Columbia, SC (Metro)",22976,1 
+"45041","22500","Florence SC","Florence, SC (Metro)",139231,1 
+"45043","23860","Georgetown SC","Georgetown, SC (Micro)",60773,1 
+"45045","24860","Greenville SC","Greenville-Anderson-Mauldin, SC (Metro)",482752,1 
+"45047","24940","Greenwood SC","Greenwood, SC (Micro)",69520,1 
+"45049"," ","Hampton SC"," ",20405,1 
+"45051","34820","Horry SC","Myrtle Beach-Conway-North Myrtle Beach, SC-NC (Metro)",298832,1 
+"45053","25940","Jasper SC","Hilton Head Island-Bluffton-Beaufort, SC (Metro)",27170,1 
+"45055","17900","Kershaw SC","Columbia, SC (Metro)",63161,1 
+"45057","16740","Lancaster SC","Charlotte-Concord-Gastonia, NC-SC (Metro)",83160,1 
+"45059","24860","Laurens SC","Greenville-Anderson-Mauldin, SC (Metro)",66533,1 
+"45061"," ","Lee SC"," ",18343,1 
+"45063","17900","Lexington SC","Columbia, SC (Metro)",277888,1 
+"45065"," ","McCormick SC"," ",9846,1 
+"45067"," ","Marion SC"," ",31933,1 
+"45069","13500","Marlboro SC","Bennettsville, SC (Micro)",27924,1 
+"45071","35140","Newberry SC","Newberry, SC (Micro)",37783,1 
+"45073","42860","Oconee SC","Seneca, SC (Micro)",75192,1 
+"45075","36700","Orangeburg SC","Orangeburg, SC (Micro)",90090,1 
+"45077","24860","Pickens SC","Greenville-Anderson-Mauldin, SC (Metro)",120368,1 
+"45079","17900","Richland SC","Columbia, SC (Metro)",401566,1 
+"45081","17900","Saluda SC","Columbia, SC (Metro)",20026,1 
+"45083","43900","Spartanburg SC","Spartanburg, SC (Metro)",293542,1 
+"45085","44940","Sumter SC","Sumter, SC (Metro)",107919,1 
+"45087","43900","Union SC","Spartanburg, SC (Metro)",27876,1 
+"45089"," ","Williamsburg SC"," ",32695,1 
+"45091","16740","York SC","Charlotte-Concord-Gastonia, NC-SC (Metro)",245346,1 
+"46003"," ","Aurora SD"," ",2745,1 
+"46005","26700","Beadle SD","Huron, SD (Micro)",18169,1 
+"46007"," ","Bennett SD"," ",3430,1 
+"46009"," ","Bon Homme SD"," ",7023,1 
+"46011","15100","Brookings SD","Brookings, SD (Micro)",33314,1 
+"46013","10100","Brown SD","Aberdeen, SD (Micro)",38408,1 
+"46015"," ","Brule SD"," ",5309,1 
+"46017"," ","Buffalo SD"," ",2077,1 
+"46019"," ","Butte SD"," ",10298,1 
+"46021"," ","Campbell SD"," ",1386,1 
+"46023"," ","Charles Mix SD"," ",9287,1 
+"46025"," ","Clark SD"," ",3645,1 
+"46027","46820","Clay SD","Vermillion, SD (Micro)",13932,1 
+"46029","47980","Codington SD","Watertown, SD (Micro)",27938,1 
+"46031"," ","Corson SD"," ",4182,1 
+"46033","39660","Custer SD","Rapid City, SD (Metro)",8445,1 
+"46035","33580","Davison SD","Mitchell, SD (Micro)",19885,1 
+"46037"," ","Day SD"," ",5588,1 
+"46039"," ","Deuel SD"," ",4312,1 
+"46041"," ","Dewey SD"," ",5662,1 
+"46043"," ","Douglas SD"," ",2973,1 
+"46045","10100","Edmunds SD","Aberdeen, SD (Micro)",3983,1 
+"46047"," ","Fall River SD"," ",6845,1 
+"46049"," ","Faulk SD"," ",2357,1 
+"46051"," ","Grant SD"," ",7241,1 
+"46053"," ","Gregory SD"," ",4217,1 
+"46055"," ","Haakon SD"," ",1847,1 
+"46057"," ","Hamlin SD"," ",5989,1 
+"46059"," ","Hand SD"," ",3345,1 
+"46061","33580","Hanson SD","Mitchell, SD (Micro)",3419,1 
+"46063"," ","Harding SD"," ",1250,1 
+"46065","38180","Hughes SD","Pierre, SD (Micro)",17642,1 
+"46067"," ","Hutchinson SD"," ",7200,1 
+"46069"," ","Hyde SD"," ",1396,1 
+"46071"," ","Jackson SD"," ",3274,1 
+"46073"," ","Jerauld SD"," ",2007,1 
+"46075"," ","Jones SD"," ",975,1 
+"46077"," ","Kingsbury SD"," ",5075,1 
+"46079"," ","Lake SD"," ",12368,1 
+"46081","43940","Lawrence SD","Spearfish, SD (Micro)",24657,1 
+"46083","43620","Lincoln SD","Sioux Falls, SD (Metro)",51548,1 
+"46085"," ","Lyman SD"," ",3877,1 
+"46087","43620","McCook SD","Sioux Falls, SD (Metro)",5649,1 
+"46089"," ","McPherson SD"," ",2429,1 
+"46091"," ","Marshall SD"," ",4683,1 
+"46093","39660","Meade SD","Rapid City, SD (Metro)",26951,1 
+"46095"," ","Mellette SD"," ",2100,1 
+"46097"," ","Miner SD"," ",2316,1 
+"46099","43620","Minnehaha SD","Sioux Falls, SD (Metro)",182882,1 
+"46101"," ","Moody SD"," ",6367,1 
+"46103","39660","Pennington SD","Rapid City, SD (Metro)",108242,1 
+"46105"," ","Perkins SD"," ",3033,1 
+"46107"," ","Potter SD"," ",2340,1 
+"46109"," ","Roberts SD"," ",10374,1 
+"46111"," ","Sanborn SD"," ",2336,1 
+"46113"," ","Shannon SD (D)"," ",14218,1 
+"46115"," ","Spink SD"," ",6598,1 
+"46117","38180","Stanley SD","Pierre, SD (Micro)",2983,1 
+"46119","38180","Sully SD","Pierre, SD (Micro)",1438,1 
+"46121"," ","Todd SD"," ",9882,1 
+"46123"," ","Tripp SD"," ",5512,1 
+"46125","43620","Turner SD","Sioux Falls, SD (Metro)",8272,1 
+"46127","43580","Union SD","Sioux City, IA-NE-SD (Metro)",15029,1 
+"46129"," ","Walworth SD"," ",5511,1 
+"46135","49460","Yankton SD","Yankton, SD (Micro)",22684,1 
+"46137"," ","Ziebach SD"," ",2826,1 
+"47001","28940","Anderson TN","Knoxville, TN (Metro)",75528,1 
+"47003","43180","Bedford TN","Shelbyville, TN (Micro)",46627,1 
+"47005"," ","Benton TN"," ",16145,1 
+"47007"," ","Bledsoe TN"," ",13931,1 
+"47009","28940","Blount TN","Knoxville, TN (Metro)",126339,1 
+"47011","17420","Bradley TN","Cleveland, TN (Metro)",102975,1 
+"47013","28940","Campbell TN","Knoxville, TN (Metro)",39918,1 
+"47015","34980","Cannon TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",13757,1 
+"47017"," ","Carroll TN"," ",28370,1 
+"47019","27740","Carter TN","Johnson City, TN (Metro)",56886,1 
+"47021","34980","Cheatham TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",39764,1 
+"47023","27180","Chester TN","Jackson, TN (Metro)",17379,1 
+"47025"," ","Claiborne TN"," ",31592,1 
+"47027"," ","Clay TN"," ",7765,1 
+"47029","35460","Cocke TN","Newport, TN (Micro)",35374,1 
+"47031","46100","Coffee TN","Tullahoma-Manchester, TN (Micro)",53623,1 
+"47033","27180","Crockett TN","Jackson, TN (Metro)",14668,1 
+"47035","18900","Cumberland TN","Crossville, TN (Micro)",57985,1 
+"47037","34980","Davidson TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",668347,1 
+"47039"," ","Decatur TN"," ",11666,1 
+"47041"," ","DeKalb TN"," ",19268,1 
+"47043","34980","Dickson TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",50575,1 
+"47045","20540","Dyer TN","Dyersburg, TN (Micro)",37935,1 
+"47047","32820","Fayette TN","Memphis, TN-MS-AR (Metro)",39011,1 
+"47049"," ","Fentress TN"," ",17855,1 
+"47051","46100","Franklin TN","Tullahoma-Manchester, TN (Micro)",41402,1 
+"47053"," ","Gibson TN"," ",49472,1 
+"47055"," ","Giles TN"," ",28853,1 
+"47057","28940","Grainger TN","Knoxville, TN (Metro)",22864,1 
+"47059","24620","Greene TN","Greeneville, TN (Micro)",68335,1 
+"47061"," ","Grundy TN"," ",13425,1 
+"47063","34100","Hamblen TN","Morristown, TN (Metro)",63036,1 
+"47065","16860","Hamilton TN","Chattanooga, TN-GA (Metro)",351220,1 
+"47067"," ","Hancock TN"," ",6657,1 
+"47069"," ","Hardeman TN"," ",25965,1 
+"47071"," ","Hardin TN"," ",25870,1 
+"47073","28700","Hawkins TN","Kingsport-Bristol-Bristol, TN-VA (Metro)",56735,1 
+"47075","15140","Haywood TN","Brownsville, TN (Micro)",18185,1 
+"47077"," ","Henderson TN"," ",28009,1 
+"47079","37540","Henry TN","Paris, TN (Micro)",32204,1 
+"47081","34980","Hickman TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",24384,1 
+"47083"," ","Houston TN"," ",8267,1 
+"47085"," ","Humphreys TN"," ",18135,1 
+"47087","18260","Jackson TN","Cookeville, TN (Micro)",11568,1 
+"47089","34100","Jefferson TN","Morristown, TN (Metro)",52677,1 
+"47091"," ","Johnson TN"," ",17859,1 
+"47093","28940","Knox TN","Knoxville, TN (Metro)",448644,1 
+"47095"," ","Lake TN"," ",7631,1 
+"47097"," ","Lauderdale TN"," ",27382,1 
+"47099","29980","Lawrence TN","Lawrenceburg, TN (Micro)",42274,1 
+"47101"," ","Lewis TN"," ",11906,1 
+"47103"," ","Lincoln TN"," ",33637,1 
+"47105","28940","Loudon TN","Knoxville, TN (Metro)",50771,1 
+"47107","11940","McMinn TN","Athens, TN (Micro)",52626,1 
+"47109"," ","McNairy TN"," ",26267,1 
+"47111","34980","Macon TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",23003,1 
+"47113","27180","Madison TN","Jackson, TN (Metro)",98178,1 
+"47115","16860","Marion TN","Chattanooga, TN-GA (Metro)",28407,1 
+"47117","30280","Marshall TN","Lewisburg, TN (Micro)",31269,1 
+"47119","34980","Maury TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",85515,1 
+"47121"," ","Meigs TN"," ",11701,1 
+"47123"," ","Monroe TN"," ",45233,1 
+"47125","17300","Montgomery TN","Clarksville, TN-KY (Metro)",189961,1 
+"47127","46100","Moore TN","Tullahoma-Manchester, TN (Micro)",6319,1 
+"47129","28940","Morgan TN","Knoxville, TN (Metro)",21660,1 
+"47131","46460","Obion TN","Union City, TN-KY (Micro)",30941,1 
+"47133","18260","Overton TN","Cookeville, TN (Micro)",22028,1 
+"47135"," ","Perry TN"," ",7822,1 
+"47137"," ","Pickett TN"," ",5124,1 
+"47139","17420","Polk TN","Cleveland, TN (Metro)",16730,1 
+"47141","18260","Putnam TN","Cookeville, TN (Micro)",74165,1 
+"47143","19420","Rhea TN","Dayton, TN (Micro)",32641,1 
+"47145","28940","Roane TN","Knoxville, TN (Metro)",52748,1 
+"47147","34980","Robertson TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",68079,1 
+"47149","34980","Rutherford TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",288906,1 
+"47151"," ","Scott TN"," ",21987,1 
+"47153","16860","Sequatchie TN","Chattanooga, TN-GA (Metro)",14704,1 
+"47155","42940","Sevier TN","Sevierville, TN (Micro)",95110,1 
+"47157","32820","Shelby TN","Memphis, TN-MS-AR (Metro)",938803,1 
+"47159","34980","Smith TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",19009,1 
+"47161"," ","Stewart TN"," ",13279,1 
+"47163","28700","Sullivan TN","Kingsport-Bristol-Bristol, TN-VA (Metro)",157047,1 
+"47165","34980","Sumner TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",172706,1 
+"47167","32820","Tipton TN","Memphis, TN-MS-AR (Metro)",61623,1 
+"47169","34980","Trousdale TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",8002,1 
+"47171","27740","Unicoi TN","Johnson City, TN (Metro)",17963,1 
+"47173","28940","Union TN","Knoxville, TN (Metro)",19113,1 
+"47175"," ","Van Buren TN"," ",5633,1 
+"47177","32660","Warren TN","McMinnville, TN (Micro)",39969,1 
+"47179","27740","Washington TN","Johnson City, TN (Metro)",126242,1 
+"47181"," ","Wayne TN"," ",16913,1 
+"47183","32280","Weakley TN","Martin, TN (Micro)",34373,1 
+"47185"," ","White TN"," ",26301,1 
+"47187","34980","Williamson TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",205226,1 
+"47189","34980","Wilson TN","Nashville-Davidson--Murfreesboro--Franklin, TN (Metro)",125376,1 
+"48001","37300","Anderson TX","Palestine, TX (Micro)",57627,1 
+"48003","11380","Andrews TX","Andrews, TX (Micro)",17477,1 
+"48005","31260","Angelina TX","Lufkin, TX (Micro)",87750,1 
+"48007","18580","Aransas TX","Corpus Christi, TX (Metro)",24972,1 
+"48009","48660","Archer TX","Wichita Falls, TX (Metro)",8811,1 
+"48011","11100","Armstrong TX","Amarillo, TX (Metro)",1955,1 
+"48013","41700","Atascosa TX","San Antonio-New Braunfels, TX (Metro)",47774,1 
+"48015","26420","Austin TX","Houston-The Woodlands-Sugar Land, TX (Metro)",29114,1 
+"48017"," ","Bailey TX"," ",6910,1 
+"48019","41700","Bandera TX","San Antonio-New Braunfels, TX (Metro)",20892,1 
+"48021","12420","Bastrop TX","Austin-Round Rock, TX (Metro)",78069,1 
+"48023"," ","Baylor TX"," ",3592,1 
+"48025","13300","Bee TX","Beeville, TX (Micro)",32863,1 
+"48027","28660","Bell TX","Killeen-Temple, TX (Metro)",329140,1 
+"48029","41700","Bexar TX","San Antonio-New Braunfels, TX (Metro)",1855866,1 
+"48031"," ","Blanco TX"," ",10812,1 
+"48033"," ","Borden TX"," ",652,1 
+"48035"," ","Bosque TX"," ",17780,1 
+"48037","45500","Bowie TX","Texarkana, TX-AR (Metro)",93275,1 
+"48039","26420","Brazoria TX","Houston-The Woodlands-Sugar Land, TX (Metro)",338124,1 
+"48041","17780","Brazos TX","College Station-Bryan, TX (Metro)",209152,1 
+"48043"," ","Brewster TX"," ",9173,1 
+"48045"," ","Briscoe TX"," ",1536,1 
+"48047"," ","Brooks TX"," ",7194,1 
+"48049","15220","Brown TX","Brownwood, TX (Micro)",37653,1 
+"48051","17780","Burleson TX","College Station-Bryan, TX (Metro)",17253,1 
+"48053"," ","Burnet TX"," ",44943,1 
+"48055","12420","Caldwell TX","Austin-Round Rock, TX (Metro)",39810,1 
+"48057","38920","Calhoun TX","Port Lavaca, TX (Micro)",21797,1 
+"48059","10180","Callahan TX","Abilene, TX (Metro)",13513,1 
+"48061","15180","Cameron TX","Brownsville-Harlingen, TX (Metro)",420392,1 
+"48063"," ","Camp TX"," ",12621,1 
+"48065","11100","Carson TX","Amarillo, TX (Metro)",6013,1 
+"48067"," ","Cass TX"," ",30261,1 
+"48069"," ","Castro TX"," ",7781,1 
+"48071","26420","Chambers TX","Houston-The Woodlands-Sugar Land, TX (Metro)",38145,1 
+"48073","27380","Cherokee TX","Jacksonville, TX (Micro)",50902,1 
+"48075"," ","Childress TX"," ",7089,1 
+"48077","48660","Clay TX","Wichita Falls, TX (Metro)",10370,1 
+"48079"," ","Cochran TX"," ",2935,1 
+"48081"," ","Coke TX"," ",3254,1 
+"48083"," ","Coleman TX"," ",8430,1 
+"48085","19100","Collin TX","Dallas-Fort Worth-Arlington, TX (Metro)",885241,1 
+"48087"," ","Collingsworth TX"," ",3017,1 
+"48089"," ","Colorado TX"," ",20719,1 
+"48091","41700","Comal TX","San Antonio-New Braunfels, TX (Metro)",123694,1 
+"48093"," ","Comanche TX"," ",13550,1 
+"48095"," ","Concho TX"," ",4050,1 
+"48097","23620","Cooke TX","Gainesville, TX (Micro)",38761,1 
+"48099","28660","Coryell TX","Killeen-Temple, TX (Metro)",75562,1 
+"48101"," ","Cottle TX"," ",1415,1 
+"48103"," ","Crane TX"," ",4950,1 
+"48105"," ","Crockett TX"," ",3812,1 
+"48107","31180","Crosby TX","Lubbock, TX (Metro)",5899,1 
+"48109"," ","Culberson TX"," ",2266,1 
+"48111"," ","Dallam TX"," ",7135,1 
+"48113","19100","Dallas TX","Dallas-Fort Worth-Arlington, TX (Metro)",2518638,1 
+"48115","29500","Dawson TX","Lamesa, TX (Micro)",13372,1 
+"48117","25820","Deaf Smith TX","Hereford, TX (Micro)",19195,1 
+"48119"," ","Delta TX"," ",5238,1 
+"48121","19100","Denton TX","Dallas-Fort Worth-Arlington, TX (Metro)",753363,1 
+"48123"," ","DeWitt TX"," ",20684,1 
+"48125"," ","Dickens TX"," ",2218,1 
+"48127"," ","Dimmit TX"," ",11089,1 
+"48129"," ","Donley TX"," ",3543,1 
+"48131"," ","Duval TX"," ",11533,1 
+"48133"," ","Eastland TX"," ",18176,1 
+"48135","36220","Ector TX","Odessa, TX (Metro)",153904,1 
+"48137"," ","Edwards TX"," ",1879,1 
+"48139","19100","Ellis TX","Dallas-Fort Worth-Arlington, TX (Metro)",159317,1 
+"48141","21340","El Paso TX","El Paso, TX (Metro)",833487,1 
+"48143","44500","Erath TX","Stephenville, TX (Micro)",40147,1 
+"48145","47380","Falls TX","Waco, TX (Metro)",16989,1 
+"48147","14300","Fannin TX","Bonham, TX (Micro)",33752,1 
+"48149"," ","Fayette TX"," ",24833,1 
+"48151"," ","Fisher TX"," ",3831,1 
+"48153"," ","Floyd TX"," ",5949,1 
+"48155"," ","Foard TX"," ",1275,1 
+"48157","26420","Fort Bend TX","Houston-The Woodlands-Sugar Land, TX (Metro)",685345,1 
+"48159"," ","Franklin TX"," ",10600,1 
+"48161"," ","Freestone TX"," ",19762,1 
+"48163"," ","Frio TX"," ",18531,1 
+"48165"," ","Gaines TX"," ",19425,1 
+"48167","26420","Galveston TX","Houston-The Woodlands-Sugar Land, TX (Metro)",314198,1 
+"48169"," ","Garza TX"," ",6435,1 
+"48171","23240","Gillespie TX","Fredericksburg, TX (Micro)",25520,1 
+"48173","13700","Glasscock TX","Big Spring, TX (Micro)",1291,1 
+"48175","47020","Goliad TX","Victoria, TX (Metro)",7549,1 
+"48177"," ","Gonzales TX"," ",20462,1 
+"48179","37420","Gray TX","Pampa, TX (Micro)",23044,1 
+"48181","43300","Grayson TX","Sherman-Denison, TX (Metro)",123534,1 
+"48183","30980","Gregg TX","Longview, TX (Metro)",123204,1 
+"48185"," ","Grimes TX"," ",27172,1 
+"48187","41700","Guadalupe TX","San Antonio-New Braunfels, TX (Metro)",147250,1 
+"48189","38380","Hale TX","Plainview, TX (Micro)",34720,1 
+"48191"," ","Hall TX"," ",3147,1 
+"48193"," ","Hamilton TX"," ",8199,1 
+"48195"," ","Hansford TX"," ",5509,1 
+"48197"," ","Hardeman TX"," ",3928,1 
+"48199","13140","Hardin TX","Beaumont-Port Arthur, TX (Metro)",55621,1 
+"48201","26420","Harris TX","Houston-The Woodlands-Sugar Land, TX (Metro)",4441370,1 
+"48203","32220","Harrison TX","Marshall, TX (Micro)",67336,1 
+"48205"," ","Hartley TX"," ",6089,1 
+"48207"," ","Haskell TX"," ",5769,1 
+"48209","12420","Hays TX","Austin-Round Rock, TX (Metro)",185025,1 
+"48211"," ","Hemphill TX"," ",4180,1 
+"48213","11980","Henderson TX","Athens, TX (Micro)",79290,1 
+"48215","32580","Hidalgo TX","McAllen-Edinburg-Mission, TX (Metro)",831073,1 
+"48217"," ","Hill TX"," ",34848,1 
+"48219","30220","Hockley TX","Levelland, TX (Micro)",23577,1 
+"48221","19100","Hood TX","Dallas-Fort Worth-Arlington, TX (Metro)",53921,1 
+"48223","44860","Hopkins TX","Sulphur Springs, TX (Micro)",35921,1 
+"48225"," ","Houston TX"," ",22741,1 
+"48227","13700","Howard TX","Big Spring, TX (Micro)",36651,1 
+"48229","21340","Hudspeth TX","El Paso, TX (Metro)",3211,1 
+"48231","19100","Hunt TX","Dallas-Fort Worth-Arlington, TX (Metro)",88493,1 
+"48233","14420","Hutchinson TX","Borger, TX (Micro)",21773,1 
+"48235","41660","Irion TX","San Angelo, TX (Metro)",1574,1 
+"48237"," ","Jack TX"," ",8855,1 
+"48239"," ","Jackson TX"," ",14739,1 
+"48241"," ","Jasper TX"," ",35552,1 
+"48243"," ","Jeff Davis TX"," ",2204,1 
+"48245","13140","Jefferson TX","Beaumont-Port Arthur, TX (Metro)",252235,1 
+"48247"," ","Jim Hogg TX"," ",5255,1 
+"48249","10860","Jim Wells TX","Alice, TX (Micro)",41353,1 
+"48251","19100","Johnson TX","Dallas-Fort Worth-Arlington, TX (Metro)",157456,1 
+"48253","10180","Jones TX","Abilene, TX (Metro)",19936,1 
+"48255"," ","Karnes TX"," ",14906,1 
+"48257","19100","Kaufman TX","Dallas-Fort Worth-Arlington, TX (Metro)",111236,1 
+"48259","41700","Kendall TX","San Antonio-New Braunfels, TX (Metro)",38880,1 
+"48261","28780","Kenedy TX","Kingsville, TX (Micro)",400,1 
+"48263"," ","Kent TX"," ",785,1 
+"48265","28500","Kerr TX","Kerrville, TX (Micro)",50562,1 
+"48267"," ","Kimble TX"," ",4438,1 
+"48269"," ","King TX"," ",262,1 
+"48271"," ","Kinney TX"," ",3526,1 
+"48273","28780","Kleberg TX","Kingsville, TX (Micro)",32190,1 
+"48275"," ","Knox TX"," ",3858,1 
+"48277","37580","Lamar TX","Paris, TX (Micro)",49523,1 
+"48279"," ","Lamb TX"," ",13574,1 
+"48281","28660","Lampasas TX","Killeen-Temple, TX (Metro)",20156,1 
+"48283"," ","La Salle TX"," ",7474,1 
+"48285"," ","Lavaca TX"," ",19721,1 
+"48287"," ","Lee TX"," ",16742,1 
+"48289"," ","Leon TX"," ",16861,1 
+"48291","26420","Liberty TX","Houston-The Woodlands-Sugar Land, TX (Metro)",78117,1 
+"48293"," ","Limestone TX"," ",23524,1 
+"48295"," ","Lipscomb TX"," ",3553,1 
+"48297"," ","Live Oak TX"," ",12091,1 
+"48299"," ","Llano TX"," ",19510,1 
+"48301"," ","Loving TX"," ",86,1 
+"48303","31180","Lubbock TX","Lubbock, TX (Metro)",293974,1 
+"48305","31180","Lynn TX","Lubbock, TX (Metro)",5771,1 
+"48307"," ","McCulloch TX"," ",8199,1 
+"48309","47380","McLennan TX","Waco, TX (Metro)",243441,1 
+"48311"," ","McMullen TX"," ",805,1 
+"48313"," ","Madison TX"," ",13861,1 
+"48315"," ","Marion TX"," ",10149,1 
+"48317","33260","Martin TX","Midland, TX (Metro)",5460,1 
+"48319"," ","Mason TX"," ",4071,1 
+"48321","13060","Matagorda TX","Bay City, TX (Micro)",36519,1 
+"48323","20580","Maverick TX","Eagle Pass, TX (Micro)",57023,1 
+"48325","41700","Medina TX","San Antonio-New Braunfels, TX (Metro)",47894,1 
+"48327"," ","Menard TX"," ",2147,1 
+"48329","33260","Midland TX","Midland, TX (Metro)",155830,1 
+"48331"," ","Milam TX"," ",24256,1 
+"48333"," ","Mills TX"," ",4870,1 
+"48335"," ","Mitchell TX"," ",9076,1 
+"48337"," ","Montague TX"," ",19416,1 
+"48339","26420","Montgomery TX","Houston-The Woodlands-Sugar Land, TX (Metro)",518947,1 
+"48341","20300","Moore TX","Dumas, TX (Micro)",22148,1 
+"48343"," ","Morris TX"," ",12743,1 
+"48345"," ","Motley TX"," ",1153,1 
+"48347","34860","Nacogdoches TX","Nacogdoches, TX (Micro)",65301,1 
+"48349","18620","Navarro TX","Corsicana, TX (Micro)",48195,1 
+"48351","13140","Newton TX","Beaumont-Port Arthur, TX (Metro)",14138,1 
+"48353","45020","Nolan TX","Sweetwater, TX (Micro)",15093,1 
+"48355","18580","Nueces TX","Corpus Christi, TX (Metro)",356221,1 
+"48357"," ","Ochiltree TX"," ",10758,1 
+"48359","11100","Oldham TX","Amarillo, TX (Metro)",2070,1 
+"48361","13140","Orange TX","Beaumont-Port Arthur, TX (Metro)",83433,1 
+"48363","33420","Palo Pinto TX","Mineral Wells, TX (Micro)",28096,1 
+"48365"," ","Panola TX"," ",23769,1 
+"48367","19100","Parker TX","Dallas-Fort Worth-Arlington, TX (Metro)",123164,1 
+"48369"," ","Parmer TX"," ",9908,1 
+"48371"," ","Pecos TX"," ",15893,1 
+"48373"," ","Polk TX"," ",46079,1 
+"48375","11100","Potter TX","Amarillo, TX (Metro)",121627,1 
+"48377"," ","Presidio TX"," ",6976,1 
+"48379"," ","Rains TX"," ",11032,1 
+"48381","11100","Randall TX","Amarillo, TX (Metro)",128220,1 
+"48383"," ","Reagan TX"," ",3755,1 
+"48385"," ","Real TX"," ",3371,1 
+"48387"," ","Red River TX"," ",12446,1 
+"48389","37780","Reeves TX","Pecos, TX (Micro)",14349,1 
+"48391"," ","Refugio TX"," ",7302,1 
+"48393"," ","Roberts TX"," ",928,1 
+"48395","17780","Robertson TX","College Station-Bryan, TX (Metro)",16500,1 
+"48397","19100","Rockwall TX","Dallas-Fort Worth-Arlington, TX (Metro)",87809,1 
+"48399"," ","Runnels TX"," ",10416,1 
+"48401","30980","Rusk TX","Longview, TX (Metro)",53923,1 
+"48403"," ","Sabine TX"," ",10350,1 
+"48405"," ","San Augustine TX"," ",8610,1 
+"48407"," ","San Jacinto TX"," ",27099,1 
+"48409","18580","San Patricio TX","Corpus Christi, TX (Metro)",66915,1 
+"48411"," ","San Saba TX"," ",5622,1 
+"48413"," ","Schleicher TX"," ",3162,1 
+"48415","43660","Scurry TX","Snyder, TX (Micro)",17328,1 
+"48417"," ","Shackelford TX"," ",3343,1 
+"48419"," ","Shelby TX"," ",25515,1 
+"48421"," ","Sherman TX"," ",3084,1 
+"48423","46340","Smith TX","Tyler, TX (Metro)",218842,1 
+"48425","19100","Somervell TX","Dallas-Fort Worth-Arlington, TX (Metro)",8694,1 
+"48427","40100","Starr TX","Rio Grande City, TX (Micro)",62955,1 
+"48429"," ","Stephens TX"," ",9405,1 
+"48431"," ","Sterling TX"," ",1339,1 
+"48433"," ","Stonewall TX"," ",1403,1 
+"48435"," ","Sutton TX"," ",3972,1 
+"48437"," ","Swisher TX"," ",7581,1 
+"48439","19100","Tarrant TX","Dallas-Fort Worth-Arlington, TX (Metro)",1945360,1 
+"48441","10180","Taylor TX","Abilene, TX (Metro)",135143,1 
+"48443"," ","Terrell TX"," ",927,1 
+"48445"," ","Terry TX"," ",12739,1 
+"48447"," ","Throckmorton TX"," ",1608,1 
+"48449","34420","Titus TX","Mount Pleasant, TX (Micro)",32506,1 
+"48451","41660","Tom Green TX","San Angelo, TX (Metro)",116608,1 
+"48453","12420","Travis TX","Austin-Round Rock, TX (Metro)",1151145,1 
+"48455","26660","Trinity TX","Huntsville, TX (Micro)",14224,1 
+"48457"," ","Tyler TX"," ",21418,1 
+"48459","30980","Upshur TX","Longview, TX (Metro)",40354,1 
+"48461"," ","Upton TX"," ",3454,1 
+"48463","46620","Uvalde TX","Uvalde, TX (Micro)",27117,1 
+"48465","19620","Val Verde TX","Del Rio, TX (Micro)",48974,1 
+"48467"," ","Van Zandt TX"," ",52910,1 
+"48469","47020","Victoria TX","Victoria, TX (Metro)",91081,1 
+"48471","26660","Walker TX","Huntsville, TX (Micro)",69789,1 
+"48473","26420","Waller TX","Houston-The Woodlands-Sugar Land, TX (Metro)",46820,1 
+"48475"," ","Ward TX"," ",11625,1 
+"48477","14780","Washington TX","Brenham, TX (Micro)",34438,1 
+"48479","29700","Webb TX","Laredo, TX (Metro)",266673,1 
+"48481","20900","Wharton TX","El Campo, TX (Micro)",41168,1 
+"48483"," ","Wheeler TX"," ",5714,1 
+"48485","48660","Wichita TX","Wichita Falls, TX (Metro)",132355,1 
+"48487","46900","Wilbarger TX","Vernon, TX (Micro)",12973,1 
+"48489","39700","Willacy TX","Raymondville, TX (Micro)",21903,1 
+"48491","12420","Williamson TX","Austin-Round Rock, TX (Metro)",489250,1 
+"48493","41700","Wilson TX","San Antonio-New Braunfels, TX (Metro)",46402,1 
+"48495"," ","Winkler TX"," ",7821,1 
+"48497","19100","Wise TX","Dallas-Fort Worth-Arlington, TX (Metro)",61638,1 
+"48499"," ","Wood TX"," ",42852,1 
+"48501"," ","Yoakum TX"," ",8286,1 
+"48503"," ","Young TX"," ",18350,1 
+"48505","49820","Zapata TX","Zapata, TX (Micro)",14319,1 
+"48507"," ","Zavala TX"," ",12267,1 
+"49001"," ","Beaver UT"," ",6461,1 
+"49003","36260","Box Elder UT","Ogden-Clearfield, UT (Metro)",51518,1 
+"49005","30860","Cache UT","Logan, UT-ID (Metro)",118343,1 
+"49007","39220","Carbon UT","Price, UT (Micro)",20660,1 
+"49009"," ","Daggett UT"," ",1117,1 
+"49011","36260","Davis UT","Ogden-Clearfield, UT (Metro)",329692,1 
+"49013"," ","Duchesne UT"," ",20380,1 
+"49015"," ","Emery UT"," ",10631,1 
+"49017"," ","Garfield UT"," ",5024,1 
+"49019"," ","Grand UT"," ",9429,1 
+"49021","16260","Iron UT","Cedar City, UT (Micro)",47269,1 
+"49023","39340","Juab UT","Provo-Orem, UT (Metro)",10486,1 
+"49025"," ","Kane UT"," ",7254,1 
+"49027"," ","Millard UT"," ",12606,1 
+"49029","36260","Morgan UT","Ogden-Clearfield, UT (Metro)",10608,1 
+"49031"," ","Piute UT"," ",1484,1 
+"49033"," ","Rich UT"," ",2293,1 
+"49035","41620","Salt Lake UT","Salt Lake City, UT (Metro)",1091742,1 
+"49037"," ","San Juan UT"," ",15251,1 
+"49039"," ","Sanpete UT"," ",28477,1 
+"49041"," ","Sevier UT"," ",20773,1 
+"49043","44920","Summit UT","Summit Park, UT (Micro)",39105,1 
+"49045","41620","Tooele UT","Salt Lake City, UT (Metro)",61598,1 
+"49047","46860","Uintah UT","Vernal, UT (Micro)",36867,1 
+"49049","39340","Utah UT","Provo-Orem, UT (Metro)",560974,1 
+"49051","25720","Wasatch UT","Heber, UT (Micro)",27714,1 
+"49053","41100","Washington UT","St. George, UT (Metro)",151948,1 
+"49055"," ","Wayne UT"," ",2723,1 
+"49057","36260","Weber UT","Ogden-Clearfield, UT (Metro)",240475,1 
+"50001"," ","Addison VT"," ",37009,1 
+"50003","13540","Bennington VT","Bennington, VT (Micro)",36445,1 
+"50005"," ","Caledonia VT"," ",30981,1 
+"50007","15540","Chittenden VT","Burlington-South Burlington, VT (Metro)",160531,1 
+"50009","13620","Essex VT","Berlin, NH-VT (Micro)",6125,1 
+"50011","15540","Franklin VT","Burlington-South Burlington, VT (Metro)",48642,1 
+"50013","15540","Grand Isle VT","Burlington-South Burlington, VT (Metro)",6994,1 
+"50015"," ","Lamoille VT"," ",25082,1 
+"50017","17200","Orange VT","Claremont-Lebanon, NH-VT (Micro)",28859,1 
+"50019"," ","Orleans VT"," ",27082,1 
+"50021","40860","Rutland VT","Rutland, VT (Micro)",60086,1 
+"50023","12740","Washington VT","Barre, VT (Micro)",58998,1 
+"50025"," ","Windham VT"," ",43714,1 
+"50027","17200","Windsor VT","Claremont-Lebanon, NH-VT (Micro)",56014,1 
+"51001"," ","Accomack VA"," ",33021,1 
+"51003","16820","Albemarle VA","Charlottesville, VA (Metro)",104489,1 
+"51005"," ","Alleghany VA"," ",15820,1 
+"51007","40060","Amelia VA","Richmond, VA (Metro)",12855,1 
+"51009","31340","Amherst VA","Lynchburg, VA (Metro)",32041,1 
+"51011","31340","Appomattox VA","Lynchburg, VA (Metro)",15279,1 
+"51013","47900","Arlington VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",226908,1 
+"51015","44420","Augusta VA","Staunton-Waynesboro, VA (Metro)",73862,1 
+"51017"," ","Bath VA"," ",4563,1 
+"51019","31340","Bedford VA (R)","Lynchburg, VA (Metro)",70117,1 
+"51021"," ","Bland VA"," ",6625,1 
+"51023","40220","Botetourt VA","Roanoke, VA (Metro)",33100,1 
+"51025"," ","Brunswick VA"," ",16498,1 
+"51027"," ","Buchanan VA"," ",23106,1 
+"51029","16820","Buckingham VA","Charlottesville, VA (Metro)",16913,1 
+"51031","31340","Campbell VA","Lynchburg, VA (Metro)",54885,1 
+"51033","40060","Caroline VA","Richmond, VA (Metro)",29778,1 
+"51035"," ","Carroll VA"," ",29621,1 
+"51036","40060","Charles City VA","Richmond, VA (Metro)",7023,1 
+"51037"," ","Charlotte VA"," ",12225,1 
+"51041","40060","Chesterfield VA","Richmond, VA (Metro)",332499,1 
+"51043","47900","Clarke VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",14423,1 
+"51045","40220","Craig VA","Roanoke, VA (Metro)",5234,1 
+"51047","47900","Culpeper VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",49166,1 
+"51049"," ","Cumberland VA"," ",9827,1 
+"51051","13720","Dickenson VA","Big Stone Gap, VA (Micro)",15308,1 
+"51053","40060","Dinwiddie VA","Richmond, VA (Metro)",27859,1 
+"51057"," ","Essex VA"," ",11103,1 
+"51059","47900","Fairfax VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",1137538,1 
+"51061","47900","Fauquier VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",68248,1 
+"51063","13980","Floyd VA","Blacksburg-Christiansburg-Radford, VA (Metro)",15578,1 
+"51065","16820","Fluvanna VA","Charlottesville, VA (Metro)",26092,1 
+"51067","40220","Franklin VA","Roanoke, VA (Metro)",56358,1 
+"51069","49020","Frederick VA","Winchester, VA-WV (Metro)",82377,1 
+"51071","13980","Giles VA","Blacksburg-Christiansburg-Radford, VA (Metro)",16815,1 
+"51073","47260","Gloucester VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",37141,1 
+"51075","40060","Goochland VA","Richmond, VA (Metro)",21936,1 
+"51077"," ","Grayson VA"," ",15093,1 
+"51079","16820","Greene VA","Charlottesville, VA (Metro)",19031,1 
+"51081"," ","Greensville VA"," ",11681,1 
+"51083"," ","Halifax VA"," ",35200,1 
+"51085","40060","Hanover VA","Richmond, VA (Metro)",101918,1 
+"51087","40060","Henrico VA","Richmond, VA (Metro)",321924,1 
+"51089","32300","Henry VA","Martinsville, VA (Micro)",52081,1 
+"51091"," ","Highland VA"," ",2248,1 
+"51093","47260","Isle of Wight VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",36007,1 
+"51095","47260","James City VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",72583,1 
+"51097"," ","King and Queen VA"," ",7175,1 
+"51099"," ","King George VA"," ",25371,1 
+"51101","40060","King William VA","Richmond, VA (Metro)",16186,1 
+"51103"," ","Lancaster VA"," ",11044,1 
+"51105"," ","Lee VA"," ",24951,1 
+"51107","47900","Loudoun VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",363050,1 
+"51109"," ","Louisa VA"," ",34348,1 
+"51111"," ","Lunenburg VA"," ",12466,1 
+"51113"," ","Madison VA"," ",13157,1 
+"51115","47260","Mathews VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",8836,1 
+"51117"," ","Mecklenburg VA"," ",31192,1 
+"51119"," ","Middlesex VA"," ",10696,1 
+"51121","13980","Montgomery VA","Blacksburg-Christiansburg-Radford, VA (Metro)",97244,1 
+"51125","16820","Nelson VA","Charlottesville, VA (Metro)",14850,1 
+"51127","40060","New Kent VA","Richmond, VA (Metro)",20021,1 
+"51131"," ","Northampton VA"," ",12121,1 
+"51133"," ","Northumberland VA"," ",12251,1 
+"51135"," ","Nottoway VA"," ",15579,1 
+"51137"," ","Orange VA"," ",35026,1 
+"51139"," ","Page VA"," ",23848,1 
+"51141"," ","Patrick VA"," ",18264,1 
+"51143","19260","Pittsylvania VA","Danville, VA (Micro)",62383,1 
+"51145","40060","Powhatan VA","Richmond, VA (Metro)",28449,1 
+"51147"," ","Prince Edward VA"," ",23074,1 
+"51149","40060","Prince George VA","Richmond, VA (Metro)",37333,1 
+"51153","47900","Prince William VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",446094,1 
+"51155","13980","Pulaski VA","Blacksburg-Christiansburg-Radford, VA (Metro)",34322,1 
+"51157","47900","Rappahannock VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",7361,1 
+"51159"," ","Richmond VA"," ",8902,1 
+"51161","40220","Roanoke VA","Roanoke, VA (Metro)",93785,1 
+"51163"," ","Rockbridge VA"," ",22327,1 
+"51165","25500","Rockingham VA","Harrisonburg, VA (Metro)",78171,1 
+"51167"," ","Russell VA"," ",28023,1 
+"51169","28700","Scott VA","Kingsport-Bristol-Bristol, TN-VA (Metro)",22384,1 
+"51171"," ","Shenandoah VA"," ",43021,1 
+"51173"," ","Smyth VA"," ",31555,1 
+"51175"," ","Southampton VA"," ",18059,1 
+"51177","47900","Spotsylvania VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",129188,1 
+"51179","47900","Stafford VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",139992,1 
+"51181"," ","Surry VA"," ",6790,1 
+"51183","40060","Sussex VA","Richmond, VA (Metro)",11767,1 
+"51185","14140","Tazewell VA","Bluefield, WV-VA (Micro)",43452,1 
+"51187","47900","Warren VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",38987,1 
+"51191","28700","Washington VA","Kingsport-Bristol-Bristol, TN-VA (Metro)",54729,1 
+"51193"," ","Westmoreland VA"," ",17477,1 
+"51195","13720","Wise VA","Big Stone Gap, VA (Micro)",39935,1 
+"51197"," ","Wythe VA"," ",29121,1 
+"51199","47260","York VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",66342,1 
+"51510","47900","Alexandria city VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",150575,1 
+"51515","31340","Bedford city VA (D)","Lynchburg, VA (Metro)",6466,1 
+"51520","28700","Bristol city VA","Kingsport-Bristol-Bristol, TN-VA (Metro)",17184,1 
+"51530"," ","Buena Vista city VA"," ",6603,1 
+"51540","16820","Charlottesville city VA","Charlottesville, VA (Metro)",45593,1 
+"51550","47260","Chesapeake city VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",233371,1 
+"51570","40060","Colonial Heights city VA","Richmond, VA (Metro)",17731,1 
+"51580"," ","Covington city VA"," ",5802,1 
+"51590","19260","Danville city VA","Danville, VA (Micro)",42444,1 
+"51595"," ","Emporia city VA"," ",5462,1 
+"51600","47900","Fairfax city VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",24483,1 
+"51610","47900","Falls Church city VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",13601,1 
+"51620"," ","Franklin city VA"," ",8526,1 
+"51630","47900","Fredericksburg city VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",28350,1 
+"51640"," ","Galax city VA"," ",7014,1 
+"51650","47260","Hampton city VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",136879,1 
+"51660","25500","Harrisonburg city VA","Harrisonburg, VA (Metro)",52478,1 
+"51670","40060","Hopewell city VA","Richmond, VA (Metro)",22196,1 
+"51678"," ","Lexington city VA"," ",7311,1 
+"51680","31340","Lynchburg city VA","Lynchburg, VA (Metro)",79047,1 
+"51683","47900","Manassas city VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",42081,1 
+"51685","47900","Manassas Park city VA","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",15174,1 
+"51690","32300","Martinsville city VA","Martinsville, VA (Micro)",13711,1 
+"51700","47260","Newport News city VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",182965,1 
+"51710","47260","Norfolk city VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",245428,1 
+"51720","13720","Norton city VA","Big Stone Gap, VA (Micro)",4031,1 
+"51730","40060","Petersburg city VA","Richmond, VA (Metro)",32701,1 
+"51735","47260","Poquoson city VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",12048,1 
+"51740","47260","Portsmouth city VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",96004,1 
+"51750","13980","Radford city VA","Blacksburg-Christiansburg-Radford, VA (Metro)",17646,1 
+"51760","40060","Richmond city VA","Richmond, VA (Metro)",217853,1 
+"51770","40220","Roanoke city VA","Roanoke, VA (Metro)",99428,1 
+"51775","40220","Salem city VA","Roanoke, VA (Metro)",25483,1 
+"51790","44420","Staunton city VA","Staunton-Waynesboro, VA (Metro)",24538,1 
+"51800","47260","Suffolk city VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",86806,1 
+"51810","47260","Virginia Beach city VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",450980,1 
+"51820","44420","Waynesboro city VA","Staunton-Waynesboro, VA (Metro)",21366,1 
+"51830","47260","Williamsburg city VA","Virginia Beach-Norfolk-Newport News, VA-NC (Metro)",14691,1 
+"51840","49020","Winchester city VA","Winchester, VA-WV (Metro)",27543,1 
+"53001","36830","Adams WA","Othello, WA (Micro)",19179,1 
+"53003","30300","Asotin WA","Lewiston, ID-WA (Metro)",22189,1 
+"53005","28420","Benton WA","Kennewick-Richland, WA (Metro)",186486,1 
+"53007","48300","Chelan WA","Wenatchee, WA (Metro)",74588,1 
+"53009","38820","Clallam WA","Port Angeles, WA (Micro)",72715,1 
+"53011","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",451008,1 
+"53013","47460","Columbia WA","Walla Walla, WA (Metro)",3985,1 
+"53015","31020","Cowlitz WA","Longview, WA (Metro)",102133,1 
+"53017","48300","Douglas WA","Wenatchee, WA (Metro)",39804,1 
+"53019"," ","Ferry WA"," ",7667,1 
+"53021","28420","Franklin WA","Kennewick-Richland, WA (Metro)",87809,1 
+"53023"," ","Garfield WA"," ",2215,1 
+"53025","34180","Grant WA","Moses Lake, WA (Micro)",93147,1 
+"53027","10140","Grays Harbor WA","Aberdeen, WA (Micro)",70818,1 
+"53029","36020","Island WA","Oak Harbor, WA (Micro)",79275,1 
+"53031"," ","Jefferson WA"," ",30228,1 
+"53033","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2079967,1 
+"53035","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",254183,1 
+"53037","21260","Kittitas WA","Ellensburg, WA (Micro)",42522,1 
+"53039"," ","Klickitat WA"," ",20861,1 
+"53041","16500","Lewis WA","Centralia, WA (Micro)",75128,1 
+"53043"," ","Lincoln WA"," ",10250,1 
+"53045","43220","Mason WA","Shelton, WA (Micro)",60711,1 
+"53047"," ","Okanogan WA"," ",41290,1 
+"53049"," ","Pacific WA"," ",20561,1 
+"53051","44060","Pend Oreille WA","Spokane-Spokane Valley, WA (Metro)",12985,1 
+"53053","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",831928,1 
+"53055"," ","San Juan WA"," ",16015,1 
+"53057","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",120365,1 
+"53059","38900","Skamania WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",11340,1 
+"53061","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",759583,1 
+"53063","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",484318,1 
+"53065","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",43650,1 
+"53067","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",265851,1 
+"53069"," ","Wahkiakum WA"," ",4067,1 
+"53071","47460","Walla Walla WA","Walla Walla, WA (Metro)",59844,1 
+"53073","13380","Whatcom WA","Bellingham, WA (Metro)",208351,1 
+"53075","39420","Whitman WA","Pullman, WA (Micro)",46827,1 
+"53077","49420","Yakima WA","Yakima, WA (Metro)",247687,1 
+"54001"," ","Barbour WV"," ",16766,1 
+"54003","25180","Berkeley WV","Hagerstown-Martinsburg, MD-WV (Metro)",110497,1 
+"54005","16620","Boone WV","Charleston, WV (Metro)",23714,1 
+"54007"," ","Braxton WV"," ",14463,1 
+"54009","48260","Brooke WV","Weirton-Steubenville, WV-OH (Metro)",23530,1 
+"54011","26580","Cabell WV","Huntington-Ashland, WV-KY-OH (Metro)",97109,1 
+"54013"," ","Calhoun WV"," ",7513,1 
+"54015","16620","Clay WV","Charleston, WV (Metro)",8941,1 
+"54017","17220","Doddridge WV","Clarksburg, WV (Micro)",8391,1 
+"54019","13220","Fayette WV","Beckley, WV (Metro)",45132,1 
+"54021"," ","Gilmer WV"," ",8618,1 
+"54023"," ","Grant WV"," ",11687,1 
+"54025"," ","Greenbrier WV"," ",35450,1 
+"54027","49020","Hampshire WV","Winchester, VA-WV (Metro)",23483,1 
+"54029","48260","Hancock WV","Weirton-Steubenville, WV-OH (Metro)",30112,1 
+"54031"," ","Hardy WV"," ",13923,1 
+"54033","17220","Harrison WV","Clarksburg, WV (Micro)",68761,1 
+"54035"," ","Jackson WV"," ",29126,1 
+"54037","47900","Jefferson WV","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metro)",55713,1 
+"54039","16620","Kanawha WV","Charleston, WV (Metro)",190223,1 
+"54041"," ","Lewis WV"," ",16414,1 
+"54043","26580","Lincoln WV","Huntington-Ashland, WV-KY-OH (Metro)",21561,1 
+"54045","30880","Logan WV","Logan, WV (Micro)",35348,1 
+"54047"," ","McDowell WV"," ",20448,1 
+"54049","21900","Marion WV","Fairmont, WV (Micro)",56803,1 
+"54051","48540","Marshall WV","Wheeling, WV-OH (Metro)",32416,1 
+"54053","38580","Mason WV","Point Pleasant, WV-OH (Micro)",27016,1 
+"54055","14140","Mercer WV","Bluefield, WV-VA (Micro)",61785,1 
+"54057","19060","Mineral WV","Cumberland, MD-WV (Metro)",27578,1 
+"54059"," ","Mingo WV"," ",25716,1 
+"54061","34060","Monongalia WV","Morgantown, WV (Metro)",103463,1 
+"54063"," ","Monroe WV"," ",13582,1 
+"54065"," ","Morgan WV"," ",17453,1 
+"54067"," ","Nicholas WV"," ",25827,1 
+"54069","48540","Ohio WV","Wheeling, WV-OH (Metro)",43328,1 
+"54071"," ","Pendleton WV"," ",7371,1 
+"54073"," ","Pleasants WV"," ",7634,1 
+"54075"," ","Pocahontas WV"," ",8662,1 
+"54077","34060","Preston WV","Morgantown, WV (Metro)",33788,1 
+"54079","26580","Putnam WV","Huntington-Ashland, WV-KY-OH (Metro)",56770,1 
+"54081","13220","Raleigh WV","Beckley, WV (Metro)",78241,1 
+"54083","21180","Randolph WV","Elkins, WV (Micro)",29429,1 
+"54085"," ","Ritchie WV"," ",10011,1 
+"54087"," ","Roane WV"," ",14664,1 
+"54089"," ","Summers WV"," ",13417,1 
+"54091","17220","Taylor WV","Clarksburg, WV (Micro)",17069,1 
+"54093"," ","Tucker WV"," ",6927,1 
+"54095"," ","Tyler WV"," ",9098,1 
+"54097"," ","Upshur WV"," ",24731,1 
+"54099","26580","Wayne WV","Huntington-Ashland, WV-KY-OH (Metro)",41122,1 
+"54101"," ","Webster WV"," ",8834,1 
+"54103"," ","Wetzel WV"," ",15988,1 
+"54105","37620","Wirt WV","Parkersburg-Vienna, WV (Metro)",5845,1 
+"54107","37620","Wood WV","Parkersburg-Vienna, WV (Metro)",86237,1 
+"54109"," ","Wyoming WV"," ",22598,1 
+"55001"," ","Adams WI"," ",20215,1 
+"55003"," ","Ashland WI"," ",16103,1 
+"55005"," ","Barron WI"," ",45455,1 
+"55007"," ","Bayfield WI"," ",14985,1 
+"55009","24580","Brown WI","Green Bay, WI (Metro)",256670,1 
+"55011"," ","Buffalo WI"," ",13188,1 
+"55013"," ","Burnett WI"," ",15328,1 
+"55015","11540","Calumet WI","Appleton, WI (Metro)",49491,1 
+"55017","20740","Chippewa WI","Eau Claire, WI (Metro)",63460,1 
+"55019"," ","Clark WI"," ",34423,1 
+"55021","31540","Columbia WI","Madison, WI (Metro)",56615,1 
+"55023"," ","Crawford WI"," ",16392,1 
+"55025","31540","Dane WI","Madison, WI (Metro)",516284,1 
+"55027","13180","Dodge WI","Beaver Dam, WI (Micro)",88574,1 
+"55029"," ","Door WI"," ",27766,1 
+"55031","20260","Douglas WI","Duluth, MN-WI (Metro)",43698,1 
+"55033","32860","Dunn WI","Menomonie, WI (Micro)",44305,1 
+"55035","20740","Eau Claire WI","Eau Claire, WI (Metro)",101564,1 
+"55037","27020","Florence WI","Iron Mountain, MI-WI (Micro)",4481,1 
+"55039","22540","Fond du Lac WI","Fond du Lac, WI (Metro)",101759,1 
+"55041"," ","Forest WI"," ",9127,1 
+"55043","38420","Grant WI","Platteville, WI (Micro)",51829,1 
+"55045","31540","Green WI","Madison, WI (Metro)",37063,1 
+"55047"," ","Green Lake WI"," ",18836,1 
+"55049","31540","Iowa WI","Madison, WI (Metro)",23825,1 
+"55051"," ","Iron WI"," ",5917,1 
+"55053"," ","Jackson WI"," ",20652,1 
+"55055","48020","Jefferson WI","Watertown-Fort Atkinson, WI (Micro)",84395,1 
+"55057"," ","Juneau WI"," ",26395,1 
+"55059","16980","Kenosha WI","Chicago-Naperville-Elgin, IL-IN-WI (Metro)",168068,1 
+"55061","24580","Kewaunee WI","Green Bay, WI (Metro)",20444,1 
+"55063","29100","La Crosse WI","La Crosse-Onalaska, WI-MN (Metro)",118011,1 
+"55065"," ","Lafayette WI"," ",16853,1 
+"55067"," ","Langlade WI"," ",19410,1 
+"55069","32980","Lincoln WI","Merrill, WI (Micro)",28493,1 
+"55071","31820","Manitowoc WI","Manitowoc, WI (Micro)",80160,1 
+"55073","48140","Marathon WI","Wausau, WI (Metro)",135780,1 
+"55075","31940","Marinette WI","Marinette, WI-MI (Micro)",41298,1 
+"55077"," ","Marquette WI"," ",15050,1 
+"55078","43020","Menominee WI","Shawano, WI (Micro)",4522,1 
+"55079","33340","Milwaukee WI","Milwaukee-Waukesha-West Allis, WI (Metro)",956406,1 
+"55081"," ","Monroe WI"," ",45379,1 
+"55083","24580","Oconto WI","Green Bay, WI (Metro)",37417,1 
+"55085"," ","Oneida WI"," ",35563,1 
+"55087","11540","Outagamie WI","Appleton, WI (Metro)",182006,1 
+"55089","33340","Ozaukee WI","Milwaukee-Waukesha-West Allis, WI (Metro)",87470,1 
+"55091"," ","Pepin WI"," ",7335,1 
+"55093","33460","Pierce WI","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",40958,1 
+"55095"," ","Polk WI"," ",43437,1 
+"55097","44620","Portage WI","Stevens Point, WI (Micro)",70482,1 
+"55099"," ","Price WI"," ",13675,1 
+"55101","39540","Racine WI","Racine, WI (Metro)",195163,1 
+"55103"," ","Richland WI"," ",17662,1 
+"55105","27500","Rock WI","Janesville-Beloit, WI (Metro)",161188,1 
+"55107"," ","Rusk WI"," ",14333,1 
+"55109","33460","St. Croix WI","Minneapolis-St. Paul-Bloomington, MN-WI (Metro)",86759,1 
+"55111","12660","Sauk WI","Baraboo, WI (Micro)",63379,1 
+"55113"," ","Sawyer WI"," ",16437,1 
+"55115","43020","Shawano WI","Shawano, WI (Micro)",41579,1 
+"55117","43100","Sheboygan WI","Sheboygan, WI (Metro)",115290,1 
+"55119"," ","Taylor WI"," ",20540,1 
+"55121"," ","Trempealeau WI"," ",29509,1 
+"55123"," ","Vernon WI"," ",30362,1 
+"55125"," ","Vilas WI"," ",21398,1 
+"55127","48580","Walworth WI","Whitewater-Elkhorn, WI (Micro)",103527,1 
+"55129"," ","Washburn WI"," ",15694,1 
+"55131","33340","Washington WI","Milwaukee-Waukesha-West Allis, WI (Metro)",133251,1 
+"55133","33340","Waukesha WI","Milwaukee-Waukesha-West Allis, WI (Metro)",395118,1 
+"55135"," ","Waupaca WI"," ",52066,1 
+"55137"," ","Waushara WI"," ",24178,1 
+"55139","36780","Winnebago WI","Oshkosh-Neenah, WI (Metro)",169511,1 
+"55141","49220","Wood WI","Wisconsin Rapids-Marshfield, WI (Micro)",73608,1 
+"56001","29660","Albany WY","Laramie, WY (Micro)",37811,1 
+"56003"," ","Big Horn WY"," ",11930,1 
+"56005","23940","Campbell WY","Gillette, WY (Micro)",48320,1 
+"56007"," ","Carbon WY"," ",15854,1 
+"56009"," ","Converse WY"," ",14097,1 
+"56011"," ","Crook WY"," ",7248,1 
+"56013","40180","Fremont WY","Riverton, WY (Micro)",40703,1 
+"56015"," ","Goshen WY"," ",13514,1 
+"56017"," ","Hot Springs WY"," ",4816,1 
+"56019"," ","Johnson WY"," ",8573,1 
+"56021","16940","Laramie WY","Cheyenne, WY (Metro)",96389,1 
+"56023"," ","Lincoln WY"," ",18567,1 
+"56025","16220","Natrona WY","Casper, WY (Metro)",81624,1 
+"56027"," ","Niobrara WY"," ",2463,1 
+"56029"," ","Park WY"," ",28989,1 
+"56031"," ","Platte WY"," ",8799,1 
+"56033","43260","Sheridan WY","Sheridan, WY (Micro)",30032,1 
+"56035"," ","Sublette WY"," ",10057,1 
+"56037","40540","Sweetwater WY","Rock Springs, WY (Micro)",45010,1 
+"56039","27220","Teton WY","Jackson, WY-ID (Micro)",22930,1 
+"56041","21740","Uinta WY","Evanston, WY (Micro)",20904,1 
+"56043"," ","Washakie WY"," ",8322,1 
+"56045"," ","Weston WY"," ",7201,1 
